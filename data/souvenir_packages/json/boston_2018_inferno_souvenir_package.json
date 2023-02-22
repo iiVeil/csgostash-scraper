@@ -1,6 +1,7 @@
 {
   "name": "Boston 2018 Inferno Souvenir Package",
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUVJnMQtZ5Or0czhwwfzFfgJG6eO_moaOhfn7fb7TkzgC7ZIo0-uRotrx2wzg-RFsYTuncNLGew5sZlDTrwC-l-u80JKi_MOePGgtVF0/256fx256f",
+  "price": "10.06",
   "content": {
     "Rare Special Items": [],
     "Covert Skins": [],
@@ -9,9 +10,21 @@
     "Mil-Spec Skins": [
       {
         "name": "Tec-9 | Brass",
+        "id": "45",
         "desc": "It has brass parts.",
+        "prices": {
+          "Factory New": "15.15",
+          "Minimal Wear": "2.84",
+          "Field-Tested": "0.86",
+          "Well-Worn": "0.81",
+          "Battle-Scarred": "0.85",
+          "Souvenir Factory New": "77.89",
+          "Souvenir Minimal Wear": "17.96",
+          "Souvenir Field-Tested": "11.39",
+          "Souvenir Well-Worn": "10.37",
+          "Souvenir Battle-Scarred": "9.38"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -24,9 +37,21 @@
       },
       {
         "name": "Dual Berettas | Anodized Navy",
+        "id": "47",
         "desc": "It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+        "prices": {
+          "Factory New": "1.07",
+          "Minimal Wear": "2.18",
+          "Field-Tested": "Not Possible",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible",
+          "Souvenir Factory New": "5.26",
+          "Souvenir Minimal Wear": "11.84",
+          "Souvenir Field-Tested": "Not Possible",
+          "Souvenir Well-Worn": "Not Possible",
+          "Souvenir Battle-Scarred": "Not Possible"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -38,9 +63,21 @@
     "Industrial Grade Skins": [
       {
         "name": "P250 | Gunsmoke",
+        "id": "46",
         "desc": "It has been painted using a hydrographic of a gel pen doodle.",
+        "prices": {
+          "Factory New": "15.44",
+          "Minimal Wear": "2.46",
+          "Field-Tested": "0.87",
+          "Well-Worn": "1.16",
+          "Battle-Scarred": "0.85",
+          "Souvenir Factory New": "56.38",
+          "Souvenir Minimal Wear": "7.02",
+          "Souvenir Field-Tested": "2.12",
+          "Souvenir Well-Worn": "2.37",
+          "Souvenir Battle-Scarred": "1.53"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -53,9 +90,21 @@
       },
       {
         "name": "M4A4 | Tornado",
+        "id": "44",
         "desc": "It has individual parts spray-painted solid colors in a tornado color scheme.",
+        "prices": {
+          "Factory New": "45.67",
+          "Minimal Wear": "4.29",
+          "Field-Tested": "1.16",
+          "Well-Worn": "2.55",
+          "Battle-Scarred": "2.16",
+          "Souvenir Factory New": "117.07",
+          "Souvenir Minimal Wear": "10.74",
+          "Souvenir Field-Tested": "3.92",
+          "Souvenir Well-Worn": "5.22",
+          "Souvenir Battle-Scarred": "3.87"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -69,25 +118,22 @@
     ],
     "Consumer Grade Skins": [
       {
-        "name": "Nova | Walnut",
-        "desc": "It has a figured walnut stock.",
-        "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj4OrzZglRd6dd2j6eSrY_x2FLs80JqYTynLI7AIA4_NQ7X-we7l7zujZe_tc7KmHFl6Scl-z-DyNBQmnDO/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj4OrzZglRd6dd2j6eSrY_x2FLs80JqYTynLI7AIA4_NQ7X-we7l7zujZe_tc7KmHFl6Scl-z-DyNBQmnDO/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj5Nr_Yg2Zu5MRjjeyPpduj2lDj_UJvYWj2J9KSewU4ZwzRrgS3wO69h8C07ZudynIx63F2s2GdwUL3zT1Nvw/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj5Nr_Yg2Zu5MRjjeyPpduj2lDj_UJvYWj2J9KSewU4ZwzRrgS3wO69h8C07ZudynIx63F2s2GdwUL3zT1Nvw/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj8NrrHj1Rd6dd2j6eQoNz22lXm80VoZWylcdWcJFI_YArSrAPqybrohZfqv5_KwHMyuyV3-z-DyDfyxcSM/512fx384f"
-        }
-      },
-      {
         "name": "MAG-7 | Sand Dune",
+        "id": "48",
         "desc": "It has individual parts spray-painted solid colors in a sand dune color scheme.",
+        "prices": {
+          "Factory New": "9.20",
+          "Minimal Wear": "1.84",
+          "Field-Tested": "0.65",
+          "Well-Worn": "0.89",
+          "Battle-Scarred": "1.30",
+          "Souvenir Factory New": "5.69",
+          "Souvenir Minimal Wear": "0.65",
+          "Souvenir Field-Tested": "0.17",
+          "Souvenir Well-Worn": "0.20",
+          "Souvenir Battle-Scarred": "0.19"
+        },
         "lore": "With Turner dead, we have a new priority: rescue Alex Kincaide - Felix Riley, Commanding Officer",
-        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -96,6 +142,33 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09GzkImemsj4MqnWkyUI6pMi0urA943wjQG3rUdpZj2lcY6TJwVvYF3S_FO8wbrp0JTv6JvA1zI97YJuAd3e/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09GzkImemsj4MqnWkyUI6pMi0urA943wjQG3rUdpZj2lcY6TJwVvYF3S_FO8wbrp0JTv6JvA1zI97YJuAd3e/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09SzlZaSqPv1IbzU2G4DscAijOiRo9mh0AW1-Eo4YG-hItKVcwc6YQ6Fr1jrxLrph5C-7prXiSw0zYJ8lNc/512fx384f"
+        }
+      },
+      {
+        "name": "Nova | Walnut",
+        "id": "43",
+        "desc": "It has a figured walnut stock.",
+        "prices": {
+          "Factory New": "10.49",
+          "Minimal Wear": "2.08",
+          "Field-Tested": "0.98",
+          "Well-Worn": "1.10",
+          "Battle-Scarred": "0.95",
+          "Souvenir Factory New": "14.53",
+          "Souvenir Minimal Wear": "1.73",
+          "Souvenir Field-Tested": "0.83",
+          "Souvenir Well-Worn": "0.81",
+          "Souvenir Battle-Scarred": "0.78"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj4OrzZglRd6dd2j6eSrY_x2FLs80JqYTynLI7AIA4_NQ7X-we7l7zujZe_tc7KmHFl6Scl-z-DyNBQmnDO/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj4OrzZglRd6dd2j6eSrY_x2FLs80JqYTynLI7AIA4_NQ7X-we7l7zujZe_tc7KmHFl6Scl-z-DyNBQmnDO/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj5Nr_Yg2Zu5MRjjeyPpduj2lDj_UJvYWj2J9KSewU4ZwzRrgS3wO69h8C07ZudynIx63F2s2GdwUL3zT1Nvw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj5Nr_Yg2Zu5MRjjeyPpduj2lDj_UJvYWj2J9KSewU4ZwzRrgS3wO69h8C07ZudynIx63F2s2GdwUL3zT1Nvw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj8NrrHj1Rd6dd2j6eQoNz22lXm80VoZWylcdWcJFI_YArSrAPqybrohZfqv5_KwHMyuyV3-z-DyDfyxcSM/512fx384f"
         }
       }
     ]

@@ -36,8 +36,8 @@ class SouvenirPackage(Container):
     __slots__ = ('name', 'icon', 'collection',
                  'content', 'has_multiple_collections')
 
-    def __init__(self, name: str, icon: str, collection: list):
-        super().__init__(name, icon)
+    def __init__(self, name: str, icon: str, collection: list, price):
+        super().__init__(name, icon, price)
 
         if len(collection) == 1:
             self.collection = collection[0]
@@ -90,7 +90,8 @@ class SouvenirPackage(Container):
         name = d['name']
         icon = d['icon']
         collection = d['collection']
+        price = d['price']
 
-        _cls = cls(name, icon, collection)
+        _cls = cls(name, icon, collection, price)
         _cls._spawned = False
         return _cls

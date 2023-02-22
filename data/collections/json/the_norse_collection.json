@@ -1,14 +1,21 @@
 {
   "name": "The Norse Collection",
-  "image_url": "https://csgostash.com/img/collections/256x198/the_norse_collection.png?id=db9cdae0f0bce20689e2",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_norse_collection.png?id=db9cdae0f0bce20689e2f944bb1a364f",
   "content": {
     "Rare Special Items": [],
     "Covert Skins": [
       {
         "name": "AWP | Gungnir",
+        "id": "1181",
         "desc": "Odin's spear travels down this custom painted pearlescent blue and ivory AWP.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "No Recent Price",
+          "Field-Tested": "No Recent Price",
+          "Well-Worn": "No Recent Price",
+          "Battle-Scarred": "No Recent Price"
+        },
         "lore": "A weapon for the Allfather",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -23,9 +30,16 @@
     "Classified Skins": [
       {
         "name": "Negev | Mjölnir",
+        "id": "1180",
         "desc": "It has been custom painted red and features a number of Norse runes.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "No Recent Price",
+          "Field-Tested": "1,649.30",
+          "Well-Worn": "No Recent Price",
+          "Battle-Scarred": "1,600.00"
+        },
         "lore": "\"This is all Loki's fault…\"",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -39,10 +53,39 @@
     ],
     "Restricted Skins": [
       {
-        "name": "Desert Eagle | Emerald Jörmungandr",
-        "desc": "A green pattern depicting Jörmungandr, the World Serpent, has been applied.",
+        "name": "AUG | Flame Jörmungandr",
+        "id": "1177",
+        "desc": "An orange pattern depicting Jörmungandr, the World Serpent, has been applied.",
+        "prices": {
+          "Factory New": "220.26",
+          "Minimal Wear": "220.26",
+          "Field-Tested": "211.75",
+          "Well-Worn": "245.72",
+          "Battle-Scarred": "402.89"
+        },
         "lore": "Wake the gods",
-        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PnHYzB94863moeOqPv9NLPFqWdQ-sJ0xLjF896t2AzhqkI-MGjzctCScABsaQnV_ge7kufr1sXtvZXBySQ3uyk8pSGK0PqJzoA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PnHYzB94863moeOqPv9NLPFqWdQ-sJ0xLjF896t2AzhqkI-MGjzctCScABsaQnV_ge7kufr1sXtvZXBySQ3uyk8pSGK0PqJzoA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PnHYzB94863moeOqPrxN7LEm1Rd6dd2j6eQ896njQO1-xY-YT3zcYfAIQQ3YVCF81G4wr3n0Ze07pvLm3dnvyQj-z-DyI2Y3qY5/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PnHYzB94863moeOqPrxN7LEm1Rd6dd2j6eQ896njQO1-xY-YT3zcYfAIQQ3YVCF81G4wr3n0Ze07pvLm3dnvyQj-z-DyI2Y3qY5/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PnHYzB94863moeOqP_xMq3IqWdQ-sJ0xOzE99jxjVbt-ktoMGv3JYOUegI4YwvR_lbqlb-80JK-tZqbnHYw6Sg8pSGKMMS6wmw/512fx384f"
+        }
+      },
+      {
+        "name": "Desert Eagle | Emerald Jörmungandr",
+        "id": "1178",
+        "desc": "A green pattern depicting Jörmungandr, the World Serpent, has been applied.",
+        "prices": {
+          "Factory New": "207.51",
+          "Minimal Wear": "203.35",
+          "Field-Tested": "194.73",
+          "Well-Worn": "200.68",
+          "Battle-Scarred": "212.82"
+        },
+        "lore": "Wake the gods",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -55,9 +98,16 @@
       },
       {
         "name": "P90 | Astral Jörmungandr",
+        "id": "1179",
         "desc": "A silver and blue pattern depicting Jörmungandr, the World Serpent, has been applied.",
+        "prices": {
+          "Factory New": "225.63",
+          "Minimal Wear": "248.45",
+          "Field-Tested": "229.65",
+          "Well-Worn": "319.24",
+          "Battle-Scarred": "212.82"
+        },
         "lore": "Wake the gods",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -67,59 +117,21 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZt7PnHYzB97tCjkb-GkvP9JrbummpD78A_jL2T9oqm2QTi8xdrZj2hLYaScAM-NFGC-Fa-yL26h5O8v53PwXAwuT5iuyhxNktUCA/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZt7PnHYzB97tCjkb-DkvbiKoTdl3lW7Ysl07qQoI6j3QTg8kdqaj_3dYeWJ1NqM1vXq1a7wuvq0Ze16ZucwHU1pGB8svPUUdiT/512fx384f"
         }
-      },
-      {
-        "name": "AUG | Flame Jörmungandr",
-        "desc": "An orange pattern depicting Jörmungandr, the World Serpent, has been applied.",
-        "lore": "Wake the gods",
-        "date_added": "19 November 2019",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PnHYzB94863moeOqPv9NLPFqWdQ-sJ0xLjF896t2AzhqkI-MGjzctCScABsaQnV_ge7kufr1sXtvZXBySQ3uyk8pSGK0PqJzoA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PnHYzB94863moeOqPv9NLPFqWdQ-sJ0xLjF896t2AzhqkI-MGjzctCScABsaQnV_ge7kufr1sXtvZXBySQ3uyk8pSGK0PqJzoA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PnHYzB94863moeOqPrxN7LEm1Rd6dd2j6eQ896njQO1-xY-YT3zcYfAIQQ3YVCF81G4wr3n0Ze07pvLm3dnvyQj-z-DyI2Y3qY5/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PnHYzB94863moeOqPrxN7LEm1Rd6dd2j6eQ896njQO1-xY-YT3zcYfAIQQ3YVCF81G4wr3n0Ze07pvLm3dnvyQj-z-DyI2Y3qY5/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PnHYzB94863moeOqP_xMq3IqWdQ-sJ0xOzE99jxjVbt-ktoMGv3JYOUegI4YwvR_lbqlb-80JK-tZqbnHYw6Sg8pSGKMMS6wmw/512fx384f"
-        }
       }
     ],
     "Mil-Spec Skins": [
       {
-        "name": "SCAR-20 | Brass",
-        "desc": "It has brass parts.",
-        "lore": "This item has no Lore",
-        "date_added": "19 November 2019",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTj9Q7c-lq4yCkP_gDLfQhGxUppFz3rCW893w3FXg-RJpMG_3IYedc1c_ZFvUqQK8ye3thcO_6pvBzXB9-n51bjDLWd0/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTj9Q7c-lq4yCkP_gDLfQhGxUppFz3rCW893w3FXg-RJpMG_3IYedc1c_ZFvUqQK8ye3thcO_6pvBzXB9-n51bjDLWd0/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTj9Q7c-lq42Ok_7hPoTdl3lW7Ysjj7iQoNmhjAfsqkZuamymJ46WdAA2YwrZrAXtkLq7gpW86pTPnCFkpGB8siRAS0Hx/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTj9Q7c-lq42Ok_7hPoTdl3lW7Ysjj7iQoNmhjAfsqkZuamymJ46WdAA2YwrZrAXtkLq7gpW86pTPnCFkpGB8siRAS0Hx/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTj9Q7c-lq4iOluHtDLfQhGxUpsRz0r7CptSk3VXi-0poMDygcoCRdAM-YVGD-lW4xurnhpC66cnIyXN9-n519sh5Ka0/512fx384f"
-        }
-      },
-      {
-        "name": "CZ75-Auto | Emerald Quartz",
-        "desc": "It has been painted with green metallic paint and uses a crystallizing mask to create a pattern.",
-        "lore": "Everyone wants to make an impact",
-        "date_added": "19 November 2019",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73ci9b_8i3mIyCjfLwDLzDk25f18l4jeHVyoD0mlOx5UU9Nmj6JtXHJAI5M1qDqFC_lL3rgsDv6M6bmCZjvXEktHjVyUe01x9SLrs4B1ojU_U/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73ci9b_8i3mIyCjfLwDLzDk25f18l4jeHVyoD0mlOx5UU9Nmj6JtXHJAI5M1qDqFC_lL3rgsDv6M6bmCZjvXEktHjVyUe01x9SLrs4B1ojU_U/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73ci9b_8i3mIyCjfLwDLzDk25f18h0juDU-LP5iUazrl1oZm3ycIGQdQVtN1_W_1C7lbrnhZTq756fmnc273Fz4njfnUa300xJcKUx0rHpX_q6/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73ci9b_8i3mIyCjfLwDLzDk25f18h0juDU-LP5iUazrl1oZm3ycIGQdQVtN1_W_1C7lbrnhZTq756fmnc273Fz4njfnUa300xJcKUx0rHpX_q6/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73ci9b_8i3mIyCjfLwDLzDk25f1810i__YyoD0mlOx5UptN27xJo-RclU_YVGGqQC8wezrg8Dp6ZiYmnFqvXIj433dmEa00E1SLrs4C5IfJRM/512fx384f"
-        }
-      },
-      {
         "name": "XM1014 | Frost Borre",
+        "id": "1175",
         "desc": "A Norse inspired pattern of silver interlocking rings has been applied.",
+        "prices": {
+          "Factory New": "69.95",
+          "Minimal Wear": "69.72",
+          "Field-Tested": "66.81",
+          "Well-Worn": "72.27",
+          "Battle-Scarred": "1,337.10"
+        },
         "lore": "Not all clouds bring rain",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -131,10 +143,61 @@
         }
       },
       {
+        "name": "CZ75-Auto | Emerald Quartz",
+        "id": "1174",
+        "desc": "It has been painted with green metallic paint and uses a crystallizing mask to create a pattern.",
+        "prices": {
+          "Factory New": "74.49",
+          "Minimal Wear": "70.98",
+          "Field-Tested": "68.37",
+          "Well-Worn": "73.37",
+          "Battle-Scarred": "65.89"
+        },
+        "lore": "Everyone wants to make an impact",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73ci9b_8i3mIyCjfLwDLzDk25f18l4jeHVyoD0mlOx5UU9Nmj6JtXHJAI5M1qDqFC_lL3rgsDv6M6bmCZjvXEktHjVyUe01x9SLrs4B1ojU_U/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73ci9b_8i3mIyCjfLwDLzDk25f18l4jeHVyoD0mlOx5UU9Nmj6JtXHJAI5M1qDqFC_lL3rgsDv6M6bmCZjvXEktHjVyUe01x9SLrs4B1ojU_U/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73ci9b_8i3mIyCjfLwDLzDk25f18h0juDU-LP5iUazrl1oZm3ycIGQdQVtN1_W_1C7lbrnhZTq756fmnc273Fz4njfnUa300xJcKUx0rHpX_q6/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73ci9b_8i3mIyCjfLwDLzDk25f18h0juDU-LP5iUazrl1oZm3ycIGQdQVtN1_W_1C7lbrnhZTq756fmnc273Fz4njfnUa300xJcKUx0rHpX_q6/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73ci9b_8i3mIyCjfLwDLzDk25f1810i__YyoD0mlOx5UptN27xJo-RclU_YVGGqQC8wezrg8Dp6ZiYmnFqvXIj433dmEa00E1SLrs4C5IfJRM/512fx384f"
+        }
+      },
+      {
+        "name": "SCAR-20 | Brass",
+        "id": "1173",
+        "desc": "It has brass parts.",
+        "prices": {
+          "Factory New": "83.44",
+          "Minimal Wear": "73.42",
+          "Field-Tested": "70.97",
+          "Well-Worn": "63.86",
+          "Battle-Scarred": "72.19"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTj9Q7c-lq4yCkP_gDLfQhGxUppFz3rCW893w3FXg-RJpMG_3IYedc1c_ZFvUqQK8ye3thcO_6pvBzXB9-n51bjDLWd0/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTj9Q7c-lq4yCkP_gDLfQhGxUppFz3rCW893w3FXg-RJpMG_3IYedc1c_ZFvUqQK8ye3thcO_6pvBzXB9-n51bjDLWd0/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTj9Q7c-lq42Ok_7hPoTdl3lW7Ysjj7iQoNmhjAfsqkZuamymJ46WdAA2YwrZrAXtkLq7gpW86pTPnCFkpGB8siRAS0Hx/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTj9Q7c-lq42Ok_7hPoTdl3lW7Ysjj7iQoNmhjAfsqkZuamymJ46WdAA2YwrZrAXtkLq7gpW86pTPnCFkpGB8siRAS0Hx/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTj9Q7c-lq4iOluHtDLfQhGxUpsRz0r7CptSk3VXi-0poMDygcoCRdAM-YVGD-lW4xurnhpC66cnIyXN9-n519sh5Ka0/512fx384f"
+        }
+      },
+      {
         "name": "MAC-10 | Copper Borre",
+        "id": "1176",
         "desc": "A Norse inspired pattern of gold interlocking rings has been applied.",
+        "prices": {
+          "Factory New": "64.83",
+          "Minimal Wear": "68.45",
+          "Field-Tested": "60.66",
+          "Well-Worn": "61.78",
+          "Battle-Scarred": "66.53"
+        },
         "lore": "We end the way we began; in the dirt",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -148,25 +211,57 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "M4A1-S | Moss Quartz",
-        "desc": "It has been painted with dark green metallic paint and uses a crystallizing mask to create a pattern.",
-        "lore": "Everyone wants to make an impact",
-        "date_added": "19 November 2019",
+        "name": "USP-S | Pathfinder",
+        "id": "1170",
+        "desc": "It has been spray-painted with a stencil of an isometric labyrinth.",
+        "prices": {
+          "Factory New": "13.80",
+          "Minimal Wear": "14.44",
+          "Field-Tested": "15.03",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
+        "lore": "Personally I prefer the 4th edition, but the customer is always right - Booth, Arms Dealer",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Ihe7nJ7rdmmJL7cFOjujT_rPymlGxpSwwOj6rYOnJI0RpNEaE8wfsl-fs0cC46s_KwSZguiJz4iuJl0e1hhBPPbBohv2eSlnPDqRPAuDcUZ8bvNY9/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Ihe7nJ7rdmmJL7cFOjujT_rPymlGxpSwwOj6rYOnJI0RpNEaE8wfsl-fs0cC46s_KwSZguiJz4iuJl0e1hhBPPbBohv2eSlnPDqRPAuDcUZ8bvNY9/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Ihe7nJ7rdmmJL7cFOjujT_rPymlGxpSwxNj2qYdv6Lld8Ng3OrAK4w7rv0Za86MmbyyRmviB053_fmB2y0h9PbeA8haSZSw7NU6ZLTr7CWCTjW6g__g/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Ihe7nJ7rdmmJL7cFOjujT_rPymlGxpSwxNj2qYdv6Lld8Ng3OrAK4w7rv0Za86MmbyyRmviB053_fmB2y0h9PbeA8haSZSw7NU6ZLTr7CWCTjW6g__g/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Ihe7nJ7rdmmJL7cFOjujT_rPymlGxpSw0Nji1benJI0RpNEbU-AXswui8jMS_tMyfyyE1uygisXbUyxe2gBlMa-xu0PCWQAqfAKEcAuDcUTbJlS23/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4yKle7mOrXFnjlu5Mx2gv3--Y3nj1H6_UFqam6mIYSUclBrYlqGqVDsxLy8hsK5vpibyHtk7iUh4H_VlhC31QYMMLKmH8kw5w/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4yKle7mOrXFnjlu5Mx2gv3--Y3nj1H6_UFqam6mIYSUclBrYlqGqVDsxLy8hsK5vpibyHtk7iUh4H_VlhC31QYMMLKmH8kw5w/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4yKle7mOrXFnjlu5cB1g_zMyoD0mlOx5RI4MD_wJYHAI1JtN1yD-lnrkO_vhJ69v5XBn3M373EhsCuPnUOw0hhSLrs4ghELtU8/512fx384f"
+        }
+      },
+      {
+        "name": "MAG-7 | Chainmail",
+        "id": "1171",
+        "desc": "It has been painted with a semi-transparent hydrographic in a chainmail pattern over a silver base coat.",
+        "prices": {
+          "Factory New": "13.84",
+          "Minimal Wear": "17.04",
+          "Field-Tested": "14.22",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
+        "lore": "Of all the members of The Phoenix, none are more loyal to Valeria than her bodyguard Naomi",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szLeTxL4tG3nYy0m_7zO6_ummpD78A_j7_Fo4mj3Ayy_BFpammlIoLEJAQ2YV2G_1i8xu--hpC46pyby3BruT5iuyjnM2Eonw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szLeTxL4tG3nYy0m_7zO6_ummpD78A_j7_Fo4mj3Ayy_BFpammlIoLEJAQ2YV2G_1i8xu--hpC46pyby3BruT5iuyjnM2Eonw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szLeTxL4tG3nYy0mvLwOq7cqWdQ-sJ0xLvF89ys0VXj-Uo5MWr0JYWWIVA5Y1DXr1O6ku26hMC7upzAziNmvnM8pSGKx3urUy0/512fx384f"
         }
       },
       {
         "name": "Dual Berettas | Pyre",
+        "id": "1172",
         "desc": "It has been painted using a rust-tinted hydrographic of a gel pen doodle.",
+        "prices": {
+          "Factory New": "16.51",
+          "Minimal Wear": "15.96",
+          "Field-Tested": "14.30",
+          "Well-Worn": "22.23",
+          "Battle-Scarred": "14.50"
+        },
         "lore": "Honor your dead",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -178,53 +273,41 @@
         }
       },
       {
-        "name": "MAG-7 | Chainmail",
-        "desc": "It has been painted with a semi-transparent hydrographic in a chainmail pattern over a silver base coat.",
-        "lore": "Of all the members of The Phoenix, none are more loyal to Valeria than her bodyguard Naomi",
-        "date_added": "19 November 2019",
+        "name": "M4A1-S | Moss Quartz",
+        "id": "1169",
+        "desc": "It has been painted with dark green metallic paint and uses a crystallizing mask to create a pattern.",
+        "prices": {
+          "Factory New": "14.45",
+          "Minimal Wear": "12.77",
+          "Field-Tested": "12.97",
+          "Well-Worn": "13.84",
+          "Battle-Scarred": "15.96"
+        },
+        "lore": "Everyone wants to make an impact",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szLeTxL4tG3nYy0m_7zO6_ummpD78A_j7_Fo4mj3Ayy_BFpammlIoLEJAQ2YV2G_1i8xu--hpC46pyby3BruT5iuyjnM2Eonw/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szLeTxL4tG3nYy0m_7zO6_ummpD78A_j7_Fo4mj3Ayy_BFpammlIoLEJAQ2YV2G_1i8xu--hpC46pyby3BruT5iuyjnM2Eonw/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szLeTxL4tG3nYy0mvLwOq7cqWdQ-sJ0xLvF89ys0VXj-Uo5MWr0JYWWIVA5Y1DXr1O6ku26hMC7upzAziNmvnM8pSGKx3urUy0/512fx384f"
-        }
-      },
-      {
-        "name": "USP-S | Pathfinder",
-        "desc": "It has been spray-painted with a stencil of an isometric labyrinth.",
-        "lore": "Personally I prefer the 4th edition, but the customer is always right - Booth, Arms Dealer",
-        "date_added": "19 November 2019",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4yKle7mOrXFnjlu5Mx2gv3--Y3nj1H6_UFqam6mIYSUclBrYlqGqVDsxLy8hsK5vpibyHtk7iUh4H_VlhC31QYMMLKmH8kw5w/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4yKle7mOrXFnjlu5Mx2gv3--Y3nj1H6_UFqam6mIYSUclBrYlqGqVDsxLy8hsK5vpibyHtk7iUh4H_VlhC31QYMMLKmH8kw5w/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4yKle7mOrXFnjlu5cB1g_zMyoD0mlOx5RI4MD_wJYHAI1JtN1yD-lnrkO_vhJ69v5XBn3M373EhsCuPnUOw0hhSLrs4ghELtU8/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Ihe7nJ7rdmmJL7cFOjujT_rPymlGxpSwwOj6rYOnJI0RpNEaE8wfsl-fs0cC46s_KwSZguiJz4iuJl0e1hhBPPbBohv2eSlnPDqRPAuDcUZ8bvNY9/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Ihe7nJ7rdmmJL7cFOjujT_rPymlGxpSwwOj6rYOnJI0RpNEaE8wfsl-fs0cC46s_KwSZguiJz4iuJl0e1hhBPPbBohv2eSlnPDqRPAuDcUZ8bvNY9/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Ihe7nJ7rdmmJL7cFOjujT_rPymlGxpSwxNj2qYdv6Lld8Ng3OrAK4w7rv0Za86MmbyyRmviB053_fmB2y0h9PbeA8haSZSw7NU6ZLTr7CWCTjW6g__g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Ihe7nJ7rdmmJL7cFOjujT_rPymlGxpSwxNj2qYdv6Lld8Ng3OrAK4w7rv0Za86MmbyyRmviB053_fmB2y0h9PbeA8haSZSw7NU6ZLTr7CWCTjW6g__g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Ihe7nJ7rdmmJL7cFOjujT_rPymlGxpSw0Nji1benJI0RpNEbU-AXswui8jMS_tMyfyyE1uygisXbUyxe2gBlMa-xu0PCWQAqfAKEcAuDcUTbJlS23/512fx384f"
         }
       }
     ],
     "Consumer Grade Skins": [
       {
-        "name": "SG 553 | Barricade",
-        "desc": "It has been spray-painted with a stencil of an isometric labyrinth.",
-        "lore": "Hopeless by design",
-        "date_added": "19 November 2019",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3cC5F7c6yq5eKm_vLP7LWnn9u5MRjjeyPoY6k2QLs_xVuaj_xJYOWIwNrMAnXqFLtwOjt0JHp6JvPz3cyuiQntGGdwUL_0BBI6Q/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3cC5F7c6yq5eKm_vLP7LWnn9u5MRjjeyPoY6k2QLs_xVuaj_xJYOWIwNrMAnXqFLtwOjt0JHp6JvPz3cyuiQntGGdwUL_0BBI6Q/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3cC5F7c6yq5eKm_vLPr7Vn35c18lwmO7Eu93zjgfg-EQ_MmzydY-VcgdtNQnT-VG3xb3tgMTp7c6awXowuylxs3vD30vg4rWtpZc/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3cC5F7c6yq5eKm_vLPr7Vn35c18lwmO7Eu93zjgfg-EQ_MmzydY-VcgdtNQnT-VG3xb3tgMTp7c6awXowuylxs3vD30vg4rWtpZc/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3cC5F7c6yq5eKm_vLO77QgHJu5MRjjeyPodmjiVXgqkdqZGmhJNeRcQ4_MwyCq1Hvlb3uh5G-ucnIzXQ27iMhtGGdwULW4ZOHAw/512fx384f"
-        }
-      },
-      {
         "name": "MP7 | Scorched",
+        "id": "1166",
         "desc": "It has been spray-painted in a sun-dappled pattern.",
+        "prices": {
+          "Factory New": "3.63",
+          "Minimal Wear": "2.44",
+          "Field-Tested": "2.22",
+          "Well-Worn": "2.27",
+          "Battle-Scarred": "3.25"
+        },
         "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -236,10 +319,39 @@
         }
       },
       {
+        "name": "Galil AR | Tornado",
+        "id": "1165",
+        "desc": "It has individual parts spray-painted solid colors in a tornado color scheme.",
+        "prices": {
+          "Factory New": "3.50",
+          "Minimal Wear": "2.37",
+          "Field-Tested": "2.30",
+          "Well-Worn": "3.27",
+          "Battle-Scarred": "2.15"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJW4864lYSEqPv9NLPFqWdQ-sJ0xOjH8Y2k2gLi80RqZWihI4-VdVI4aFHT-Ae4x7_rgMK_6ZqawXdmvSM8pSGKKL0esGA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJW4864lYSEqPv9NLPFqWdQ-sJ0xOjH8Y2k2gLi80RqZWihI4-VdVI4aFHT-Ae4x7_rgMK_6ZqawXdmvSM8pSGKKL0esGA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJW4864lYSEqPrxN7LEm1Rd6dd2j6fDpNr23we3qkFqMGD1INCUdw9tYlvTqQC7k7i8gZ656s7PyCdruCJz-z-DyDHlEpmM/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJW4864lYSEqPrxN7LEm1Rd6dd2j6fDpNr23we3qkFqMGD1INCUdw9tYlvTqQC7k7i8gZ656s7PyCdruCJz-z-DyDHlEpmM/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJW4864lYSEqP_xMq3IqWdQ-sJ0xOiX9I_321Cx80NlMW30INfBIARsNAyF_FO3lL3nhsC778manHc1uHU8pSGKVRseGdI/512fx384f"
+        }
+      },
+      {
         "name": "FAMAS | Night Borre",
+        "id": "1168",
         "desc": "It has been spray-painted with a Norse inspired pattern of interlocking blue rings.",
+        "prices": {
+          "Factory New": "2.44",
+          "Minimal Wear": "2.33",
+          "Field-Tested": "2.24",
+          "Well-Worn": "2.10",
+          "Battle-Scarred": "4.03"
+        },
         "lore": "\"It is better to fight and fall than to live without hope\"",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -251,10 +363,39 @@
         }
       },
       {
+        "name": "SG 553 | Barricade",
+        "id": "1164",
+        "desc": "It has been spray-painted with a stencil of an isometric labyrinth.",
+        "prices": {
+          "Factory New": "2.73",
+          "Minimal Wear": "2.20",
+          "Field-Tested": "2.30",
+          "Well-Worn": "2.32",
+          "Battle-Scarred": "2.41"
+        },
+        "lore": "Hopeless by design",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3cC5F7c6yq5eKm_vLP7LWnn9u5MRjjeyPoY6k2QLs_xVuaj_xJYOWIwNrMAnXqFLtwOjt0JHp6JvPz3cyuiQntGGdwUL_0BBI6Q/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3cC5F7c6yq5eKm_vLP7LWnn9u5MRjjeyPoY6k2QLs_xVuaj_xJYOWIwNrMAnXqFLtwOjt0JHp6JvPz3cyuiQntGGdwUL_0BBI6Q/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3cC5F7c6yq5eKm_vLPr7Vn35c18lwmO7Eu93zjgfg-EQ_MmzydY-VcgdtNQnT-VG3xb3tgMTp7c6awXowuylxs3vD30vg4rWtpZc/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3cC5F7c6yq5eKm_vLPr7Vn35c18lwmO7Eu93zjgfg-EQ_MmzydY-VcgdtNQnT-VG3xb3tgMTp7c6awXowuylxs3vD30vg4rWtpZc/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3cC5F7c6yq5eKm_vLO77QgHJu5MRjjeyPodmjiVXgqkdqZGmhJNeRcQ4_MwyCq1Hvlb3uh5G-ucnIzXQ27iMhtGGdwULW4ZOHAw/512fx384f"
+        }
+      },
+      {
         "name": "SSG 08 | Red Stone",
+        "id": "1167",
         "desc": "It has been painted with an olive grip and maroon slide.",
+        "prices": {
+          "Factory New": "3.93",
+          "Minimal Wear": "2.35",
+          "Field-Tested": "2.23",
+          "Well-Worn": "2.32",
+          "Battle-Scarred": "4.03"
+        },
         "lore": "Shame, the inscriptions have worn away with use...",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -263,21 +404,6 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3YyhM6eOlgI-Fksj5Nr_Yg2Zu5MRjjeyP84_20Va3_EJvZ230JteWcFA_YVnZ81Ptlbvrh5LpvpqbyCFh7CAj4WGdwUIHew_9kg/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3YyhM6eOlgI-Fksj5Nr_Yg2Zu5MRjjeyP84_20Va3_EJvZ230JteWcFA_YVnZ81Ptlbvrh5LpvpqbyCFh7CAj4WGdwUIHew_9kg/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3YyhM6eOlgI-Fksj8NrrHj1Rd6dd2j6fF892jjVWwrUZuZWv6LdKUJgZtM1HQr1K9wLu61pa0uszMy3Blsign-z-DyFhotxml/512fx384f"
-        }
-      },
-      {
-        "name": "Galil AR | Tornado",
-        "desc": "It has individual parts spray-painted solid colors in a tornado color scheme.",
-        "lore": "This item has no Lore",
-        "date_added": "19 November 2019",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJW4864lYSEqPv9NLPFqWdQ-sJ0xOjH8Y2k2gLi80RqZWihI4-VdVI4aFHT-Ae4x7_rgMK_6ZqawXdmvSM8pSGKKL0esGA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJW4864lYSEqPv9NLPFqWdQ-sJ0xOjH8Y2k2gLi80RqZWihI4-VdVI4aFHT-Ae4x7_rgMK_6ZqawXdmvSM8pSGKKL0esGA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJW4864lYSEqPrxN7LEm1Rd6dd2j6fDpNr23we3qkFqMGD1INCUdw9tYlvTqQC7k7i8gZ656s7PyCdruCJz-z-DyDHlEpmM/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJW4864lYSEqPrxN7LEm1Rd6dd2j6fDpNr23we3qkFqMGD1INCUdw9tYlvTqQC7k7i8gZ656s7PyCdruCJz-z-DyDHlEpmM/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJW4864lYSEqP_xMq3IqWdQ-sJ0xOiX9I_321Cx80NlMW30INfBIARsNAyF_FO3lL3nhsC778manHc1uHU8pSGKVRseGdI/512fx384f"
         }
       }
     ]

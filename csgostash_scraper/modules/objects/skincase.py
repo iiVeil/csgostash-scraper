@@ -34,8 +34,8 @@ class SkinCase(Container):
     """
     __slots__ = ('_spawned', 'name', 'icon', 'content')
 
-    def __init__(self, name: str, icon: str, content: set):
-        super().__init__(name, icon)
+    def __init__(self, name: str, icon: str, content: set, price):
+        super().__init__(name, icon, price)
         self.content = content
 
     @classmethod
@@ -78,7 +78,8 @@ class SkinCase(Container):
         name = d['name']
         icon = d['icon']
         content = d['content']
+        price = d['price']
 
-        _cls = cls(name, icon, content)
+        _cls = cls(name, icon, content, price)
         _cls._spawned = False
         return _cls

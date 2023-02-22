@@ -1,6 +1,6 @@
 {
   "name": "The Assault Collection",
-  "image_url": "https://csgostash.com/img/collections/256x198/the_assault_collection.png?id=c61c654cd09e5f06bedd",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_assault_collection.png?id=c61c654cd09e5f06bedd30557f14e0e4",
   "content": {
     "Rare Special Items": [],
     "Covert Skins": [],
@@ -8,9 +8,16 @@
     "Restricted Skins": [
       {
         "name": "Glock-18 | Fade",
+        "id": "9",
         "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "prices": {
+          "Factory New": "1,208.70",
+          "Minimal Wear": "No Recent Price",
+          "Field-Tested": "Not Possible",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
         "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -20,9 +27,16 @@
       },
       {
         "name": "MP9 | Bulldozer",
+        "id": "13",
         "desc": "It has individual parts spray-painted solid colors in a production line yellow color scheme.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "110.19",
+          "Field-Tested": "27.73",
+          "Well-Worn": "31.79",
+          "Battle-Scarred": "26.46"
+        },
         "lore": "This bone crusher is a devastator",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -36,36 +50,57 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "Negev | Anodized Navy",
-        "desc": "It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
-        "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v33fzxU9eO6nYeDg8j4MqnWkyUE7MR3ibqTpY2m3Va3-0c5Y2qhdtOVIQJrZQrRqFO3wu3mjcK97smY1zI97Sh413Tv/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v33fzxU9eO6nYeDg8j4MqnWkyUE7MR3ibqTpY2m3Va3-0c5Y2qhdtOVIQJrZQrRqFO3wu3mjcK97smY1zI97Sh413Tv/512fx384f"
-        }
-      },
-      {
         "name": "AUG | Hot Rod",
+        "id": "8",
         "desc": "It has been painted with a chrome base coat and candied in transparent red anodized effect paint.",
+        "prices": {
+          "Factory New": "276.70",
+          "Minimal Wear": "575.00",
+          "Field-Tested": "Not Possible",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
         "lore": "Automatic. Systematic. Hydromatic.",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
           "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZu7OHNdQJO5du-gL-HluXzNvWIl29TsJwljLmT9Irz3wPsrRU6amj7LNeXdlNrMFmG-gK2k-jpg565ot2XnjMC3WBZ/512fx384f",
           "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZu7OHNdQJO5du-gL-HluXzNvWIl29TsJwljLmT9Irz3wPsrRU6amj7LNeXdlNrMFmG-gK2k-jpg565ot2XnjMC3WBZ/512fx384f"
         }
+      },
+      {
+        "name": "Negev | Anodized Navy",
+        "id": "15",
+        "desc": "It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+        "prices": {
+          "Factory New": "280.94",
+          "Minimal Wear": "532.05",
+          "Field-Tested": "Not Possible",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v33fzxU9eO6nYeDg8j4MqnWkyUE7MR3ibqTpY2m3Va3-0c5Y2qhdtOVIQJrZQrRqFO3wu3mjcK97smY1zI97Sh413Tv/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v33fzxU9eO6nYeDg8j4MqnWkyUE7MR3ibqTpY2m3Va3-0c5Y2qhdtOVIQJrZQrRqFO3wu3mjcK97smY1zI97Sh413Tv/512fx384f"
+        }
       }
     ],
     "Industrial Grade Skins": [
       {
         "name": "Five-SeveN | Candy Apple",
+        "id": "16",
         "desc": "It has individual parts spray-painted solid colors in a red and black color scheme.",
+        "prices": {
+          "Factory New": "58.53",
+          "Minimal Wear": "50.92",
+          "Field-Tested": "61.07",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
         "lore": "Great on cars, better on weapons",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -78,9 +113,16 @@
     "Consumer Grade Skins": [
       {
         "name": "UMP-45 | Caramel",
+        "id": "7",
         "desc": "It has individual parts spray-painted solid colors in a caramel and black color scheme.",
+        "prices": {
+          "Factory New": "55.00",
+          "Minimal Wear": "8.53",
+          "Field-Tested": "6.84",
+          "Well-Worn": "6.40",
+          "Battle-Scarred": "5.87"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -93,9 +135,16 @@
       },
       {
         "name": "SG 553 | Tornado",
+        "id": "14",
         "desc": "It has individual parts spray-painted solid colors in a tornado color scheme.",
+        "prices": {
+          "Factory New": "44.81",
+          "Minimal Wear": "7.91",
+          "Field-Tested": "6.83",
+          "Well-Worn": "6.84",
+          "Battle-Scarred": "6.41"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {

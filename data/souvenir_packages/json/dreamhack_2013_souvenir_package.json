@@ -1,16 +1,28 @@
 {
   "The Dust 2 Collection": {
     "name": "The Dust 2 Collection",
-    "image_url": "https://csgostash.com/img/collections/256x198/the_dust_2_collection.png?id=1a2cddb40f4478ca7275",
+    "image_url": "https://csgostash.com/img/collections/256x198/the_dust_2_collection.png?id=1a2cddb40f4478ca7275a295d45f72d8",
     "content": {
       "Rare Special Items": [],
       "Covert Skins": [],
       "Classified Skins": [
         {
           "name": "R8 Revolver | Amber Fade",
+          "id": "689",
           "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+          "prices": {
+            "Factory New": "1.70",
+            "Minimal Wear": "1.33",
+            "Field-Tested": "1.33",
+            "Well-Worn": "2.22",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "1,678.74",
+            "Souvenir Minimal Wear": "95.76",
+            "Souvenir Field-Tested": "31.22",
+            "Souvenir Well-Worn": "No Recent Price",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
-          "date_added": "8 December 2015",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -24,9 +36,21 @@
       "Restricted Skins": [
         {
           "name": "P2000 | Amber Fade",
+          "id": "143",
           "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+          "prices": {
+            "Factory New": "14.53",
+            "Minimal Wear": "11.00",
+            "Field-Tested": "6.01",
+            "Well-Worn": "5.70",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "24.58",
+            "Souvenir Minimal Wear": "11.57",
+            "Souvenir Field-Tested": "11.05",
+            "Souvenir Well-Worn": "67.16",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -40,9 +64,21 @@
       "Mil-Spec Skins": [
         {
           "name": "SG 553 | Damascus Steel",
+          "id": "139",
           "desc": "It has some damascus steel parts.",
+          "prices": {
+            "Factory New": "2.47",
+            "Minimal Wear": "1.62",
+            "Field-Tested": "1.16",
+            "Well-Worn": "0.94",
+            "Battle-Scarred": "0.84",
+            "Souvenir Factory New": "72.62",
+            "Souvenir Minimal Wear": "7.72",
+            "Souvenir Field-Tested": "4.69",
+            "Souvenir Well-Worn": "4.53",
+            "Souvenir Battle-Scarred": "3.70"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -55,9 +91,21 @@
         },
         {
           "name": "PP-Bizon | Brass",
+          "id": "146",
           "desc": "It has brass parts.",
+          "prices": {
+            "Factory New": "2.42",
+            "Minimal Wear": "1.61",
+            "Field-Tested": "1.16",
+            "Well-Worn": "0.92",
+            "Battle-Scarred": "0.82",
+            "Souvenir Factory New": "90.45",
+            "Souvenir Minimal Wear": "14.07",
+            "Souvenir Field-Tested": "4.86",
+            "Souvenir Well-Worn": "3.57",
+            "Souvenir Battle-Scarred": "4.18"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -70,9 +118,21 @@
         },
         {
           "name": "M4A1-S | VariCamo",
+          "id": "150",
           "desc": "It has been painted using a VariCamo patterned hydrographic.",
+          "prices": {
+            "Factory New": "2.11",
+            "Minimal Wear": "1.63",
+            "Field-Tested": "1.21",
+            "Well-Worn": "0.98",
+            "Battle-Scarred": "0.87",
+            "Souvenir Factory New": "49.96",
+            "Souvenir Minimal Wear": "27.05",
+            "Souvenir Field-Tested": "18.37",
+            "Souvenir Well-Worn": "24.35",
+            "Souvenir Battle-Scarred": "26.17"
+          },
           "lore": "Rebuilding only comes in the wake of destruction",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -86,40 +146,22 @@
       ],
       "Industrial Grade Skins": [
         {
-          "name": "MAC-10 | Palm",
-          "desc": "It has been spray-painted using cardboard cutouts, fine mesh, and palm leaves as stencils.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwOP3YTxO4eO6nYeDg8j4MqnWkyUDusQi2LCX8dyi0VHm_BA-ZDuhJo-UJwc7NA6G-1Htw-e-1J617p6c1zI97Vhiy6qQ/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwOP3YTxO4eO6nYeDg8j4MqnWkyUDusQi2LCX8dyi0VHm_BA-ZDuhJo-UJwc7NA6G-1Htw-e-1J617p6c1zI97Vhiy6qQ/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwOP3YTxO4eO7kYSCgvrLP7rDkW4f7pQk3r2YptWl0Qzl-UdrZmmhI4DAelNrZw2CqwC5l7jr0ZW975qamGwj5HeCZcuRyA/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwOP3YTxO4eO7kYSCgvrLP7rDkW4f7pQk3r2YptWl0Qzl-UdrZmmhI4DAelNrZw2CqwC5l7jr0ZW975qamGwj5HeCZcuRyA/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwOP3YTxO4eO-kYGdjsj4MqnWkyUFu5Zw0u-WoNqniQzmr0c9ZWGnJoGSdlNoY1-GqVLrwO-7hpW-v8mY1zI97Qnfs292/512fx384f"
-          }
-        },
-        {
-          "name": "Tec-9 | VariCamo",
-          "desc": "It has been painted using a VariCamo patterned hydrographic.",
-          "lore": "Rebuilding only comes in the wake of destruction",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszecC9L7927m7-HnvD8J4Tdl3lW7Yspi7GXpt-s2Few-xU_YW3wd4WTewFtYgzV_1C_wue7hpO5v8udnHJgpGB8sk8duAeH/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszecC9L7927m7-HnvD8J4Tdl3lW7Yspi7GXpt-s2Few-xU_YW3wd4WTewFtYgzV_1C_wue7hpO5v8udnHJgpGB8sk8duAeH/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszecC9L7927m7-GkvP9JrbummpD78A_2OzCptus3lC3qUQ-NTygLNLGegBvY1HU_QW9wrrmgcXo6pvAyHZqvj5iuyh9Y66J5g/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszecC9L7927m7-GkvP9JrbummpD78A_2OzCptus3lC3qUQ-NTygLNLGegBvY1HU_QW9wrrmgcXo6pvAyHZqvj5iuyh9Y66J5g/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszecC9L7927m7-DkvbiKoTdl3lW7YtwiLDFp9iniQa38hE_MjzyLNOUIQFrY1vQ8gO5lby-gJ7v7pXAnXthpGB8sjpVW2Zx/512fx384f"
-          }
-        },
-        {
           "name": "AK-47 | Safari Mesh",
+          "id": "140",
           "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+          "prices": {
+            "Factory New": "4.77",
+            "Minimal Wear": "0.75",
+            "Field-Tested": "0.24",
+            "Well-Worn": "0.30",
+            "Battle-Scarred": "0.25",
+            "Souvenir Factory New": "276.64",
+            "Souvenir Minimal Wear": "16.64",
+            "Souvenir Field-Tested": "9.44",
+            "Souvenir Well-Worn": "10.92",
+            "Souvenir Battle-Scarred": "10.64"
+          },
           "lore": "A predator is a predator, no matter the environment",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -131,10 +173,49 @@
           }
         },
         {
+          "name": "Tec-9 | VariCamo",
+          "id": "148",
+          "desc": "It has been painted using a VariCamo patterned hydrographic.",
+          "prices": {
+            "Factory New": "0.23",
+            "Minimal Wear": "0.17",
+            "Field-Tested": "0.13",
+            "Well-Worn": "0.12",
+            "Battle-Scarred": "0.11",
+            "Souvenir Factory New": "3.58",
+            "Souvenir Minimal Wear": "2.71",
+            "Souvenir Field-Tested": "1.41",
+            "Souvenir Well-Worn": "2.59",
+            "Souvenir Battle-Scarred": "2.12"
+          },
+          "lore": "Rebuilding only comes in the wake of destruction",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszecC9L7927m7-HnvD8J4Tdl3lW7Yspi7GXpt-s2Few-xU_YW3wd4WTewFtYgzV_1C_wue7hpO5v8udnHJgpGB8sk8duAeH/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszecC9L7927m7-HnvD8J4Tdl3lW7Yspi7GXpt-s2Few-xU_YW3wd4WTewFtYgzV_1C_wue7hpO5v8udnHJgpGB8sk8duAeH/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszecC9L7927m7-GkvP9JrbummpD78A_2OzCptus3lC3qUQ-NTygLNLGegBvY1HU_QW9wrrmgcXo6pvAyHZqvj5iuyh9Y66J5g/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszecC9L7927m7-GkvP9JrbummpD78A_2OzCptus3lC3qUQ-NTygLNLGegBvY1HU_QW9wrrmgcXo6pvAyHZqvj5iuyh9Y66J5g/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszecC9L7927m7-DkvbiKoTdl3lW7YtwiLDFp9iniQa38hE_MjzyLNOUIQFrY1vQ8gO5lby-gJ7v7pXAnXthpGB8sjpVW2Zx/512fx384f"
+          }
+        },
+        {
           "name": "Sawed-Off | Snake Camo",
+          "id": "138",
           "desc": "It has been spray-painted using a snakeskin stencil in patches that have been outlined freehand.",
+          "prices": {
+            "Factory New": "0.37",
+            "Minimal Wear": "0.16",
+            "Field-Tested": "0.13",
+            "Well-Worn": "0.11",
+            "Battle-Scarred": "0.10",
+            "Souvenir Factory New": "22.50",
+            "Souvenir Minimal Wear": "0.84",
+            "Souvenir Field-Tested": "0.37",
+            "Souvenir Well-Worn": "0.35",
+            "Souvenir Battle-Scarred": "0.34"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -146,10 +227,49 @@
           }
         },
         {
+          "name": "MAC-10 | Palm",
+          "id": "147",
+          "desc": "It has been spray-painted using cardboard cutouts, fine mesh, and palm leaves as stencils.",
+          "prices": {
+            "Factory New": "0.38",
+            "Minimal Wear": "0.18",
+            "Field-Tested": "0.13",
+            "Well-Worn": "0.11",
+            "Battle-Scarred": "0.10",
+            "Souvenir Factory New": "17.71",
+            "Souvenir Minimal Wear": "2.56",
+            "Souvenir Field-Tested": "0.64",
+            "Souvenir Well-Worn": "1.21",
+            "Souvenir Battle-Scarred": "0.53"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwOP3YTxO4eO6nYeDg8j4MqnWkyUDusQi2LCX8dyi0VHm_BA-ZDuhJo-UJwc7NA6G-1Htw-e-1J617p6c1zI97Vhiy6qQ/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwOP3YTxO4eO6nYeDg8j4MqnWkyUDusQi2LCX8dyi0VHm_BA-ZDuhJo-UJwc7NA6G-1Htw-e-1J617p6c1zI97Vhiy6qQ/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwOP3YTxO4eO7kYSCgvrLP7rDkW4f7pQk3r2YptWl0Qzl-UdrZmmhI4DAelNrZw2CqwC5l7jr0ZW975qamGwj5HeCZcuRyA/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwOP3YTxO4eO7kYSCgvrLP7rDkW4f7pQk3r2YptWl0Qzl-UdrZmmhI4DAelNrZw2CqwC5l7jr0ZW975qamGwj5HeCZcuRyA/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwOP3YTxO4eO-kYGdjsj4MqnWkyUFu5Zw0u-WoNqniQzmr0c9ZWGnJoGSdlNoY1-GqVLrwO-7hpW-v8mY1zI97Qnfs292/512fx384f"
+          }
+        },
+        {
           "name": "Five-SeveN | Orange Peel",
+          "id": "142",
           "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+          "prices": {
+            "Factory New": "0.60",
+            "Minimal Wear": "0.18",
+            "Field-Tested": "0.13",
+            "Well-Worn": "0.11",
+            "Battle-Scarred": "0.10",
+            "Souvenir Factory New": "87.08",
+            "Souvenir Minimal Wear": "2.84",
+            "Souvenir Field-Tested": "0.94",
+            "Souvenir Well-Worn": "2.55",
+            "Souvenir Battle-Scarred": "1.07"
+          },
           "lore": "True power is demonstrated with subtle application",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -163,10 +283,49 @@
       ],
       "Consumer Grade Skins": [
         {
+          "name": "Nova | Predator",
+          "id": "149",
+          "desc": "It has been spray-painted in a zebra stripe pattern.",
+          "prices": {
+            "Factory New": "0.18",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "5.76",
+            "Souvenir Minimal Wear": "0.32",
+            "Souvenir Field-Tested": "0.13",
+            "Souvenir Well-Worn": "0.24",
+            "Souvenir Battle-Scarred": "0.19"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-HnvD8J4Tdl3lW7Ysli7iS94j23FK1-BFpMD30cI6cIQ5tMlDT_VG-le2-hJW_vpuYzyFgpGB8smlospdV/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-HnvD8J4Tdl3lW7Ysli7iS94j23FK1-BFpMD30cI6cIQ5tMlDT_VG-le2-hJW_vpuYzyFgpGB8smlospdV/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iO-U8Iis2w3srkZqY2-iJNTHcwZoZFrQ_1i5wurvjMC66s7JmiE3uD5iuyh8ZoLEbQ/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iO-U8Iis2w3srkZqY2-iJNTHcwZoZFrQ_1i5wurvjMC66s7JmiE3uD5iuyh8ZoLEbQ/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-DkvbiKoTdl3lW7Yty3LGUrd6m0FKw_BdrZD-lLYTHdlM9Y17W-Ve4lenm1JHq6Z_OziQ2pGB8sjxMpL0P/512fx384f"
+          }
+        },
+        {
           "name": "P250 | Sand Dune",
+          "id": "137",
           "desc": "It has individual parts spray-painted solid colors in a sand dune color scheme.",
+          "prices": {
+            "Factory New": "0.29",
+            "Minimal Wear": "0.06",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.05",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "30.85",
+            "Souvenir Minimal Wear": "1.30",
+            "Souvenir Field-Tested": "0.26",
+            "Souvenir Well-Worn": "0.48",
+            "Souvenir Battle-Scarred": "0.47"
+          },
           "lore": "With Turner dead, we have a new priority: rescue Alex Kincaide - Felix Riley, Commanding Officer",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -179,9 +338,21 @@
         },
         {
           "name": "G3SG1 | Desert Storm",
+          "id": "136",
           "desc": "It has been painted using a desert camouflage hydrographic.",
+          "prices": {
+            "Factory New": "0.19",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "8.01",
+            "Souvenir Minimal Wear": "0.46",
+            "Souvenir Field-Tested": "0.16",
+            "Souvenir Well-Worn": "0.29",
+            "Souvenir Battle-Scarred": "0.29"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -193,25 +364,22 @@
           }
         },
         {
-          "name": "Nova | Predator",
-          "desc": "It has been spray-painted in a zebra stripe pattern.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-HnvD8J4Tdl3lW7Ysli7iS94j23FK1-BFpMD30cI6cIQ5tMlDT_VG-le2-hJW_vpuYzyFgpGB8smlospdV/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-HnvD8J4Tdl3lW7Ysli7iS94j23FK1-BFpMD30cI6cIQ5tMlDT_VG-le2-hJW_vpuYzyFgpGB8smlospdV/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iO-U8Iis2w3srkZqY2-iJNTHcwZoZFrQ_1i5wurvjMC66s7JmiE3uD5iuyh8ZoLEbQ/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-GkvP9JrbummpD78A_iO-U8Iis2w3srkZqY2-iJNTHcwZoZFrQ_1i5wurvjMC66s7JmiE3uD5iuyh8ZoLEbQ/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-DkvbiKoTdl3lW7Yty3LGUrd6m0FKw_BdrZD-lLYTHdlM9Y17W-Ve4lenm1JHq6Z_OziQ2pGB8sjxMpL0P/512fx384f"
-          }
-        },
-        {
           "name": "MP9 | Sand Dashed",
+          "id": "145",
           "desc": "It has been spray-painted using short pieces of tape as stencils.",
+          "prices": {
+            "Factory New": "0.18",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "6.47",
+            "Souvenir Minimal Wear": "0.57",
+            "Souvenir Field-Tested": "0.15",
+            "Souvenir Well-Worn": "0.64",
+            "Souvenir Battle-Scarred": "0.36"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -224,9 +392,21 @@
         },
         {
           "name": "SCAR-20 | Sand Mesh",
+          "id": "141",
           "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+          "prices": {
+            "Factory New": "0.18",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "4.52",
+            "Souvenir Minimal Wear": "0.35",
+            "Souvenir Field-Tested": "0.17",
+            "Souvenir Well-Worn": "0.24",
+            "Souvenir Battle-Scarred": "0.30"
+          },
           "lore": "A predator is a predator, no matter the environment",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -239,9 +419,21 @@
         },
         {
           "name": "P90 | Sand Spray",
+          "id": "144",
           "desc": "It has been spray-painted freehand with short, thick lines in contrasting colors.",
+          "prices": {
+            "Factory New": "0.18",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "6.17",
+            "Souvenir Minimal Wear": "0.43",
+            "Souvenir Field-Tested": "0.15",
+            "Souvenir Well-Worn": "0.46",
+            "Souvenir Battle-Scarred": "0.18"
+          },
           "lore": "Perfect for the insurgent on the go",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -257,7 +449,7 @@
   },
   "The Safehouse Collection": {
     "name": "The Safehouse Collection",
-    "image_url": "https://csgostash.com/img/collections/256x198/the_safehouse_collection.png?id=1e084c166e889f56f09d",
+    "image_url": "https://csgostash.com/img/collections/256x198/the_safehouse_collection.png?id=1e084c166e889f56f09dbcdd6bac049a",
     "content": {
       "Rare Special Items": [],
       "Covert Skins": [],
@@ -265,9 +457,21 @@
       "Restricted Skins": [
         {
           "name": "M4A1-S | Nitro",
+          "id": "203",
           "desc": "It has individual parts spray-painted black and tangerine orange.",
+          "prices": {
+            "Factory New": "8.35",
+            "Minimal Wear": "3.73",
+            "Field-Tested": "1.55",
+            "Well-Worn": "1.81",
+            "Battle-Scarred": "1.23",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "1,813.04",
+            "Souvenir Field-Tested": "No Recent Price",
+            "Souvenir Well-Worn": "No Recent Price",
+            "Souvenir Battle-Scarred": "No Recent Price"
+          },
           "lore": "Rona is as good as she thinks she is... she's just not old enough to realize she shouldn't point it out to everyone - Felix Riley, Commanding Officer",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -282,9 +486,21 @@
       "Mil-Spec Skins": [
         {
           "name": "FAMAS | Teardown",
+          "id": "209",
           "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
+          "prices": {
+            "Factory New": "1.05",
+            "Minimal Wear": "0.76",
+            "Field-Tested": "0.61",
+            "Well-Worn": "0.70",
+            "Battle-Scarred": "0.60",
+            "Souvenir Factory New": "223.00",
+            "Souvenir Minimal Wear": "54.39",
+            "Souvenir Field-Tested": "32.16",
+            "Souvenir Well-Worn": "No Recent Price",
+            "Souvenir Battle-Scarred": "100.00"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -296,21 +512,22 @@
           }
         },
         {
-          "name": "SSG 08 | Acid Fade",
-          "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
-          "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0vL3dzxG6eOxhoGYhPv1Pb_ummJW4NFOhujT8om70Abt_kM9NWryd4eSdVI_ZVHY-Ve4xOrqjMLo6cjOziRluSMl7CnZywv330-3uNY-DA/512fx384f"
-          }
-        },
-        {
           "name": "Five-SeveN | Silver Quartz",
+          "id": "205",
           "desc": "It has been painted with metallic paint, using a crystallizing mask to create a pattern.",
+          "prices": {
+            "Factory New": "1.05",
+            "Minimal Wear": "0.76",
+            "Field-Tested": "0.62",
+            "Well-Worn": "0.84",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "73.41",
+            "Souvenir Field-Tested": "32.46",
+            "Souvenir Well-Worn": "No Recent Price",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "Everyone wants to make an impact",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -319,14 +536,49 @@
             "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjxP09-kjZOflvv4OqHUklRC4clnj_v--InxgUG5lB89IT6mOoTAdwE3Y1DW-lC3lOy815_uvM7Ay3Bi6Sdw4nrZzUayiRhNOrBvgvaACQLJfP0Nm34/512fx384f",
             "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjxP09-kjZOflvv4OqHUklRC4clnj_v--InxgUG5lB89IT6mOoTAdwE3Y1DW-lC3lOy815_uvM7Ay3Bi6Sdw4nrZzUayiRhNOrBvgvaACQLJfP0Nm34/512fx384f"
           }
+        },
+        {
+          "name": "SSG 08 | Acid Fade",
+          "id": "200",
+          "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+          "prices": {
+            "Factory New": "1.43",
+            "Minimal Wear": "Not Possible",
+            "Field-Tested": "Not Possible",
+            "Well-Worn": "Not Possible",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "212.82",
+            "Souvenir Minimal Wear": "Not Possible",
+            "Souvenir Field-Tested": "Not Possible",
+            "Souvenir Well-Worn": "Not Possible",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
+          "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0vL3dzxG6eOxhoGYhPv1Pb_ummJW4NFOhujT8om70Abt_kM9NWryd4eSdVI_ZVHY-Ve4xOrqjMLo6cjOziRluSMl7CnZywv330-3uNY-DA/512fx384f"
+          }
         }
       ],
       "Industrial Grade Skins": [
         {
           "name": "USP-S | Forest Leaves",
+          "id": "207",
           "desc": "It has been spray-painted using leaves as stencils.",
+          "prices": {
+            "Factory New": "1.21",
+            "Minimal Wear": "0.27",
+            "Field-Tested": "0.11",
+            "Well-Worn": "0.14",
+            "Battle-Scarred": "0.16",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "51.26",
+            "Souvenir Field-Tested": "45.73",
+            "Souvenir Well-Worn": "62.27",
+            "Souvenir Battle-Scarred": "123.48"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -338,40 +590,22 @@
           }
         },
         {
-          "name": "AUG | Condemned",
-          "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
-          "lore": "A predator is a predator, no matter the environment",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV96tOkkZOfqPH9Ib7ummJW4NFOhujT8om7jVW2rUQ-ZWCgdYeRdgFsNA3V81ftlby-05S97pnBmiZkvyMlsS2Oygv330_iVc0pMQ/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV96tOkkZOfqPH9Ib7ummJW4NFOhujT8om7jVW2rUQ-ZWCgdYeRdgFsNA3V81ftlby-05S97pnBmiZkvyMlsS2Oygv330_iVc0pMQ/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV96tOkkZOfqPH9Ib7um25V4dB8teXA54vwxgbg_hVtMjz6cYSRIQc-M1rT_1G6yO3ogpDqvpzAyHBmuHIj7HnfnhypwUYb6FJ3cHs/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV96tOkkZOfqPH9Ib7um25V4dB8teXA54vwxgbg_hVtMjz6cYSRIQc-M1rT_1G6yO3ogpDqvpzAyHBmuHIj7HnfnhypwUYb6FJ3cHs/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV96tOkkZOfqPH9Ib7unm5Q_txOhujT8om73wfs_BVvNmGgdtTAJgY7MAqEqAS_xefvhZC-6p7MwSBn6yQhsS3Yywv330-x7Fb3bw/512fx384f"
-          }
-        },
-        {
-          "name": "Galil AR | VariCamo",
-          "desc": "It has been painted using a VariCamo patterned hydrographic.",
-          "lore": "Rebuilding only comes in the wake of destruction",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJU7c6_l4GGmMj4OrzZglRd6dd2j6eVrdWmjVCxrUVkYGH2Jo7DI1JtMliB_Vi-kO660Ze_vs6dn3A1u3Ir-z-DyDjf2L5v/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJU7c6_l4GGmMj4OrzZglRd6dd2j6eVrdWmjVCxrUVkYGH2Jo7DI1JtMliB_Vi-kO660Ze_vs6dn3A1u3Ir-z-DyDjf2L5v/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJU7c6_l4GGmMj5Nr_Yg2Zu5MRjjeyPoN_22AS2-EplZW33JNXGJFBsY13Z_wK3ye6-gsS96prLwXNksiMnsGGdwUL0QZqr4A/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJU7c6_l4GGmMj5Nr_Yg2Zu5MRjjeyPoN_22AS2-EplZW33JNXGJFBsY13Z_wK3ye6-gsS96prLwXNksiMnsGGdwUL0QZqr4A/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJU7c6_l4GGmMj8NrrHj1Rd6dd2j6eWrY333QDm80M4ajj7cNSdJg89M16C-VS8xOm6hpe5tZqdnXRlvCV3-z-DyFkQ36DW/512fx384f"
-          }
-        },
-        {
           "name": "M249 | Gator Mesh",
+          "id": "201",
           "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
+          "prices": {
+            "Factory New": "0.17",
+            "Minimal Wear": "0.15",
+            "Field-Tested": "0.11",
+            "Well-Worn": "0.11",
+            "Battle-Scarred": "0.10",
+            "Souvenir Factory New": "590.56",
+            "Souvenir Minimal Wear": "39.38",
+            "Souvenir Field-Tested": "22.04",
+            "Souvenir Well-Worn": "No Recent Price",
+            "Souvenir Battle-Scarred": "241.50"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -383,10 +617,76 @@
           }
         },
         {
-          "name": "G3SG1 | VariCamo",
+          "name": "Galil AR | VariCamo",
+          "id": "202",
           "desc": "It has been painted using a VariCamo patterned hydrographic.",
+          "prices": {
+            "Factory New": "0.17",
+            "Minimal Wear": "0.13",
+            "Field-Tested": "0.11",
+            "Well-Worn": "0.12",
+            "Battle-Scarred": "0.11",
+            "Souvenir Factory New": "180.00",
+            "Souvenir Minimal Wear": "50.26",
+            "Souvenir Field-Tested": "21.28",
+            "Souvenir Well-Worn": "129.42",
+            "Souvenir Battle-Scarred": "332.93"
+          },
           "lore": "Rebuilding only comes in the wake of destruction",
-          "date_added": "27 November 2013",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJU7c6_l4GGmMj4OrzZglRd6dd2j6eVrdWmjVCxrUVkYGH2Jo7DI1JtMliB_Vi-kO660Ze_vs6dn3A1u3Ir-z-DyDjf2L5v/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJU7c6_l4GGmMj4OrzZglRd6dd2j6eVrdWmjVCxrUVkYGH2Jo7DI1JtMliB_Vi-kO660Ze_vs6dn3A1u3Ir-z-DyDjf2L5v/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJU7c6_l4GGmMj5Nr_Yg2Zu5MRjjeyPoN_22AS2-EplZW33JNXGJFBsY13Z_wK3ye6-gsS96prLwXNksiMnsGGdwUL0QZqr4A/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJU7c6_l4GGmMj5Nr_Yg2Zu5MRjjeyPoN_22AS2-EplZW33JNXGJFBsY13Z_wK3ye6-gsS96prLwXNksiMnsGGdwUL0QZqr4A/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJU7c6_l4GGmMj8NrrHj1Rd6dd2j6eWrY333QDm80M4ajj7cNSdJg89M16C-VS8xOm6hpe5tZqdnXRlvCV3-z-DyFkQ36DW/512fx384f"
+          }
+        },
+        {
+          "name": "AUG | Condemned",
+          "id": "208",
+          "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+          "prices": {
+            "Factory New": "0.86",
+            "Minimal Wear": "0.13",
+            "Field-Tested": "0.11",
+            "Well-Worn": "0.11",
+            "Battle-Scarred": "0.10",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "170.21",
+            "Souvenir Field-Tested": "24.04",
+            "Souvenir Well-Worn": "35.00",
+            "Souvenir Battle-Scarred": "34.04"
+          },
+          "lore": "A predator is a predator, no matter the environment",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV96tOkkZOfqPH9Ib7ummJW4NFOhujT8om7jVW2rUQ-ZWCgdYeRdgFsNA3V81ftlby-05S97pnBmiZkvyMlsS2Oygv330_iVc0pMQ/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV96tOkkZOfqPH9Ib7ummJW4NFOhujT8om7jVW2rUQ-ZWCgdYeRdgFsNA3V81ftlby-05S97pnBmiZkvyMlsS2Oygv330_iVc0pMQ/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV96tOkkZOfqPH9Ib7um25V4dB8teXA54vwxgbg_hVtMjz6cYSRIQc-M1rT_1G6yO3ogpDqvpzAyHBmuHIj7HnfnhypwUYb6FJ3cHs/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV96tOkkZOfqPH9Ib7um25V4dB8teXA54vwxgbg_hVtMjz6cYSRIQc-M1rT_1G6yO3ogpDqvpzAyHBmuHIj7HnfnhypwUYb6FJ3cHs/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV96tOkkZOfqPH9Ib7unm5Q_txOhujT8om73wfs_BVvNmGgdtTAJgY7MAqEqAS_xefvhZC-6p7MwSBn6yQhsS3Yywv330-x7Fb3bw/512fx384f"
+          }
+        },
+        {
+          "name": "G3SG1 | VariCamo",
+          "id": "198",
+          "desc": "It has been painted using a VariCamo patterned hydrographic.",
+          "prices": {
+            "Factory New": "0.16",
+            "Minimal Wear": "0.12",
+            "Field-Tested": "0.11",
+            "Well-Worn": "0.11",
+            "Battle-Scarred": "0.10",
+            "Souvenir Factory New": "149.99",
+            "Souvenir Minimal Wear": "24.01",
+            "Souvenir Field-Tested": "21.28",
+            "Souvenir Well-Worn": "56.20",
+            "Souvenir Battle-Scarred": "425.11"
+          },
+          "lore": "Rebuilding only comes in the wake of destruction",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -399,9 +699,21 @@
         },
         {
           "name": "MP9 | Orange Peel",
+          "id": "210",
           "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+          "prices": {
+            "Factory New": "0.49",
+            "Minimal Wear": "0.13",
+            "Field-Tested": "0.11",
+            "Well-Worn": "0.11",
+            "Battle-Scarred": "0.11",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "48.71",
+            "Souvenir Field-Tested": "25.68",
+            "Souvenir Well-Worn": "91.33",
+            "Souvenir Battle-Scarred": "60.50"
+          },
           "lore": "True power is demonstrated with subtle application",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -415,55 +727,49 @@
       ],
       "Consumer Grade Skins": [
         {
-          "name": "MP7 | Army Recon",
-          "desc": "It has been spray-painted freehand with short, thick lines in contrasting colors.",
-          "lore": "Perfect for the insurgent on the go",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7ODYYzxb092kmZm0m_7zO6_ummpD78A_j7GWrI6t0ATsrUs_am_0cYLDcg5oNQ3R81Xqx7rqjcC6uMmfnSBh7j5iuyjKTEW-7g/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7ODYYzxb092kmZm0m_7zO6_ummpD78A_j7GWrI6t0ATsrUs_am_0cYLDcg5oNQ3R81Xqx7rqjcC6uMmfnSBh7j5iuyjKTEW-7g/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7ODYYzxb092kmZm0mvLwOq7cqWdQ-sJ0xOqQpYitjgftrUZkZGH7cIGQdVNtZl2F_Vm2krztjJHo7siamyRjs3U8pSGKd9XfyE0/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7ODYYzxb092kmZm0mvLwOq7cqWdQ-sJ0xOqQpYitjgftrUZkZGH7cIGQdVNtZl2F_Vm2krztjJHo7siamyRjs3U8pSGKd9XfyE0/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7ODYYzxb092kmZm0n_L1JaLummpD78A_2OjA9Iql2Vfh-0I6YTzxLdSXcFVvNFDTq1O7wbznh8PttJ_Az3Jh7z5iuyinqZykxQ/512fx384f"
-          }
-        },
-        {
-          "name": "SCAR-20 | Contractor",
-          "desc": "It has individual parts spray-painted tan, navy and dark green.",
-          "lore": "Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O6nYeDg8j4MqnWkyVSu8Ah3-vA8I_22QHm-Uo9amH6cNLBcg89aF7Ur1jtxbvm08TpupWY1zI97SZLY2Jj/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O6nYeDg8j4MqnWkyVSu8Ah3-vA8I_22QHm-Uo9amH6cNLBcg89aF7Ur1jtxbvm08TpupWY1zI97SZLY2Jj/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O7kYSCgvrLP7rDkW4fv5Mk3uvE9NiniVfk_BFkMWHzINOQcgZrNVDU_QfrkO_qg5Xu6Z-an2wj5HfSinewXQ/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O7kYSCgvrLP7rDkW4fv5Mk3uvE9NiniVfk_BFkMWHzINOQcgZrNVDU_QfrkO_qg5Xu6Z-an2wj5HfSinewXQ/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O-kYGdjsj4MqnWkyUJup0i2LDEp9im3VC1rUJoYzz3ctKSdVQ4Y1DZ-1K2wuvsjJPoupvN1zI97UzteTlX/512fx384f"
-          }
-        },
-        {
-          "name": "SSG 08 | Blue Spruce",
-          "desc": "It has individual parts spray-painted solid colors in a moss color scheme.",
+          "name": "Tec-9 | Army Mesh",
+          "id": "204",
+          "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
+          "prices": {
+            "Factory New": "0.06",
+            "Minimal Wear": "0.04",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "14.67",
+            "Souvenir Minimal Wear": "9.52",
+            "Souvenir Field-Tested": "9.54",
+            "Souvenir Well-Worn": "16.65",
+            "Souvenir Battle-Scarred": "7.72"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3fDJR_-O6nYeDg8j4MqnWkyUGvJIk2e3AptWgjQLjr0dlY2jzJYSTew49aQyG-FnrwLzphpe_7Z_M1zI97dk1ka4S/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3fDJR_-O6nYeDg8j4MqnWkyUGvJIk2e3AptWgjQLjr0dlY2jzJYSTew49aQyG-FnrwLzphpe_7Z_M1zI97dk1ka4S/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3fDJR_-O7kYSCgvrLP7rDkW4fsccp2bHD9I_xjQCx-BU6N2H0dtfGJwRrYg7YrFLrwb-5gpa0upnPyWwj5Hduo8Cfag/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3fDJR_-O7kYSCgvrLP7rDkW4fsccp2bHD9I_xjQCx-BU6N2H0dtfGJwRrYg7YrFLrwb-5gpa0upnPyWwj5Hduo8Cfag/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3fDJR_-O-kYGdjsj4MqnWkyVU7pIg3OqQoI6m3gHk-UY4ZWHxIYaSclJqZVnT_QK4xr3vhpa_6c-a1zI97XhqQF1B/512fx384f"
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0m_7zO6_ummpD78A_iLuVpdj33lW1-xBrNmj2LILDJwQ4aFmDrATskOnv0Z6-v8yfn3dluD5iuyjMzF7OMw/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0m_7zO6_ummpD78A_iLuVpdj33lW1-xBrNmj2LILDJwQ4aFmDrATskOnv0Z6-v8yfn3dluD5iuyjMzF7OMw/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0mvLwOq7cqWdQ-sJ0xLDCrIj22lXi-BA6MDr3dY_Dcw5saQvT_QW_lO-9jZK1uZrLnSdmuSE8pSGKHoGgJ0Y/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0mvLwOq7cqWdQ-sJ0xLDCrIj22lXi-BA6MDr3dY_Dcw5saQvT_QW_lO-9jZK1uZrLnSdmuSE8pSGKHoGgJ0Y/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0n_L1JaLummpD78A_3L_F8Iqh3Fay-UFtMm_yJIfGe1A6ZlvZqVS4lL3shMW-6pSczydh7D5iuyigAJFGxQ/512fx384f"
           }
         },
         {
           "name": "Dual Berettas | Contractor",
+          "id": "196",
           "desc": "It has individual parts spray-painted tan, navy and dark green.",
+          "prices": {
+            "Factory New": "0.17",
+            "Minimal Wear": "0.04",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "10.63",
+            "Souvenir Field-Tested": "7.08",
+            "Souvenir Well-Worn": "9.78",
+            "Souvenir Battle-Scarred": "8.56"
+          },
           "lore": "Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -475,18 +781,84 @@
           }
         },
         {
-          "name": "Tec-9 | Army Mesh",
-          "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
+          "name": "MP7 | Army Recon",
+          "id": "206",
+          "desc": "It has been spray-painted freehand with short, thick lines in contrasting colors.",
+          "prices": {
+            "Factory New": "0.12",
+            "Minimal Wear": "0.04",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "6.37",
+            "Souvenir Field-Tested": "6.85",
+            "Souvenir Well-Worn": "7.37",
+            "Souvenir Battle-Scarred": "7.99"
+          },
+          "lore": "Perfect for the insurgent on the go",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0m_7zO6_ummpD78A_iLuVpdj33lW1-xBrNmj2LILDJwQ4aFmDrATskOnv0Z6-v8yfn3dluD5iuyjMzF7OMw/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0m_7zO6_ummpD78A_iLuVpdj33lW1-xBrNmj2LILDJwQ4aFmDrATskOnv0Z6-v8yfn3dluD5iuyjMzF7OMw/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0mvLwOq7cqWdQ-sJ0xLDCrIj22lXi-BA6MDr3dY_Dcw5saQvT_QW_lO-9jZK1uZrLnSdmuSE8pSGKHoGgJ0Y/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0mvLwOq7cqWdQ-sJ0xLDCrIj22lXi-BA6MDr3dY_Dcw5saQvT_QW_lO-9jZK1uZrLnSdmuSE8pSGKHoGgJ0Y/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0n_L1JaLummpD78A_3L_F8Iqh3Fay-UFtMm_yJIfGe1A6ZlvZqVS4lL3shMW-6pSczydh7D5iuyigAJFGxQ/512fx384f"
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7ODYYzxb092kmZm0m_7zO6_ummpD78A_j7GWrI6t0ATsrUs_am_0cYLDcg5oNQ3R81Xqx7rqjcC6uMmfnSBh7j5iuyjKTEW-7g/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7ODYYzxb092kmZm0m_7zO6_ummpD78A_j7GWrI6t0ATsrUs_am_0cYLDcg5oNQ3R81Xqx7rqjcC6uMmfnSBh7j5iuyjKTEW-7g/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7ODYYzxb092kmZm0mvLwOq7cqWdQ-sJ0xOqQpYitjgftrUZkZGH7cIGQdVNtZl2F_Vm2krztjJHo7siamyRjs3U8pSGKd9XfyE0/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7ODYYzxb092kmZm0mvLwOq7cqWdQ-sJ0xOqQpYitjgftrUZkZGH7cIGQdVNtZl2F_Vm2krztjJHo7siamyRjs3U8pSGKd9XfyE0/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7ODYYzxb092kmZm0n_L1JaLummpD78A_2OjA9Iql2Vfh-0I6YTzxLdSXcFVvNFDTq1O7wbznh8PttJ_Az3Jh7z5iuyinqZykxQ/512fx384f"
+          }
+        },
+        {
+          "name": "SSG 08 | Blue Spruce",
+          "id": "199",
+          "desc": "It has individual parts spray-painted solid colors in a moss color scheme.",
+          "prices": {
+            "Factory New": "0.29",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.05",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "23.00",
+            "Souvenir Field-Tested": "16.79",
+            "Souvenir Well-Worn": "12.92",
+            "Souvenir Battle-Scarred": "18.08"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3fDJR_-O6nYeDg8j4MqnWkyUGvJIk2e3AptWgjQLjr0dlY2jzJYSTew49aQyG-FnrwLzphpe_7Z_M1zI97dk1ka4S/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3fDJR_-O6nYeDg8j4MqnWkyUGvJIk2e3AptWgjQLjr0dlY2jzJYSTew49aQyG-FnrwLzphpe_7Z_M1zI97dk1ka4S/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3fDJR_-O7kYSCgvrLP7rDkW4fsccp2bHD9I_xjQCx-BU6N2H0dtfGJwRrYg7YrFLrwb-5gpa0upnPyWwj5Hduo8Cfag/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3fDJR_-O7kYSCgvrLP7rDkW4fsccp2bHD9I_xjQCx-BU6N2H0dtfGJwRrYg7YrFLrwb-5gpa0upnPyWwj5Hduo8Cfag/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3fDJR_-O-kYGdjsj4MqnWkyVU7pIg3OqQoI6m3gHk-UY4ZWHxIYaSclJqZVnT_QK4xr3vhpa_6c-a1zI97XhqQF1B/512fx384f"
+          }
+        },
+        {
+          "name": "SCAR-20 | Contractor",
+          "id": "197",
+          "desc": "It has individual parts spray-painted tan, navy and dark green.",
+          "prices": {
+            "Factory New": "0.12",
+            "Minimal Wear": "0.04",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "8.45",
+            "Souvenir Field-Tested": "7.32",
+            "Souvenir Well-Worn": "6.27",
+            "Souvenir Battle-Scarred": "7.78"
+          },
+          "lore": "Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O6nYeDg8j4MqnWkyVSu8Ah3-vA8I_22QHm-Uo9amH6cNLBcg89aF7Ur1jtxbvm08TpupWY1zI97SZLY2Jj/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O6nYeDg8j4MqnWkyVSu8Ah3-vA8I_22QHm-Uo9amH6cNLBcg89aF7Ur1jtxbvm08TpupWY1zI97SZLY2Jj/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O7kYSCgvrLP7rDkW4fv5Mk3uvE9NiniVfk_BFkMWHzINOQcgZrNVDU_QfrkO_qg5Xu6Z-an2wj5HfSinewXQ/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O7kYSCgvrLP7rDkW4fv5Mk3uvE9NiniVfk_BFkMWHzINOQcgZrNVDU_QfrkO_qg5Xu6Z-an2wj5HfSinewXQ/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O-kYGdjsj4MqnWkyUJup0i2LDEp9im3VC1rUJoYzz3ctKSdVQ4Y1DZ-1K2wuvsjJPoupvN1zI97UzteTlX/512fx384f"
           }
         }
       ]
@@ -494,7 +866,7 @@
   },
   "The Lake Collection": {
     "name": "The Lake Collection",
-    "image_url": "https://csgostash.com/img/collections/256x198/the_lake_collection.png?id=0d64e20b22a406b20c56",
+    "image_url": "https://csgostash.com/img/collections/256x198/the_lake_collection.png?id=0d64e20b22a406b20c56b2e9f4668e8d",
     "content": {
       "Rare Special Items": [],
       "Covert Skins": [],
@@ -502,9 +874,21 @@
       "Restricted Skins": [
         {
           "name": "Dual Berettas | Cobalt Quartz",
+          "id": "172",
           "desc": "It has been painted with metallic paint, using a crystallizing mask to create a pattern.",
+          "prices": {
+            "Factory New": "0.40",
+            "Minimal Wear": "0.31",
+            "Field-Tested": "0.29",
+            "Well-Worn": "0.40",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "No Recent Price",
+            "Souvenir Field-Tested": "No Recent Price",
+            "Souvenir Well-Worn": "No Recent Price",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "Everyone wants to make an impact",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -517,25 +901,22 @@
       ],
       "Mil-Spec Skins": [
         {
-          "name": "P90 | Teardown",
-          "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV95NOiq4GFk8j3PLfVqWdY781lteXA54vwxlblrkRpajygI4CdcwM2aVuCrFLrw-fsh5e56Z7BzHo263Ei4nnezRSpwUYbfcYrNWU/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV95NOiq4GFk8j3PLfVqWdY781lteXA54vwxlblrkRpajygI4CdcwM2aVuCrFLrw-fsh5e56Z7BzHo263Ei4nnezRSpwUYbfcYrNWU/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV95NOiq4GFk8j3PLfVqWZU7Mxkh9bN9J7yjRrm8kZuMWHyd4WTdlBsYF7VqFa8wO2715W8uZ2fzXZlvnUqt3nYzRC3n1gSOcIEG3UH/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV95NOiq4GFk8j3PLfVqWZU7Mxkh9bN9J7yjRrm8kZuMWHyd4WTdlBsYF7VqFa8wO2715W8uZ2fzXZlvnUqt3nYzRC3n1gSOcIEG3UH/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV95NOiq4GFk8j3PLfVqWNU6dNoteXA54vwxlDh-RI-amr6I9eVdg43Zg3ZrFK3yOq615G975ibzHZj7yJx43aPm0apwUYb2Ivy90Y/512fx384f"
-          }
-        },
-        {
           "name": "USP-S | Night Ops",
+          "id": "167",
           "desc": "It has been painted using a VariCamo patterned hydrographic.",
+          "prices": {
+            "Factory New": "0.98",
+            "Minimal Wear": "0.73",
+            "Field-Tested": "0.58",
+            "Well-Worn": "0.62",
+            "Battle-Scarred": "0.59",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "367.11",
+            "Souvenir Field-Tested": "348.01",
+            "Souvenir Well-Worn": "119.64",
+            "Souvenir Battle-Scarred": "No Recent Price"
+          },
           "lore": "Rebuilding only comes in the wake of destruction",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -548,38 +929,101 @@
         },
         {
           "name": "SG 553 | Anodized Navy",
+          "id": "180",
           "desc": "It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+          "prices": {
+            "Factory New": "0.92",
+            "Minimal Wear": "0.89",
+            "Field-Tested": "Not Possible",
+            "Well-Worn": "Not Possible",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "107.44",
+            "Souvenir Minimal Wear": "No Recent Price",
+            "Souvenir Field-Tested": "Not Possible",
+            "Souvenir Well-Worn": "Not Possible",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
             "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0v33fzxU9eO6nYeDg8j4MqnWkyUE65EkibjCpt-k2ATi8kc6MGnyJNeWe1RvaFqF-QDokLzu0ZHvucjO1zI97Set3LZL/512fx384f",
             "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0v33fzxU9eO6nYeDg8j4MqnWkyUE65EkibjCpt-k2ATi8kc6MGnyJNeWe1RvaFqF-QDokLzu0ZHvucjO1zI97Set3LZL/512fx384f"
           }
+        },
+        {
+          "name": "P90 | Teardown",
+          "id": "175",
+          "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
+          "prices": {
+            "Factory New": "0.92",
+            "Minimal Wear": "0.70",
+            "Field-Tested": "0.57",
+            "Well-Worn": "0.54",
+            "Battle-Scarred": "0.54",
+            "Souvenir Factory New": "1,064.10",
+            "Souvenir Minimal Wear": "69.24",
+            "Souvenir Field-Tested": "85.13",
+            "Souvenir Well-Worn": "No Recent Price",
+            "Souvenir Battle-Scarred": "350.00"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV95NOiq4GFk8j3PLfVqWdY781lteXA54vwxlblrkRpajygI4CdcwM2aVuCrFLrw-fsh5e56Z7BzHo263Ei4nnezRSpwUYbfcYrNWU/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV95NOiq4GFk8j3PLfVqWdY781lteXA54vwxlblrkRpajygI4CdcwM2aVuCrFLrw-fsh5e56Z7BzHo263Ei4nnezRSpwUYbfcYrNWU/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV95NOiq4GFk8j3PLfVqWZU7Mxkh9bN9J7yjRrm8kZuMWHyd4WTdlBsYF7VqFa8wO2715W8uZ2fzXZlvnUqt3nYzRC3n1gSOcIEG3UH/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV95NOiq4GFk8j3PLfVqWZU7Mxkh9bN9J7yjRrm8kZuMWHyd4WTdlBsYF7VqFa8wO2715W8uZ2fzXZlvnUqt3nYzRC3n1gSOcIEG3UH/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7NYjV95NOiq4GFk8j3PLfVqWNU6dNoteXA54vwxlDh-RI-amr6I9eVdg43Zg3ZrFK3yOq615G975ibzHZj7yJx43aPm0apwUYb2Ivy90Y/512fx384f"
+          }
         }
       ],
       "Industrial Grade Skins": [
         {
-          "name": "PP-Bizon | Night Ops",
-          "desc": "It has been painted using a VariCamo patterned hydrographic.",
-          "lore": "Rebuilding only comes in the wake of destruction",
-          "date_added": "27 November 2013",
+          "name": "FAMAS | Cyanospatter",
+          "id": "178",
+          "desc": "It has been painted in a marbleized pattern.",
+          "prices": {
+            "Factory New": "1.29",
+            "Minimal Wear": "0.13",
+            "Field-Tested": "0.10",
+            "Well-Worn": "0.10",
+            "Battle-Scarred": "0.10",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "72.62",
+            "Souvenir Field-Tested": "17.97",
+            "Souvenir Well-Worn": "39.99",
+            "Souvenir Battle-Scarred": "110.00"
+          },
+          "lore": "This item has no Lore",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_ummJW4NFOhujT8om7jgTh8kA_YW2nJYKWcQVrZ1CD_QTswbvmhJC_tJjLznI3vyYj5y3ZmQv330_5mtovaA/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_ummJW4NFOhujT8om7jgTh8kA_YW2nJYKWcQVrZ1CD_QTswbvmhJC_tJjLznI3vyYj5y3ZmQv330_5mtovaA/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_um25V4dB8teXA54vwxlHk8xY6MDz3ctCcJFU8Yw6E_Ve_x7jqjMDq7s_JmHNksyhx5HrbzBKpwUYb_AwoUl0/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_um25V4dB8teXA54vwxlHk8xY6MDz3ctCcJFU8Yw6E_Ve_x7jqjMDq7s_JmHNksyhx5HrbzBKpwUYb_AwoUl0/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_unm5Q_txOhujT8om73Ffn8kFqYj_wdY6QdFJoYV3T-wC3x73qgsfvvJjPmHc2viEltCqOnAv3309dsSungA/512fx384f"
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3YzhH6uO6nYeDg8j4MqnWkyVVu5Qi0u-VodWkigHg-kBuZ2ihcoCRIw48NFjV_lTqlb3r1p_ptJ2d1zI97ZO9rvjR/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3YzhH6uO6nYeDg8j4MqnWkyVVu5Qi0u-VodWkigHg-kBuZ2ihcoCRIw48NFjV_lTqlb3r1p_ptJ2d1zI97ZO9rvjR/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3YzhH6uO7kYSCgvrLP7rDkW4fscEn2e2Y8dug0FWwrxdsZDzyItPEclQ2Y1vXrle4kuft0cC_vZzAwWwj5Hc3E_dwew/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3YzhH6uO7kYSCgvrLP7rDkW4fscEn2e2Y8dug0FWwrxdsZDzyItPEclQ2Y1vXrle4kuft0cC_vZzAwWwj5Hc3E_dwew/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3YzhH6uO-kYGdjsj4MqnWkyVV6sMhiOuW84mn2FLi8xA6Mm-hJoGTclVqM1nWrFi_xb_ngsS9uczL1zI97dYF9AmW/512fx384f"
           }
         },
         {
           "name": "XM1014 | Blue Steel",
+          "id": "179",
           "desc": "It has been cold blued.",
+          "prices": {
+            "Factory New": "0.34",
+            "Minimal Wear": "0.12",
+            "Field-Tested": "0.10",
+            "Well-Worn": "0.10",
+            "Battle-Scarred": "0.11",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "73.42",
+            "Souvenir Field-Tested": "37.98",
+            "Souvenir Well-Worn": "23.95",
+            "Souvenir Battle-Scarred": "115.47"
+          },
           "lore": "This is the malbec of weapon design - Booth, Arms Dealer",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -591,25 +1035,22 @@
           }
         },
         {
-          "name": "Desert Eagle | Mudder",
-          "desc": "It has been painted in a marbleized pattern.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTjBN-Mi6kYS0hPb6N4Tdn2xZ_Pp9i_vG8MKj2QG2rkNkZz33dtWcJlQ2MlHY_lS_l-_shpO978ycyCQyunVx43aOgVXp1pqfzIqJ/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTjBN-Mi6kYS0hPb6N4Tdn2xZ_Pp9i_vG8MKj2QG2rkNkZz33dtWcJlQ2MlHY_lS_l-_shpO978ycyCQyunVx43aOgVXp1pqfzIqJ/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTjBN-Mi6kYS0hPb6N4Tck29Y_chOhujT8om72wXt_EQ6Z2_1LYHEJwFsNVuG-Vi6xbu6gcTovpXMznQ27HIjtnaInwv330-Wi_z57w/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTjBN-Mi6kYS0hPb6N4Tck29Y_chOhujT8om72wXt_EQ6Z2_1LYHEJwFsNVuG-Vi6xbu6gcTovpXMznQ27HIjtnaInwv330-Wi_z57w/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTjBN-Mi6kYS0hPb6N4TZk2pH8fp9i_vG8MKm21C2r0BrMG72dtWTc1A4YwvSqFHsxee7jJXqupzOnHVnuCIm4yzbgVXp1oxPPN5O/512fx384f"
-          }
-        },
-        {
           "name": "AWP | Safari Mesh",
+          "id": "171",
           "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+          "prices": {
+            "Factory New": "2.90",
+            "Minimal Wear": "0.25",
+            "Field-Tested": "0.11",
+            "Well-Worn": "0.14",
+            "Battle-Scarred": "0.28",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "303.86",
+            "Souvenir Field-Tested": "123.45",
+            "Souvenir Well-Worn": "274.22",
+            "Souvenir Battle-Scarred": "199.99"
+          },
           "lore": "A predator is a predator, no matter the environment",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -621,57 +1062,78 @@
           }
         },
         {
-          "name": "FAMAS | Cyanospatter",
-          "desc": "It has been painted in a marbleized pattern.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
+          "name": "PP-Bizon | Night Ops",
+          "id": "174",
+          "desc": "It has been painted using a VariCamo patterned hydrographic.",
+          "prices": {
+            "Factory New": "0.17",
+            "Minimal Wear": "0.11",
+            "Field-Tested": "0.10",
+            "Well-Worn": "0.10",
+            "Battle-Scarred": "0.10",
+            "Souvenir Factory New": "47.93",
+            "Souvenir Minimal Wear": "24.47",
+            "Souvenir Field-Tested": "22.36",
+            "Souvenir Well-Worn": "12.58",
+            "Souvenir Battle-Scarred": "No Recent Price"
+          },
+          "lore": "Rebuilding only comes in the wake of destruction",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3YzhH6uO6nYeDg8j4MqnWkyVVu5Qi0u-VodWkigHg-kBuZ2ihcoCRIw48NFjV_lTqlb3r1p_ptJ2d1zI97ZO9rvjR/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3YzhH6uO6nYeDg8j4MqnWkyVVu5Qi0u-VodWkigHg-kBuZ2ihcoCRIw48NFjV_lTqlb3r1p_ptJ2d1zI97ZO9rvjR/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3YzhH6uO7kYSCgvrLP7rDkW4fscEn2e2Y8dug0FWwrxdsZDzyItPEclQ2Y1vXrle4kuft0cC_vZzAwWwj5Hc3E_dwew/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3YzhH6uO7kYSCgvrLP7rDkW4fscEn2e2Y8dug0FWwrxdsZDzyItPEclQ2Y1vXrle4kuft0cC_vZzAwWwj5Hc3E_dwew/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3YzhH6uO-kYGdjsj4MqnWkyVV6sMhiOuW84mn2FLi8xA6Mm-hJoGTclVqM1nWrFi_xb_ngsS9uczL1zI97dYF9AmW/512fx384f"
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_ummJW4NFOhujT8om7jgTh8kA_YW2nJYKWcQVrZ1CD_QTswbvmhJC_tJjLznI3vyYj5y3ZmQv330_5mtovaA/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_ummJW4NFOhujT8om7jgTh8kA_YW2nJYKWcQVrZ1CD_QTswbvmhJC_tJjLznI3vyYj5y3ZmQv330_5mtovaA/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_um25V4dB8teXA54vwxlHk8xY6MDz3ctCcJFU8Yw6E_Ve_x7jqjMDq7s_JmHNksyhx5HrbzBKpwUYb_AwoUl0/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_um25V4dB8teXA54vwxlHk8xY6MDz3ctCcJFU8Yw6E_Ve_x7jqjMDq7s_JmHNksyhx5HrbzBKpwUYb_AwoUl0/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZzxQ5d-3mY-0mf7zO6_unm5Q_txOhujT8om73Ffn8kFqYj_wdY6QdFJoYV3T-wC3x73qgsfvvJjPmHc2viEltCqOnAv3309dsSungA/512fx384f"
+          }
+        },
+        {
+          "name": "Desert Eagle | Mudder",
+          "id": "168",
+          "desc": "It has been painted in a marbleized pattern.",
+          "prices": {
+            "Factory New": "1.31",
+            "Minimal Wear": "0.14",
+            "Field-Tested": "0.10",
+            "Well-Worn": "0.11",
+            "Battle-Scarred": "0.11",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "139.99",
+            "Souvenir Field-Tested": "51.75",
+            "Souvenir Well-Worn": "60.72",
+            "Souvenir Battle-Scarred": "86.99"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTjBN-Mi6kYS0hPb6N4Tdn2xZ_Pp9i_vG8MKj2QG2rkNkZz33dtWcJlQ2MlHY_lS_l-_shpO978ycyCQyunVx43aOgVXp1pqfzIqJ/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTjBN-Mi6kYS0hPb6N4Tdn2xZ_Pp9i_vG8MKj2QG2rkNkZz33dtWcJlQ2MlHY_lS_l-_shpO978ycyCQyunVx43aOgVXp1pqfzIqJ/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTjBN-Mi6kYS0hPb6N4Tck29Y_chOhujT8om72wXt_EQ6Z2_1LYHEJwFsNVuG-Vi6xbu6gcTovpXMznQ27HIjtnaInwv330-Wi_z57w/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTjBN-Mi6kYS0hPb6N4Tck29Y_chOhujT8om72wXt_EQ6Z2_1LYHEJwFsNVuG-Vi6xbu6gcTovpXMznQ27HIjtnaInwv330-Wi_z57w/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTjBN-Mi6kYS0hPb6N4TZk2pH8fp9i_vG8MKm21C2r0BrMG72dtWTc1A4YwvSqFHsxee7jJXqupzOnHVnuCIm4yzbgVXp1oxPPN5O/512fx384f"
           }
         }
       ],
       "Consumer Grade Skins": [
         {
-          "name": "G3SG1 | Jungle Dashed",
-          "desc": "It has been spray-painted using short pieces of tape as stencils.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5Mx2gv3--Y3nj1H6-0E6N2n1cNSdJA87YV_Y8wO4kuq908C-upidn3JlviMr5nffzBC_hAYMMLLHPllh2A/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5Mx2gv3--Y3nj1H6-0E6N2n1cNSdJA87YV_Y8wO4kuq908C-upidn3JlviMr5nffzBC_hAYMMLLHPllh2A/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5cB1g_zMyoD0mlOx5RFvZmGhJtWTcQBoZFDX_QW7xefshZG-u5jBnCcysilw53fUmhe1gRBSLrs4jIQo_Mo/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5cB1g_zMyoD0mlOx5RFvZmGhJtWTcQBoZFDX_QW7xefshZG-u5jBnCcysilw53fUmhe1gRBSLrs4jIQo_Mo/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u4MBwnPD--Y3nj1H6-0E9Zm7zI4KQcVU6NFDWrFTtwr251p64u5TPnycxs3Z05C6OnkPj1AYMMLIsFBOF3w/512fx384f"
-          }
-        },
-        {
-          "name": "XM1014 | Blue Spruce",
-          "desc": "It has individual parts spray-painted solid colors in a moss color scheme.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjBN_8-JmImMn-PLP7rDkW4fvZYh0r6Yo4r03lGy-RY4Mjj3IdeTIQBrZluD_1i6xOy51pS6uZrByGwj5HdDTKCfRw/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjBN_8-JmImMn-PLP7rDkW4fvZYh0r6Yo4r03lGy-RY4Mjj3IdeTIQBrZluD_1i6xOy51pS6uZrByGwj5HdDTKCfRw/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjBN_8-JmYWPnuL5DLfQhGxUppUp3rvFrI2ljQeyqEM5YGjxdYaccQBsYQvX8lC9xum7gsW_uMvNnyB9-n51RxxVmwc/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjBN_8-JmYWPnuL5DLfQhGxUppUp3rvFrI2ljQeyqEM5YGjxdYaccQBsYQvX8lC9xum7gsW_uMvNnyB9-n51RxxVmwc/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjBN_8-JnIWKge7LP7rDkW4f6ZEh2rzErdSn0QLs-UFqZjzxJ46UIQNrYAqC-VC_wu-5h8W1tcibz2wj5HejiY1OwQ/512fx384f"
-          }
-        },
-        {
           "name": "SG 553 | Waves Perforated",
+          "id": "176",
           "desc": "It has been spray-painted using ripped tape strips and perforated metal as stencils.",
+          "prices": {
+            "Factory New": "0.19",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "15.92",
+            "Souvenir Field-Tested": "10.52",
+            "Souvenir Well-Worn": "12.28",
+            "Souvenir Battle-Scarred": "9.13"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -683,10 +1145,76 @@
           }
         },
         {
+          "name": "P250 | Boreal Forest",
+          "id": "166",
+          "desc": "It has been painted using a forest camouflage hydrographic.",
+          "prices": {
+            "Factory New": "0.18",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "15.45",
+            "Souvenir Field-Tested": "14.67",
+            "Souvenir Well-Worn": "15.96",
+            "Souvenir Battle-Scarred": "9.26"
+          },
+          "lore": "The woods can be a dangerous place... never travel alone",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLfYkWNF18lwmO7Eu4it2AG2-BBpZT_0IIKXclNvY12F-1Xqk-bp0JHv6pXIwXM3sygj5nvD30vgZdQZjAE/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLfYkWNF18lwmO7Eu4it2AG2-BBpZT_0IIKXclNvY12F-1Xqk-bp0JHv6pXIwXM3sygj5nvD30vgZdQZjAE/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLbUkmJE5fp9i_vG8MLxilHtqEdoZTrzdtfAIQY9MwnXr1O5w-68hJHo7p3NwSFkuHUisX3fgVXp1taHNTzj/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLbUkmJE5fp9i_vG8MLxilHtqEdoZTrzdtfAIQY9MwnXr1O5w-68hJHo7p3NwSFkuHUisX3fgVXp1taHNTzj/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLPUl31I18lwmO7Eu9v32gPn_UBuMWugd4aUJA89ZFDZrljtwea8h8fvv5XLznRk7yZ05SzD30vgQn7xjrE/512fx384f"
+          }
+        },
+        {
+          "name": "G3SG1 | Jungle Dashed",
+          "id": "177",
+          "desc": "It has been spray-painted using short pieces of tape as stencils.",
+          "prices": {
+            "Factory New": "0.17",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "195.47",
+            "Souvenir Minimal Wear": "5.94",
+            "Souvenir Field-Tested": "9.25",
+            "Souvenir Well-Worn": "7.68",
+            "Souvenir Battle-Scarred": "11.11"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5Mx2gv3--Y3nj1H6-0E6N2n1cNSdJA87YV_Y8wO4kuq908C-upidn3JlviMr5nffzBC_hAYMMLLHPllh2A/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5Mx2gv3--Y3nj1H6-0E6N2n1cNSdJA87YV_Y8wO4kuq908C-upidn3JlviMr5nffzBC_hAYMMLLHPllh2A/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5cB1g_zMyoD0mlOx5RFvZmGhJtWTcQBoZFDX_QW7xefshZG-u5jBnCcysilw53fUmhe1gRBSLrs4jIQo_Mo/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u5cB1g_zMyoD0mlOx5RFvZmGhJtWTcQBoZFDX_QW7xefshZG-u5jBnCcysilw53fUmhe1gRBSLrs4jIQo_Mo/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3ZTxS6eOlnI-Zg8j-JrXWmm5u4MBwnPD--Y3nj1H6-0E9Zm7zI4KQcVU6NFDWrFTtwr251p64u5TPnycxs3Z05C6OnkPj1AYMMLIsFBOF3w/512fx384f"
+          }
+        },
+        {
           "name": "AUG | Storm",
+          "id": "170",
           "desc": "It has individual parts spray-painted solid colors in a stormy color scheme.",
+          "prices": {
+            "Factory New": "0.40",
+            "Minimal Wear": "0.07",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "15.23",
+            "Souvenir Field-Tested": "8.93",
+            "Souvenir Well-Worn": "30.89",
+            "Souvenir Battle-Scarred": "8.58"
+          },
           "lore": "It will be waiting for you at the monorail",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -699,9 +1227,21 @@
         },
         {
           "name": "Galil AR | Sage Spray",
+          "id": "173",
           "desc": "It has been spray-painted freehand with short, thick lines in contrasting colors.",
+          "prices": {
+            "Factory New": "0.27",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "12.77",
+            "Souvenir Field-Tested": "13.45",
+            "Souvenir Well-Worn": "10.74",
+            "Souvenir Battle-Scarred": "8.91"
+          },
           "lore": "Perfect for the insurgent on the go",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -713,18 +1253,30 @@
           }
         },
         {
-          "name": "P250 | Boreal Forest",
-          "desc": "It has been painted using a forest camouflage hydrographic.",
-          "lore": "The woods can be a dangerous place... never travel alone",
-          "date_added": "27 November 2013",
+          "name": "XM1014 | Blue Spruce",
+          "id": "169",
+          "desc": "It has individual parts spray-painted solid colors in a moss color scheme.",
+          "prices": {
+            "Factory New": "0.20",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "12.96",
+            "Souvenir Field-Tested": "5.64",
+            "Souvenir Well-Worn": "7.72",
+            "Souvenir Battle-Scarred": "10.64"
+          },
+          "lore": "This item has no Lore",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLfYkWNF18lwmO7Eu4it2AG2-BBpZT_0IIKXclNvY12F-1Xqk-bp0JHv6pXIwXM3sygj5nvD30vgZdQZjAE/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLfYkWNF18lwmO7Eu4it2AG2-BBpZT_0IIKXclNvY12F-1Xqk-bp0JHv6pXIwXM3sygj5nvD30vgZdQZjAE/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLbUkmJE5fp9i_vG8MLxilHtqEdoZTrzdtfAIQY9MwnXr1O5w-68hJHo7p3NwSFkuHUisX3fgVXp1taHNTzj/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLbUkmJE5fp9i_vG8MLxilHtqEdoZTrzdtfAIQY9MwnXr1O5w-68hJHo7p3NwSFkuHUisX3fgVXp1taHNTzj/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLPUl31I18lwmO7Eu9v32gPn_UBuMWugd4aUJA89ZFDZrljtwea8h8fvv5XLznRk7yZ05SzD30vgQn7xjrE/512fx384f"
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjBN_8-JmImMn-PLP7rDkW4fvZYh0r6Yo4r03lGy-RY4Mjj3IdeTIQBrZluD_1i6xOy51pS6uZrByGwj5HdDTKCfRw/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjBN_8-JmImMn-PLP7rDkW4fvZYh0r6Yo4r03lGy-RY4Mjj3IdeTIQBrZluD_1i6xOy51pS6uZrByGwj5HdDTKCfRw/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjBN_8-JmYWPnuL5DLfQhGxUppUp3rvFrI2ljQeyqEM5YGjxdYaccQBsYQvX8lC9xum7gsW_uMvNnyB9-n51RxxVmwc/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjBN_8-JmYWPnuL5DLfQhGxUppUp3rvFrI2ljQeyqEM5YGjxdYaccQBsYQvX8lC9xum7gsW_uMvNnyB9-n51RxxVmwc/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjBN_8-JnIWKge7LP7rDkW4f6ZEh2rzErdSn0QLs-UFqZjzxJ46UIQNrYAqC-VC_wu-5h8W1tcibz2wj5HejiY1OwQ/512fx384f"
           }
         }
       ]
@@ -732,7 +1284,7 @@
   },
   "The Italy Collection": {
     "name": "The Italy Collection",
-    "image_url": "https://csgostash.com/img/collections/256x198/the_italy_collection.png?id=3d26a509b630071369aa",
+    "image_url": "https://csgostash.com/img/collections/256x198/the_italy_collection.png?id=3d26a509b630071369aaa9c7cd6ad3d8",
     "content": {
       "Rare Special Items": [],
       "Covert Skins": [],
@@ -740,9 +1292,21 @@
       "Restricted Skins": [
         {
           "name": "AWP | Pit Viper",
+          "id": "158",
           "desc": "It has been painted with a snakeskin patterned hydrographic.",
+          "prices": {
+            "Factory New": "Not Possible",
+            "Minimal Wear": "0.88",
+            "Field-Tested": "0.59",
+            "Well-Worn": "0.75",
+            "Battle-Scarred": "0.82",
+            "Souvenir Factory New": "Not Possible",
+            "Souvenir Minimal Wear": "No Recent Price",
+            "Souvenir Field-Tested": "No Recent Price",
+            "Souvenir Well-Worn": "No Recent Price",
+            "Souvenir Battle-Scarred": "No Recent Price"
+          },
           "lore": "I know you don't believe in the cause...and when I expose you, Valeria will have your head - The Shield and The Serpent Part 1",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -756,9 +1320,21 @@
       "Mil-Spec Skins": [
         {
           "name": "MP7 | Anodized Navy",
+          "id": "163",
           "desc": "It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+          "prices": {
+            "Factory New": "0.93",
+            "Minimal Wear": "0.92",
+            "Field-Tested": "Not Possible",
+            "Well-Worn": "Not Possible",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "66.83",
+            "Souvenir Minimal Wear": "No Recent Price",
+            "Souvenir Field-Tested": "Not Possible",
+            "Souvenir Well-Worn": "Not Possible",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -768,9 +1344,21 @@
         },
         {
           "name": "Glock-18 | Candy Apple",
+          "id": "160",
           "desc": "It has individual parts spray-painted solid colors in a red and black color scheme.",
+          "prices": {
+            "Factory New": "1.28",
+            "Minimal Wear": "0.98",
+            "Field-Tested": "0.88",
+            "Well-Worn": "Not Possible",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "287.56",
+            "Souvenir Field-Tested": "367.11",
+            "Souvenir Well-Worn": "Not Possible",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "Great on cars, better on weapons",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -781,9 +1369,21 @@
         },
         {
           "name": "Sawed-Off | Full Stop",
+          "id": "153",
           "desc": "It has been painted using a VariCamo patterned hydrographic.",
+          "prices": {
+            "Factory New": "0.95",
+            "Minimal Wear": "0.78",
+            "Field-Tested": "0.61",
+            "Well-Worn": "0.54",
+            "Battle-Scarred": "0.57",
+            "Souvenir Factory New": "469.55",
+            "Souvenir Minimal Wear": "131.49",
+            "Souvenir Field-Tested": "74.48",
+            "Souvenir Well-Worn": "608.96",
+            "Souvenir Battle-Scarred": "146.83"
+          },
           "lore": "Rebuilding only comes in the wake of destruction",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -797,25 +1397,22 @@
       ],
       "Industrial Grade Skins": [
         {
-          "name": "Dual Berettas | Stained",
-          "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
-          "lore": "If you think it's messy now, wait until you see it under a blacklight",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq4yCkP_gDLfQhGxUpsYn372ToNqj2Qex-0tlYDvyItTAcAFvZl7S-wTtxejm1JC_7ZTAzHd9-n510gMu2hs/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq4yCkP_gDLfQhGxUpsYn372ToNqj2Qex-0tlYDvyItTAcAFvZl7S-wTtxejm1JC_7ZTAzHd9-n510gMu2hs/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq42Ok_7hPoTdl3lW7YskjruVrY6g3le2-0VsZzvyIdeXewE_aAmErlC3x7rthMC_7svOmCc2pGB8svqiQbT5/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq42Ok_7hPoTdl3lW7YskjruVrY6g3le2-0VsZzvyIdeXewE_aAmErlC3x7rthMC_7svOmCc2pGB8svqiQbT5/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq4iOluHtDLfQhGxUppYm3uuVrY2liVfm_UtkamDwIIbEcgU3aAzUrFPsw-rmjJa07pnNnXd9-n51N7ZHtHM/512fx384f"
-          }
-        },
-        {
           "name": "M4A1-S | Boreal Forest",
+          "id": "155",
           "desc": "It has been painted using a forest camouflage hydrographic.",
+          "prices": {
+            "Factory New": "4.29",
+            "Minimal Wear": "0.60",
+            "Field-Tested": "0.15",
+            "Well-Worn": "0.25",
+            "Battle-Scarred": "0.18",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "370.50",
+            "Souvenir Field-Tested": "55.31",
+            "Souvenir Well-Worn": "122.37",
+            "Souvenir Battle-Scarred": "164.25"
+          },
           "lore": "The woods can be a dangerous place... never travel alone",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -828,9 +1425,21 @@
         },
         {
           "name": "Nova | Candy Apple",
+          "id": "165",
           "desc": "It has individual parts spray-painted solid colors in a red and black color scheme.",
+          "prices": {
+            "Factory New": "0.20",
+            "Minimal Wear": "0.13",
+            "Field-Tested": "0.11",
+            "Well-Worn": "Not Possible",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "180.70",
+            "Souvenir Minimal Wear": "58.46",
+            "Souvenir Field-Tested": "54.06",
+            "Souvenir Well-Worn": "Not Possible",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "Great on cars, better on weapons",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -840,25 +1449,22 @@
           }
         },
         {
-          "name": "P2000 | Granite Marbleized",
-          "desc": "It has been painted in a marbleized pattern.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPv9NLPFqWdQ-sJ0xLqR8dr03gy3_kFuMjz2cNKVIVA5MF7Xr1G5lL2815C678vMySBjvnM8pSGK6X0incY/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPv9NLPFqWdQ-sJ0xLqR8dr03gy3_kFuMjz2cNKVIVA5MF7Xr1G5lL2815C678vMySBjvnM8pSGK6X0incY/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPrxN7LEm1Rd6dd2j6eR99Wh2ADhrRBoYjyiJdXDIAdrYl_UqFK2lL-9hsXt7cvKwHMyvCAg-z-DyIQOpr_N/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPrxN7LEm1Rd6dd2j6eR99Wh2ADhrRBoYjyiJdXDIAdrYl_UqFK2lL-9hsXt7cvKwHMyvCAg-z-DyIQOpr_N/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqP_xMq3IqWdQ-sJ0xLnDpIr33ATl-EJlN2qnJY-TJFc3NVDRqwDsk7-6hcO9upmayXAwsik8pSGK6xMdpGI/512fx384f"
-          }
-        },
-        {
           "name": "UMP-45 | Gunsmoke",
+          "id": "157",
           "desc": "It has been painted using a hydrographic of a gel pen doodle.",
+          "prices": {
+            "Factory New": "0.36",
+            "Minimal Wear": "0.10",
+            "Field-Tested": "0.10",
+            "Well-Worn": "0.10",
+            "Battle-Scarred": "0.10",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "165.52",
+            "Souvenir Field-Tested": "15.91",
+            "Souvenir Well-Worn": "48.94",
+            "Souvenir Battle-Scarred": "44.64"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -870,10 +1476,49 @@
           }
         },
         {
+          "name": "Dual Berettas | Stained",
+          "id": "162",
+          "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
+          "prices": {
+            "Factory New": "0.36",
+            "Minimal Wear": "0.12",
+            "Field-Tested": "0.11",
+            "Well-Worn": "0.10",
+            "Battle-Scarred": "0.10",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "59.46",
+            "Souvenir Field-Tested": "33.67",
+            "Souvenir Well-Worn": "56.06",
+            "Souvenir Battle-Scarred": "20.12"
+          },
+          "lore": "If you think it's messy now, wait until you see it under a blacklight",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq4yCkP_gDLfQhGxUpsYn372ToNqj2Qex-0tlYDvyItTAcAFvZl7S-wTtxejm1JC_7ZTAzHd9-n510gMu2hs/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq4yCkP_gDLfQhGxUpsYn372ToNqj2Qex-0tlYDvyItTAcAFvZl7S-wTtxejm1JC_7ZTAzHd9-n510gMu2hs/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq42Ok_7hPoTdl3lW7YskjruVrY6g3le2-0VsZzvyIdeXewE_aAmErlC3x7rthMC_7svOmCc2pGB8svqiQbT5/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq42Ok_7hPoTdl3lW7YskjruVrY6g3le2-0VsZzvyIdeXewE_aAmErlC3x7rthMC_7svOmCc2pGB8svqiQbT5/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0uL3dzJQ79myq4iOluHtDLfQhGxUppYm3uuVrY2liVfm_UtkamDwIIbEcgU3aAzUrFPsw-rmjJa07pnNnXd9-n51N7ZHtHM/512fx384f"
+          }
+        },
+        {
           "name": "XM1014 | CaliCamo",
+          "id": "151",
           "desc": "It has been painted using a VariCamo patterned hydrographic.",
+          "prices": {
+            "Factory New": "0.17",
+            "Minimal Wear": "0.11",
+            "Field-Tested": "0.10",
+            "Well-Worn": "0.12",
+            "Battle-Scarred": "0.10",
+            "Souvenir Factory New": "122.37",
+            "Souvenir Minimal Wear": "33.87",
+            "Souvenir Field-Tested": "23.40",
+            "Souvenir Well-Worn": "No Recent Price",
+            "Souvenir Battle-Scarred": "62.97"
+          },
           "lore": "Rebuilding only comes in the wake of destruction",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -883,14 +1528,53 @@
             "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTitD_tW1lY2EqPPxIL7DglRc7cF4n-T--Y3nj1H6-UJoa2GlcteQdQ5qYF-E8lm9x-rmjcC4vs_KnHFjuygh4iuJzRaz1AYMMLIrvO5lfg/512fx384f",
             "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTitD_tW1lY2EqPPxIL7DglRZ7cRnk9bN9J7yjRrj_BBpMjygLY-VcQ83Z1iBrlHoyLrq0MK8uZXOyyRrsnYn5XfUmRK0n1gSOcN1N2jS/512fx384f"
           }
+        },
+        {
+          "name": "P2000 | Granite Marbleized",
+          "id": "161",
+          "desc": "It has been painted in a marbleized pattern.",
+          "prices": {
+            "Factory New": "0.43",
+            "Minimal Wear": "0.12",
+            "Field-Tested": "0.10",
+            "Well-Worn": "0.10",
+            "Battle-Scarred": "0.11",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "47.89",
+            "Souvenir Field-Tested": "27.51",
+            "Souvenir Well-Worn": "34.42",
+            "Souvenir Battle-Scarred": "22.97"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPv9NLPFqWdQ-sJ0xLqR8dr03gy3_kFuMjz2cNKVIVA5MF7Xr1G5lL2815C678vMySBjvnM8pSGK6X0incY/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPv9NLPFqWdQ-sJ0xLqR8dr03gy3_kFuMjz2cNKVIVA5MF7Xr1G5lL2815C678vMySBjvnM8pSGK6X0incY/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPrxN7LEm1Rd6dd2j6eR99Wh2ADhrRBoYjyiJdXDIAdrYl_UqFK2lL-9hsXt7cvKwHMyvCAg-z-DyIQOpr_N/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqPrxN7LEm1Rd6dd2j6eR99Wh2ADhrRBoYjyiJdXDIAdrYl_UqFK2lL-9hsXt7cvKwHMyvCAg-z-DyIQOpr_N/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zAaAJF_t24nZSOqP_xMq3IqWdQ-sJ0xLnDpIr33ATl-EJlN2qnJY-TJFc3NVDRqwDsk7-6hcO9upmayXAwsik8pSGK6xMdpGI/512fx384f"
+          }
         }
       ],
       "Consumer Grade Skins": [
         {
           "name": "FAMAS | Colony",
+          "id": "156",
           "desc": "It has individual parts spray-painted khaki and grey.",
+          "prices": {
+            "Factory New": "0.16",
+            "Minimal Wear": "0.04",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "20.83",
+            "Souvenir Field-Tested": "12.35",
+            "Souvenir Well-Worn": "10.94",
+            "Souvenir Battle-Scarred": "10.96"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -902,25 +1586,49 @@
           }
         },
         {
-          "name": "Tec-9 | Groundwater",
-          "desc": "It has individual parts spray-painted solid colors in an olive drab color scheme.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
+          "name": "AUG | Contractor",
+          "id": "154",
+          "desc": "It has individual parts spray-painted tan, navy and dark green.",
+          "prices": {
+            "Factory New": "0.18",
+            "Minimal Wear": "0.04",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "305.93",
+            "Souvenir Minimal Wear": "11.00",
+            "Souvenir Field-Tested": "9.93",
+            "Souvenir Well-Worn": "10.12",
+            "Souvenir Battle-Scarred": "7.77"
+          },
+          "lore": "Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO6nYeDg8j4MqnWkyUH65YkjLvC99rwjgSy80pvNWnxcIGVdQM3Ml3S8gfrxefqjcfo6c-a1zI97ca4WGIp/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO6nYeDg8j4MqnWkyUH65YkjLvC99rwjgSy80pvNWnxcIGVdQM3Ml3S8gfrxefqjcfo6c-a1zI97ca4WGIp/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO7kYSCgvrLP7rDkW4f6cNz277CotStiwXn80o9MTilJIOScVRoMFiC_1XoxLvoh5W775qan2wj5HcVoyFI5w/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO7kYSCgvrLP7rDkW4f6cNz277CotStiwXn80o9MTilJIOScVRoMFiC_1XoxLvoh5W775qan2wj5HcVoyFI5w/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO-kYGdjsj4MqnWkyUGsZEk07uWoIijiwW2_EVrMT-lcoPHIQ89YF3Qq1TowrjqhZC-tc_L1zI97TFu1Ht6/512fx384f"
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJO5du-gL-HluXzNvXUxGoBvsdw3-2X9tik2gDk8xduZ230cYeTcAM5Y1DR_QTrwevt18K_ot2XnjXwFDLa/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJO5du-gL-HluXzNvXUxGoBvsdw3-2X9tik2gDk8xduZ230cYeTcAM5Y1DR_QTrwevt18K_ot2XnjXwFDLa/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJP6di_gY20m_bmNL6fwDlTvZUk0r7ArIqkila28hBkNzrzdofDdwY9ZlDY-wTolbjoh8Pqv4OJlyX3iSNzEQ/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJP6di_gY20m_bmNL6fwDlTvZUk0r7ArIqkila28hBkNzrzdofDdwY9ZlDY-wTolbjoh8Pqv4OJlyX3iSNzEQ/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJK6d2gjb-HluXzNvWEzm5X7Jx02LGZrdut2wy3rxA_NjuiIYCSJlBsZFmEq1W4w-i9g5O1ot2XnvjLm6nU/512fx384f"
           }
         },
         {
           "name": "PP-Bizon | Sand Dashed",
+          "id": "164",
           "desc": "It has been spray-painted using short pieces of tape as stencils.",
+          "prices": {
+            "Factory New": "0.16",
+            "Minimal Wear": "0.04",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "9.50",
+            "Souvenir Field-Tested": "7.38",
+            "Souvenir Well-Worn": "7.99",
+            "Souvenir Battle-Scarred": "8.53"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -932,10 +1640,49 @@
           }
         },
         {
+          "name": "Tec-9 | Groundwater",
+          "id": "152",
+          "desc": "It has individual parts spray-painted solid colors in an olive drab color scheme.",
+          "prices": {
+            "Factory New": "0.21",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "18.31",
+            "Souvenir Field-Tested": "9.89",
+            "Souvenir Well-Worn": "12.28",
+            "Souvenir Battle-Scarred": "10.64"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO6nYeDg8j4MqnWkyUH65YkjLvC99rwjgSy80pvNWnxcIGVdQM3Ml3S8gfrxefqjcfo6c-a1zI97ca4WGIp/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO6nYeDg8j4MqnWkyUH65YkjLvC99rwjgSy80pvNWnxcIGVdQM3Ml3S8gfrxefqjcfo6c-a1zI97ca4WGIp/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO7kYSCgvrLP7rDkW4f6cNz277CotStiwXn80o9MTilJIOScVRoMFiC_1XoxLvoh5W775qan2wj5HcVoyFI5w/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO7kYSCgvrLP7rDkW4f6cNz277CotStiwXn80o9MTilJIOScVRoMFiC_1XoxLvoh5W775qan2wj5HcVoyFI5w/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhz3MzHfTRU6eO-kYGdjsj4MqnWkyUGsZEk07uWoIijiwW2_EVrMT-lcoPHIQ89YF3Qq1TowrjqhZC-tc_L1zI97TFu1Ht6/512fx384f"
+          }
+        },
+        {
           "name": "Nova | Sand Dune",
+          "id": "159",
           "desc": "It has individual parts spray-painted solid colors in a sand dune color scheme.",
+          "prices": {
+            "Factory New": "0.19",
+            "Minimal Wear": "0.04",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "8.25",
+            "Souvenir Field-Tested": "6.70",
+            "Souvenir Well-Worn": "30.22",
+            "Souvenir Battle-Scarred": "8.29"
+          },
           "lore": "With Turner dead, we have a new priority: rescue Alex Kincaide - Felix Riley, Commanding Officer",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -945,28 +1692,13 @@
             "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzbcDNG09GzkImemsj4MqnWkyVVu50m3rCZ8dnxjVC2qkZlaz32II6Tc1RoaQ7T_ATvxujv0ZTuvZic1zI97Y6pmocY/512fx384f",
             "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzbcDNG09SzlZaSqPv1IbzU2DxQupEk37mRp9_02QHs8kRramjwdYLEIwc5NAvQ-lO3wu_mhpC-uM_XiSw0w1f0jPc/512fx384f"
           }
-        },
-        {
-          "name": "AUG | Contractor",
-          "desc": "It has individual parts spray-painted tan, navy and dark green.",
-          "lore": "Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJO5du-gL-HluXzNvXUxGoBvsdw3-2X9tik2gDk8xduZ230cYeTcAM5Y1DR_QTrwevt18K_ot2XnjXwFDLa/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJO5du-gL-HluXzNvXUxGoBvsdw3-2X9tik2gDk8xduZ230cYeTcAM5Y1DR_QTrwevt18K_ot2XnjXwFDLa/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJP6di_gY20m_bmNL6fwDlTvZUk0r7ArIqkila28hBkNzrzdofDdwY9ZlDY-wTolbjoh8Pqv4OJlyX3iSNzEQ/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJP6di_gY20m_bmNL6fwDlTvZUk0r7ArIqkila28hBkNzrzdofDdwY9ZlDY-wTolbjoh8Pqv4OJlyX3iSNzEQ/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7OPFcgJK6d2gjb-HluXzNvWEzm5X7Jx02LGZrdut2wy3rxA_NjuiIYCSJlBsZFmEq1W4w-i9g5O1ot2XnvjLm6nU/512fx384f"
-          }
         }
       ]
     }
   },
   "The Train Collection": {
     "name": "The Train Collection",
-    "image_url": "https://csgostash.com/img/collections/256x198/the_train_collection.png?id=f73222ec47b114b8a221",
+    "image_url": "https://csgostash.com/img/collections/256x198/the_train_collection.png?id=f73222ec47b114b8a221a66d8f9de40e",
     "content": {
       "Rare Special Items": [],
       "Covert Skins": [],
@@ -974,9 +1706,21 @@
       "Restricted Skins": [
         {
           "name": "Tec-9 | Red Quartz",
+          "id": "216",
           "desc": "It has been painted with metallic paint, using a crystallizing mask to create a pattern.",
+          "prices": {
+            "Factory New": "0.30",
+            "Minimal Wear": "0.26",
+            "Field-Tested": "0.26",
+            "Well-Worn": "0.36",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "23.39",
+            "Souvenir Minimal Wear": "14.69",
+            "Souvenir Field-Tested": "8.55",
+            "Souvenir Well-Worn": "13.95",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "Everyone wants to make an impact",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -990,9 +1734,21 @@
       "Mil-Spec Skins": [
         {
           "name": "Desert Eagle | Urban Rubble",
+          "id": "215",
           "desc": "It has been painted using a VariCamo patterned hydrographic.",
+          "prices": {
+            "Factory New": "0.98",
+            "Minimal Wear": "0.73",
+            "Field-Tested": "0.58",
+            "Well-Worn": "0.61",
+            "Battle-Scarred": "0.66",
+            "Souvenir Factory New": "16.62",
+            "Souvenir Minimal Wear": "9.51",
+            "Souvenir Field-Tested": "6.91",
+            "Souvenir Well-Worn": "10.98",
+            "Souvenir Battle-Scarred": "17.57"
+          },
           "lore": "Rebuilding only comes in the wake of destruction",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -1005,9 +1761,21 @@
         },
         {
           "name": "Sawed-Off | Amber Fade",
+          "id": "220",
           "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+          "prices": {
+            "Factory New": "0.97",
+            "Minimal Wear": "0.71",
+            "Field-Tested": "0.60",
+            "Well-Worn": "0.63",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "3.38",
+            "Souvenir Minimal Wear": "1.86",
+            "Souvenir Field-Tested": "1.08",
+            "Souvenir Well-Worn": "3.02",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -1020,46 +1788,48 @@
       ],
       "Industrial Grade Skins": [
         {
-          "name": "P250 | Metallic DDPAT",
-          "desc": "It has been painted using an urban Digital Disruptive Pattern (DDPAT) hydrographic over a metallic base coat.",
+          "name": "P90 | Ash Wood",
+          "id": "222",
+          "desc": "It has been spray-painted freehand using twigs as stencils.",
+          "prices": {
+            "Factory New": "0.23",
+            "Minimal Wear": "0.18",
+            "Field-Tested": "0.15",
+            "Well-Worn": "0.15",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "4.05",
+            "Souvenir Minimal Wear": "2.55",
+            "Souvenir Field-Tested": "1.12",
+            "Souvenir Well-Worn": "1.39",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szdYz9D4uO6nYeDg8j4MqnWkyUD7pN0jL2WrYis31e2-UtkZD-gIIeVdFVoaVHX_Fnox7281sK06cnP1zI97bNcM7TE/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szdYz9D4uO6nYeDg8j4MqnWkyUD7pN0jL2WrYis31e2-UtkZD-gIIeVdFVoaVHX_Fnox7281sK06cnP1zI97bNcM7TE/512fx384f"
-          }
-        },
-        {
-          "name": "MAG-7 | Metallic DDPAT",
-          "desc": "It has been painted using an urban Digital Disruptive Pattern (DDPAT) hydrographic over a metallic base coat.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szdYz9D4uO6nYeDg8j4MqnWkyUFscYiiLGVp42l2gXm_UY5az2nIoDDcgNrMw3S-gftxui-g8Lq6M-Y1zI97ZLIVAoT/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szdYz9D4uO6nYeDg8j4MqnWkyUFscYiiLGVp42l2gXm_UY5az2nIoDDcgNrMw3S-gftxui-g8Lq6M-Y1zI97ZLIVAoT/512fx384f"
-          }
-        },
-        {
-          "name": "SCAR-20 | Carbon Fiber",
-          "desc": "It has been painted using a carbon fiber hydrographic over a graphite base coat.",
-          "lore": "Just because I carried my team doesn't mean it wasn't a team effort - Rona Sabri, Rising Star",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Pp9i_vG8MKkjQa28kJkazj0d9DDIAQ4Ml-B81C8yOfq0cO_vpSbnXVj7iB25CvUgVXp1jRgyXjP/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Pp9i_vG8MKkjQa28kJkazj0d9DDIAQ4Ml-B81C8yOfq0cO_vpSbnXVj7iB25CvUgVXp1jRgyXjP/512fx384f"
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7OffeDpR09C_k4ifqPv1IbzU2DgD7pwj0-uXo4_xjgfg8kpra2D0dYKdcAA-MF3T81W4lOnng8e5v5zXiSw0ynhaVgg/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7OffeDpR09C_k4ifqPv1IbzU2DgD7pwj0-uXo4_xjgfg8kpra2D0dYKdcAA-MF3T81W4lOnng8e5v5zXiSw0ynhaVgg/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7OffeDpR09GzkImemsj4MqnWkyUDvsFw2rGSpdnx2AHk_RE_Nm-iItSScwM5ZQnZq1O9l-3tgZbqtc-a1zI97bJuANJb/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7OffeDpR09GzkImemsj4MqnWkyUDvsFw2rGSpdnx2AHk_RE_Nm-iItSScwM5ZQnZq1O9l-3tgZbqtc-a1zI97bJuANJb/512fx384f"
           }
         },
         {
           "name": "M4A4 | Urban DDPAT",
+          "id": "225",
           "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+          "prices": {
+            "Factory New": "3.77",
+            "Minimal Wear": "0.43",
+            "Field-Tested": "0.15",
+            "Well-Worn": "0.15",
+            "Battle-Scarred": "0.14",
+            "Souvenir Factory New": "255.38",
+            "Souvenir Minimal Wear": "13.06",
+            "Souvenir Field-Tested": "4.63",
+            "Souvenir Well-Worn": "6.17",
+            "Souvenir Battle-Scarred": "4.92"
+          },
           "lore": "By the time you're close enough to notice the pixels it's already too late",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -1071,10 +1841,70 @@
           }
         },
         {
+          "name": "MAG-7 | Metallic DDPAT",
+          "id": "218",
+          "desc": "It has been painted using an urban Digital Disruptive Pattern (DDPAT) hydrographic over a metallic base coat.",
+          "prices": {
+            "Factory New": "0.23",
+            "Minimal Wear": "0.23",
+            "Field-Tested": "Not Possible",
+            "Well-Worn": "Not Possible",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "1.70",
+            "Souvenir Minimal Wear": "2.41",
+            "Souvenir Field-Tested": "Not Possible",
+            "Souvenir Well-Worn": "Not Possible",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szdYz9D4uO6nYeDg8j4MqnWkyUFscYiiLGVp42l2gXm_UY5az2nIoDDcgNrMw3S-gftxui-g8Lq6M-Y1zI97ZLIVAoT/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szdYz9D4uO6nYeDg8j4MqnWkyUFscYiiLGVp42l2gXm_UY5az2nIoDDcgNrMw3S-gftxui-g8Lq6M-Y1zI97ZLIVAoT/512fx384f"
+          }
+        },
+        {
+          "name": "P250 | Metallic DDPAT",
+          "id": "212",
+          "desc": "It has been painted using an urban Digital Disruptive Pattern (DDPAT) hydrographic over a metallic base coat.",
+          "prices": {
+            "Factory New": "0.23",
+            "Minimal Wear": "0.24",
+            "Field-Tested": "Not Possible",
+            "Well-Worn": "Not Possible",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "3.85",
+            "Souvenir Minimal Wear": "8.56",
+            "Souvenir Field-Tested": "Not Possible",
+            "Souvenir Well-Worn": "Not Possible",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szdYz9D4uO6nYeDg8j4MqnWkyUD7pN0jL2WrYis31e2-UtkZD-gIIeVdFVoaVHX_Fnox7281sK06cnP1zI97bNcM7TE/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szdYz9D4uO6nYeDg8j4MqnWkyUD7pN0jL2WrYis31e2-UtkZD-gIIeVdFVoaVHX_Fnox7281sK06cnP1zI97bNcM7TE/512fx384f"
+          }
+        },
+        {
           "name": "MAC-10 | Candy Apple",
+          "id": "224",
           "desc": "It has individual parts spray-painted solid colors in a red and black color scheme.",
+          "prices": {
+            "Factory New": "0.26",
+            "Minimal Wear": "0.20",
+            "Field-Tested": "0.19",
+            "Well-Worn": "Not Possible",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "12.10",
+            "Souvenir Minimal Wear": "5.81",
+            "Souvenir Field-Tested": "3.74",
+            "Souvenir Well-Worn": "Not Possible",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "Great on cars, better on weapons",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -1084,26 +1914,48 @@
           }
         },
         {
-          "name": "P90 | Ash Wood",
-          "desc": "It has been spray-painted freehand using twigs as stencils.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
+          "name": "SCAR-20 | Carbon Fiber",
+          "id": "219",
+          "desc": "It has been painted using a carbon fiber hydrographic over a graphite base coat.",
+          "prices": {
+            "Factory New": "0.23",
+            "Minimal Wear": "0.21",
+            "Field-Tested": "Not Possible",
+            "Well-Worn": "Not Possible",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "2.59",
+            "Souvenir Minimal Wear": "2.78",
+            "Souvenir Field-Tested": "Not Possible",
+            "Souvenir Well-Worn": "Not Possible",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
+          "lore": "Just because I carried my team doesn't mean it wasn't a team effort - Rona Sabri, Rising Star",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7OffeDpR09C_k4ifqPv1IbzU2DgD7pwj0-uXo4_xjgfg8kpra2D0dYKdcAA-MF3T81W4lOnng8e5v5zXiSw0ynhaVgg/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7OffeDpR09C_k4ifqPv1IbzU2DgD7pwj0-uXo4_xjgfg8kpra2D0dYKdcAA-MF3T81W4lOnng8e5v5zXiSw0ynhaVgg/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7OffeDpR09GzkImemsj4MqnWkyUDvsFw2rGSpdnx2AHk_RE_Nm-iItSScwM5ZQnZq1O9l-3tgZbqtc-a1zI97bJuANJb/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7OffeDpR09GzkImemsj4MqnWkyUDvsFw2rGSpdnx2AHk_RE_Nm-iItSScwM5ZQnZq1O9l-3tgZbqtc-a1zI97bJuANJb/512fx384f"
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Pp9i_vG8MKkjQa28kJkazj0d9DDIAQ4Ml-B81C8yOfq0cO_vpSbnXVj7iB25CvUgVXp1jRgyXjP/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLFTj5D_t65mr-NnvXxIYTdn2xZ_Pp9i_vG8MKkjQa28kJkazj0d9DDIAQ4Ml-B81C8yOfq0cO_vpSbnXVj7iB25CvUgVXp1jRgyXjP/512fx384f"
           }
         }
       ],
       "Consumer Grade Skins": [
         {
           "name": "Nova | Polar Mesh",
+          "id": "221",
           "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+          "prices": {
+            "Factory New": "0.16",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "6.53",
+            "Souvenir Minimal Wear": "0.97",
+            "Souvenir Field-Tested": "0.18",
+            "Souvenir Well-Worn": "0.35",
+            "Souvenir Battle-Scarred": "0.16"
+          },
           "lore": "A predator is a predator, no matter the environment",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -1115,40 +1967,22 @@
           }
         },
         {
-          "name": "Five-SeveN | Forest Night",
-          "desc": "It has been painted using a forest camouflage hydrographic.",
-          "lore": "The woods can be a dangerous place... never travel alone",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09q5hoWYg8j6OrzZglRd4cJ5ntbN9J7yjRqyqEFoZmH7ItTAJg9rZlDZ-VS-wOzo0564uMyfnHRg7CMms3nZlhaxn1gSOfnw_UtQ/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09q5hoWYg8j6OrzZglRd4cJ5ntbN9J7yjRqyqEFoZmH7ItTAJg9rZlDZ-VS-wOzo0564uMyfnHRg7CMms3nZlhaxn1gSOfnw_UtQ/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09q5hoWYg8j6OrzZglRc7cF4n-T--Y3nj1H6qBJpNmv2dtCceg5qYlDQqVe_xuq8hpbtu5ianyBks3Mm4XzYyxC0hgYMMLI-3seReg/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09q5hoWYg8j6OrzZglRc7cF4n-T--Y3nj1H6qBJpNmv2dtCceg5qYlDQqVe_xuq8hpbtu5ianyBks3Mm4XzYyxC0hgYMMLI-3seReg/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09q5hoWYg8j6OrzZglRZ7cRnk9bN9J7yjRqx_UQ6MmqgLdPGdwJrZV_S-lW-ku-71sTvuZjPwXZnuXIk7CzZm0e2n1gSOVZMqIzs/512fx384f"
-          }
-        },
-        {
-          "name": "Dual Berettas | Colony",
-          "desc": "It has individual parts spray-painted khaki and grey.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3Yi1D79mJmYGZnvnxDLfYkWNF18lwmO7Eu92l2VfiqUFlYGj2cIWSJlQ-ZFiB_gK5ye_o1JLvvZzMyHUx63Ej43jD30vggGsWnGI/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3Yi1D79mJmYGZnvnxDLfYkWNF18lwmO7Eu92l2VfiqUFlYGj2cIWSJlQ-ZFiB_gK5ye_o1JLvvZzMyHUx63Ej43jD30vggGsWnGI/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3Yi1D79mJmYGZnvnxDLbUkmJE5fp9i_vG8MKsjgXi_UFpNjv6J9PAc1Q5aV-F8li6k-7n1Ja4vMiaz3Zhsyd0s37bgVXp1pm8gAuN/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3Yi1D79mJmYGZnvnxDLbUkmJE5fp9i_vG8MKsjgXi_UFpNjv6J9PAc1Q5aV-F8li6k-7n1Ja4vMiaz3Zhsyd0s37bgVXp1pm8gAuN/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3Yi1D79mJmYGZnvnxDLPUl31I18lwmO7Eu4r22VXtrxdsNzr2doTBdAE2NQ3QqwPrwufq0cO07ZmfyyA36HFz5CvD30vgeLxgjfw/512fx384f"
-          }
-        },
-        {
           "name": "G3SG1 | Polar Camo",
+          "id": "214",
           "desc": "It has been painted using an arctic camo hydrographic.",
+          "prices": {
+            "Factory New": "0.31",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "24.31",
+            "Souvenir Minimal Wear": "2.82",
+            "Souvenir Field-Tested": "0.52",
+            "Souvenir Well-Worn": "0.77",
+            "Souvenir Battle-Scarred": "0.30"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -1160,10 +1994,76 @@
           }
         },
         {
+          "name": "PP-Bizon | Urban Dashed",
+          "id": "223",
+          "desc": "It has been spray-painted using short pieces of tape as stencils.",
+          "prices": {
+            "Factory New": "0.16",
+            "Minimal Wear": "0.04",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "5.24",
+            "Souvenir Minimal Wear": "0.81",
+            "Souvenir Field-Tested": "0.23",
+            "Souvenir Well-Worn": "0.72",
+            "Souvenir Battle-Scarred": "0.49"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jhIbnQmFRd4cJ5ntbN9J7yjRrl_0I6YDvycoSRIFU4MlHW_gC5yb2-gJ7uv5WayXMy7icl5imPzBS1n1gSOX1fkgj-/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jhIbnQmFRd4cJ5ntbN9J7yjRrl_0I6YDvycoSRIFU4MlHW_gC5yb2-gJ7uv5WayXMy7icl5imPzBS1n1gSOX1fkgj-/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jhIbnQmFRc7cF4n-T--Y3nj1H6_0c4Y2_3JY-QIQE8ZF_R_wW8kuy5gpO57cjOmyA16HEq4X_ZnRDm1AYMMLLoAlus5w/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jhIbnQmFRc7cF4n-T--Y3nj1H6_0c4Y2_3JY-QIQE8ZF_R_wW8kuy5gpO57cjOmyA16HEq4X_ZnRDm1AYMMLLoAlus5w/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jhIbnQmFRZ7cRnk9bN9J7yjRri-Uo-Yz_2dYSXIwBvMAyD-FO3xOu9g5-5up_Lz3Q163Eg5X3dzkTkn1gSOYQFRa4z/512fx384f"
+          }
+        },
+        {
+          "name": "Five-SeveN | Forest Night",
+          "id": "217",
+          "desc": "It has been painted using a forest camouflage hydrographic.",
+          "prices": {
+            "Factory New": "0.17",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "12.43",
+            "Souvenir Minimal Wear": "0.86",
+            "Souvenir Field-Tested": "0.24",
+            "Souvenir Well-Worn": "0.39",
+            "Souvenir Battle-Scarred": "0.28"
+          },
+          "lore": "The woods can be a dangerous place... never travel alone",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09q5hoWYg8j6OrzZglRd4cJ5ntbN9J7yjRqyqEFoZmH7ItTAJg9rZlDZ-VS-wOzo0564uMyfnHRg7CMms3nZlhaxn1gSOfnw_UtQ/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09q5hoWYg8j6OrzZglRd4cJ5ntbN9J7yjRqyqEFoZmH7ItTAJg9rZlDZ-VS-wOzo0564uMyfnHRg7CMms3nZlhaxn1gSOfnw_UtQ/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09q5hoWYg8j6OrzZglRc7cF4n-T--Y3nj1H6qBJpNmv2dtCceg5qYlDQqVe_xuq8hpbtu5ianyBks3Mm4XzYyxC0hgYMMLI-3seReg/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09q5hoWYg8j6OrzZglRc7cF4n-T--Y3nj1H6qBJpNmv2dtCceg5qYlDQqVe_xuq8hpbtu5ianyBks3Mm4XzYyxC0hgYMMLI-3seReg/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09q5hoWYg8j6OrzZglRZ7cRnk9bN9J7yjRqx_UQ6MmqgLdPGdwJrZV_S-lW-ku-71sTvuZjPwXZnuXIk7CzZm0e2n1gSOVZMqIzs/512fx384f"
+          }
+        },
+        {
           "name": "UMP-45 | Urban DDPAT",
+          "id": "211",
           "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+          "prices": {
+            "Factory New": "0.16",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "7.21",
+            "Souvenir Minimal Wear": "1.17",
+            "Souvenir Field-Tested": "0.24",
+            "Souvenir Well-Worn": "0.47",
+            "Souvenir Battle-Scarred": "0.24"
+          },
           "lore": "By the time you're close enough to notice the pixels it's already too late",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -1175,18 +2075,30 @@
           }
         },
         {
-          "name": "PP-Bizon | Urban Dashed",
-          "desc": "It has been spray-painted using short pieces of tape as stencils.",
+          "name": "Dual Berettas | Colony",
+          "id": "213",
+          "desc": "It has individual parts spray-painted khaki and grey.",
+          "prices": {
+            "Factory New": "0.21",
+            "Minimal Wear": "0.05",
+            "Field-Tested": "0.04",
+            "Well-Worn": "0.04",
+            "Battle-Scarred": "0.04",
+            "Souvenir Factory New": "5.81",
+            "Souvenir Minimal Wear": "1.20",
+            "Souvenir Field-Tested": "0.21",
+            "Souvenir Well-Worn": "0.55",
+            "Souvenir Battle-Scarred": "0.27"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jhIbnQmFRd4cJ5ntbN9J7yjRrl_0I6YDvycoSRIFU4MlHW_gC5yb2-gJ7uv5WayXMy7icl5imPzBS1n1gSOX1fkgj-/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jhIbnQmFRd4cJ5ntbN9J7yjRrl_0I6YDvycoSRIFU4MlHW_gC5yb2-gJ7uv5WayXMy7icl5imPzBS1n1gSOX1fkgj-/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jhIbnQmFRc7cF4n-T--Y3nj1H6_0c4Y2_3JY-QIQE8ZF_R_wW8kuy5gpO57cjOmyA16HEq4X_ZnRDm1AYMMLLoAlus5w/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jhIbnQmFRc7cF4n-T--Y3nj1H6_0c4Y2_3JY-QIQE8ZF_R_wW8kuy5gpO57cjOmyA16HEq4X_ZnRDm1AYMMLLoAlus5w/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3ZTxS6eOlnI-Zg8jhIbnQmFRZ7cRnk9bN9J7yjRri-Uo-Yz_2dYSXIwBvMAyD-FO3xOu9g5-5up_Lz3Q163Eg5X3dzkTkn1gSOYQFRa4z/512fx384f"
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3Yi1D79mJmYGZnvnxDLfYkWNF18lwmO7Eu92l2VfiqUFlYGj2cIWSJlQ-ZFiB_gK5ye_o1JLvvZzMyHUx63Ej43jD30vggGsWnGI/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3Yi1D79mJmYGZnvnxDLfYkWNF18lwmO7Eu92l2VfiqUFlYGj2cIWSJlQ-ZFiB_gK5ye_o1JLvvZzMyHUx63Ej43jD30vggGsWnGI/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3Yi1D79mJmYGZnvnxDLbUkmJE5fp9i_vG8MKsjgXi_UFpNjv6J9PAc1Q5aV-F8li6k-7n1Ja4vMiaz3Zhsyd0s37bgVXp1pm8gAuN/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3Yi1D79mJmYGZnvnxDLbUkmJE5fp9i_vG8MKsjgXi_UFpNjv6J9PAc1Q5aV-F8li6k-7n1Ja4vMiaz3Zhsyd0s37bgVXp1pm8gAuN/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3Yi1D79mJmYGZnvnxDLPUl31I18lwmO7Eu4r22VXtrxdsNzr2doTBdAE2NQ3QqwPrwufq0cO07ZmfyyA36HFz5CvD30vgeLxgjfw/512fx384f"
           }
         }
       ]
@@ -1194,7 +2106,7 @@
   },
   "The Mirage Collection": {
     "name": "The Mirage Collection",
-    "image_url": "https://csgostash.com/img/collections/256x198/the_mirage_collection.png?id=2956aa53320bb57eddcb",
+    "image_url": "https://csgostash.com/img/collections/256x198/the_mirage_collection.png?id=2956aa53320bb57eddcba034c377d618",
     "content": {
       "Rare Special Items": [],
       "Covert Skins": [],
@@ -1202,9 +2114,21 @@
       "Restricted Skins": [
         {
           "name": "MAG-7 | Bulldozer",
+          "id": "185",
           "desc": "It has individual parts spray-painted solid colors in a production line yellow color scheme.",
+          "prices": {
+            "Factory New": "92.66",
+            "Minimal Wear": "12.15",
+            "Field-Tested": "3.06",
+            "Well-Worn": "2.35",
+            "Battle-Scarred": "2.33",
+            "Souvenir Factory New": "No Recent Price",
+            "Souvenir Minimal Wear": "47.66",
+            "Souvenir Field-Tested": "7.29",
+            "Souvenir Well-Worn": "7.98",
+            "Souvenir Battle-Scarred": "7.07"
+          },
           "lore": "This bone crusher is a devastator",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -1218,22 +2142,22 @@
       ],
       "Mil-Spec Skins": [
         {
-          "name": "MP9 | Hot Rod",
-          "desc": "It has been painted with a chrome base coat and candied in transparent red anodized effect paint.",
-          "lore": "Automatic. Systematic. Hydromatic.",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZu7OHNdQJO5du-gL-HluXzNvWBwzpT6pUiibmSooig2gXsqEJpMGuhLdCcdQ85M1rRqFTqwenrgce0ot2Xnr3oE0PK/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZu7OHNdQJO5du-gL-HluXzNvWBwzpT6pUiibmSooig2gXsqEJpMGuhLdCcdQ85M1rRqFTqwenrgce0ot2Xnr3oE0PK/512fx384f"
-          }
-        },
-        {
           "name": "UMP-45 | Blaze",
+          "id": "193",
           "desc": "It has been painted by airbrushing transparent paints over a chrome base coat.",
+          "prices": {
+            "Factory New": "14.83",
+            "Minimal Wear": "21.82",
+            "Field-Tested": "Not Possible",
+            "Well-Worn": "Not Possible",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "23.89",
+            "Souvenir Minimal Wear": "68.28",
+            "Souvenir Field-Tested": "Not Possible",
+            "Souvenir Well-Worn": "Not Possible",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -1242,10 +2166,46 @@
           }
         },
         {
+          "name": "MP9 | Hot Rod",
+          "id": "195",
+          "desc": "It has been painted with a chrome base coat and candied in transparent red anodized effect paint.",
+          "prices": {
+            "Factory New": "33.50",
+            "Minimal Wear": "39.97",
+            "Field-Tested": "Not Possible",
+            "Well-Worn": "Not Possible",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "42.00",
+            "Souvenir Minimal Wear": "44.12",
+            "Souvenir Field-Tested": "Not Possible",
+            "Souvenir Well-Worn": "Not Possible",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
+          "lore": "Automatic. Systematic. Hydromatic.",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZu7OHNdQJO5du-gL-HluXzNvWBwzpT6pUiibmSooig2gXsqEJpMGuhLdCcdQ85M1rRqFTqwenrgce0ot2Xnr3oE0PK/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZu7OHNdQJO5du-gL-HluXzNvWBwzpT6pUiibmSooig2gXsqEJpMGuhLdCcdQ85M1rRqFTqwenrgce0ot2Xnr3oE0PK/512fx384f"
+          }
+        },
+        {
           "name": "MAC-10 | Amber Fade",
+          "id": "186",
           "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+          "prices": {
+            "Factory New": "12.03",
+            "Minimal Wear": "8.88",
+            "Field-Tested": "8.59",
+            "Well-Worn": "9.97",
+            "Battle-Scarred": "Not Possible",
+            "Souvenir Factory New": "16.37",
+            "Souvenir Minimal Wear": "12.78",
+            "Souvenir Field-Tested": "9.60",
+            "Souvenir Well-Worn": "15.89",
+            "Souvenir Battle-Scarred": "Not Possible"
+          },
           "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -1258,55 +2218,49 @@
       ],
       "Industrial Grade Skins": [
         {
-          "name": "Glock-18 | Groundwater",
-          "desc": "It has individual parts spray-painted solid colors in an olive drab color scheme.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
+          "name": "Negev | CaliCamo",
+          "id": "182",
+          "desc": "It has been painted using a VariCamo patterned hydrographic.",
+          "prices": {
+            "Factory New": "6.57",
+            "Minimal Wear": "6.71",
+            "Field-Tested": "4.61",
+            "Well-Worn": "4.62",
+            "Battle-Scarred": "5.00",
+            "Souvenir Factory New": "2.27",
+            "Souvenir Minimal Wear": "1.15",
+            "Souvenir Field-Tested": "0.81",
+            "Souvenir Well-Worn": "1.50",
+            "Souvenir Battle-Scarred": "1.33"
+          },
+          "lore": "Rebuilding only comes in the wake of destruction",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJmImMn-PLP7rDkW4fucR32eiZodqt21blrUJuYD3zdtWUdQU_aAzR_li5yLy5gse9vpzIzGwj5Hd6uOgkxw/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJmImMn-PLP7rDkW4fucR32eiZodqt21blrUJuYD3zdtWUdQU_aAzR_li5yLy5gse9vpzIzGwj5Hd6uOgkxw/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJmYWPnuL5DLfQhGxUppEpjuiVrY2n3Fbt_xZtZW2mctLDIVc_Y1uE-QLrk725gZG9up6bwHV9-n51EZWdIBc/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJmYWPnuL5DLfQhGxUppEpjuiVrY2n3Fbt_xZtZW2mctLDIVc_Y1uE-QLrk725gZG9up6bwHV9-n51EZWdIBc/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJnIWKge7LP7rDkW4fv5VyiLCYpo7z2wLmrUtvYmD1INWTew45YFzY_VDqxL_pjZC66MjKmmwj5Hd4mLWwiw/512fx384f"
-          }
-        },
-        {
-          "name": "SG 553 | Gator Mesh",
-          "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLP7LWnn9u5MRjjeyP8ImiiQbn_kA6Z2D6ctWXcA5oaVCBqwC3yLy7gsfvuMnAnyMwuyIn4mGdwUKmQ-0CcQ/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLP7LWnn9u5MRjjeyP8ImiiQbn_kA6Z2D6ctWXcA5oaVCBqwC3yLy7gsfvuMnAnyMwuyIn4mGdwUKmQ-0CcQ/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLPr7Vn35c18lwmO7Eu4it2ATi-kM-am3yLI_GdgBtZV_VrlC9k7y80Ja96Z-dnSBruiV0s3jD30vgXiO9fJU/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLPr7Vn35c18lwmO7Eu4it2ATi-kM-am3yLI_GdgBtZV_VrlC9k7y80Ja96Z-dnSBruiV0s3jD30vgXiO9fJU/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLO77QgHJu5MRjjeyP9tin2gLs80Q4YT-mddWSegY4MwmBqVS-we29gZe76JvMwXBj6CZw7GGdwUJKbOwJoA/512fx384f"
-          }
-        },
-        {
-          "name": "SSG 08 | Tropical Storm",
-          "desc": "It has been spray-painted using cardboard cutouts, fine mesh, and palm leaves as stencils.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLP7LWnn9u5MRjjeyP846n3FbhrhduMmnwdYWQIwc8N12Fr1a_x-i91pK5tMybzSM2vSd34mGdwUJeWB4MEA/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLP7LWnn9u5MRjjeyP846n3FbhrhduMmnwdYWQIwc8N12Fr1a_x-i91pK5tMybzSM2vSd34mGdwUJeWB4MEA/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLPr7Vn35c18lwmO7Eu4_x3QLs80Q6Zmj3I4HHIFVvZQuE_QDvxOfn18e_7snMznE3vHQq7XnD30vg2sIlWLE/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLPr7Vn35c18lwmO7Eu4_x3QLs80Q6Zmj3I4HHIFVvZQuE_QDvxOfn18e_7snMznE3vHQq7XnD30vg2sIlWLE/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLO77QgHJu5MRjjeyPp4n32lfmrUdoZW_zI4SWclJsZVnV_gO4w-nohpC1752bwXtgsih24WGdwUInathHaQ/512fx384f"
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWdY781lteXA54vwxgXi8hE4ZDqgLY6TJFM2M1vU-1Dtw7jn0cW4tJmdmCZn73UrsymLmBSpwUYb0mvY8oc/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWdY781lteXA54vwxgXi8hE4ZDqgLY6TJFM2M1vU-1Dtw7jn0cW4tJmdmCZn73UrsymLmBSpwUYb0mvY8oc/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWZU7Mxkh9bN9J7yjRq1-ENkYG32INLEegc9MFnY-lG4yezth5-87cufmHE2uyB25ynUnB3ln1gSOQODz4fr/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWZU7Mxkh9bN9J7yjRq1-ENkYG32INLEegc9MFnY-lG4yezth5-87cufmHE2uyB25ynUnB3ln1gSOQODz4fr/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWNU6dNoteXA54vwxgXs8xA_YDj0ddfBIQJqMwyDq1K7w-jthMK1uZ2dzSE26HFx4C7fmkGpwUYbP_3NaHo/512fx384f"
           }
         },
         {
           "name": "MP7 | Orange Peel",
+          "id": "194",
           "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+          "prices": {
+            "Factory New": "6.17",
+            "Minimal Wear": "5.33",
+            "Field-Tested": "4.29",
+            "Well-Worn": "4.46",
+            "Battle-Scarred": "5.33",
+            "Souvenir Factory New": "16.10",
+            "Souvenir Minimal Wear": "1.87",
+            "Souvenir Field-Tested": "0.58",
+            "Souvenir Well-Worn": "1.22",
+            "Souvenir Battle-Scarred": "0.55"
+          },
           "lore": "True power is demonstrated with subtle application",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -1318,87 +2272,105 @@
           }
         },
         {
-          "name": "Negev | CaliCamo",
-          "desc": "It has been painted using a VariCamo patterned hydrographic.",
-          "lore": "Rebuilding only comes in the wake of destruction",
-          "date_added": "27 November 2013",
+          "name": "SG 553 | Gator Mesh",
+          "id": "190",
+          "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
+          "prices": {
+            "Factory New": "6.06",
+            "Minimal Wear": "5.25",
+            "Field-Tested": "4.64",
+            "Well-Worn": "4.69",
+            "Battle-Scarred": "4.79",
+            "Souvenir Factory New": "2.90",
+            "Souvenir Minimal Wear": "1.45",
+            "Souvenir Field-Tested": "0.76",
+            "Souvenir Well-Worn": "2.01",
+            "Souvenir Battle-Scarred": "1.21"
+          },
+          "lore": "This item has no Lore",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWdY781lteXA54vwxgXi8hE4ZDqgLY6TJFM2M1vU-1Dtw7jn0cW4tJmdmCZn73UrsymLmBSpwUYb0mvY8oc/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWdY781lteXA54vwxgXi8hE4ZDqgLY6TJFM2M1vU-1Dtw7jn0cW4tJmdmCZn73UrsymLmBSpwUYb0mvY8oc/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWZU7Mxkh9bN9J7yjRq1-ENkYG32INLEegc9MFnY-lG4yezth5-87cufmHE2uyB25ynUnB3ln1gSOQODz4fr/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWZU7Mxkh9bN9J7yjRq1-ENkYG32INLEegc9MFnY-lG4yezth5-87cufmHE2uyB25ynUnB3ln1gSOQODz4fr/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWNU6dNoteXA54vwxgXs8xA_YDj0ddfBIQJqMwyDq1K7w-jthMK1uZ2dzSE26HFx4C7fmkGpwUYbP_3NaHo/512fx384f"
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLP7LWnn9u5MRjjeyP8ImiiQbn_kA6Z2D6ctWXcA5oaVCBqwC3yLy7gsfvuMnAnyMwuyIn4mGdwUKmQ-0CcQ/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLP7LWnn9u5MRjjeyP8ImiiQbn_kA6Z2D6ctWXcA5oaVCBqwC3yLy7gsfvuMnAnyMwuyIn4mGdwUKmQ-0CcQ/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLPr7Vn35c18lwmO7Eu4it2ATi-kM-am3yLI_GdgBtZV_VrlC9k7y80Ja96Z-dnSBruiV0s3jD30vgXiO9fJU/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLPr7Vn35c18lwmO7Eu4it2ATi-kM-am3yLI_GdgBtZV_VrlC9k7y80Ja96Z-dnSBruiV0s3jD30vgXiO9fJU/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLO77QgHJu5MRjjeyP9tin2gLs80Q4YT-mddWSegY4MwmBqVS-we29gZe76JvMwXBj6CZw7GGdwUJKbOwJoA/512fx384f"
+          }
+        },
+        {
+          "name": "Glock-18 | Groundwater",
+          "id": "192",
+          "desc": "It has individual parts spray-painted solid colors in an olive drab color scheme.",
+          "prices": {
+            "Factory New": "42.69",
+            "Minimal Wear": "5.86",
+            "Field-Tested": "5.33",
+            "Well-Worn": "4.46",
+            "Battle-Scarred": "4.89",
+            "Souvenir Factory New": "79.00",
+            "Souvenir Minimal Wear": "6.46",
+            "Souvenir Field-Tested": "3.35",
+            "Souvenir Well-Worn": "3.57",
+            "Souvenir Battle-Scarred": "3.92"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJmImMn-PLP7rDkW4fucR32eiZodqt21blrUJuYD3zdtWUdQU_aAzR_li5yLy5gse9vpzIzGwj5Hd6uOgkxw/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJmImMn-PLP7rDkW4fucR32eiZodqt21blrUJuYD3zdtWUdQU_aAzR_li5yLy5gse9vpzIzGwj5Hd6uOgkxw/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJmYWPnuL5DLfQhGxUppEpjuiVrY2n3Fbt_xZtZW2mctLDIVc_Y1uE-QLrk725gZG9up6bwHV9-n51EZWdIBc/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJmYWPnuL5DLfQhGxUppEpjuiVrY2n3Fbt_xZtZW2mctLDIVc_Y1uE-QLrk725gZG9up6bwHV9-n51EZWdIBc/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJnIWKge7LP7rDkW4fv5VyiLCYpo7z2wLmrUtvYmD1INWTew45YFzY_VDqxL_pjZC66MjKmmwj5Hd4mLWwiw/512fx384f"
+          }
+        },
+        {
+          "name": "SSG 08 | Tropical Storm",
+          "id": "188",
+          "desc": "It has been spray-painted using cardboard cutouts, fine mesh, and palm leaves as stencils.",
+          "prices": {
+            "Factory New": "20.88",
+            "Minimal Wear": "5.01",
+            "Field-Tested": "4.89",
+            "Well-Worn": "4.85",
+            "Battle-Scarred": "4.89",
+            "Souvenir Factory New": "48.89",
+            "Souvenir Minimal Wear": "4.45",
+            "Souvenir Field-Tested": "1.88",
+            "Souvenir Well-Worn": "3.28",
+            "Souvenir Battle-Scarred": "2.48"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLP7LWnn9u5MRjjeyP846n3FbhrhduMmnwdYWQIwc8N12Fr1a_x-i91pK5tMybzSM2vSd34mGdwUJeWB4MEA/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLP7LWnn9u5MRjjeyP846n3FbhrhduMmnwdYWQIwc8N12Fr1a_x-i91pK5tMybzSM2vSd34mGdwUJeWB4MEA/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLPr7Vn35c18lwmO7Eu4_x3QLs80Q6Zmj3I4HHIFVvZQuE_QDvxOfn18e_7snMznE3vHQq7XnD30vg2sIlWLE/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLPr7Vn35c18lwmO7Eu4_x3QLs80Q6Zmj3I4HHIFVvZQuE_QDvxOfn18e_7snMznE3vHQq7XnD30vg2sIlWLE/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLO77QgHJu5MRjjeyPp4n32lfmrUdoZW_zI4SWclJsZVnV_gO4w-nohpC1752bwXtgsih24WGdwUInathHaQ/512fx384f"
           }
         }
       ],
       "Consumer Grade Skins": [
         {
-          "name": "Galil AR | Hunting Blind",
-          "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8NqjummJW4NFOhujT8om7jge3-hY6am2mIYTEIwBtNw3TqVLskOznjJbpvMnMmCFjvSYm7H_dzgv330_KjFrJvQ/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8NqjummJW4NFOhujT8om7jge3-hY6am2mIYTEIwBtNw3TqVLskOznjJbpvMnMmCFjvSYm7H_dzgv330_KjFrJvQ/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8Nqjum25V4dB8teXA54vwxgKwqRZqa2GgctDEdgY7Yl3UrFTok725hcLtvZnKyXJk7yMgsX6PykapwUYbX0P5-qU/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8Nqjum25V4dB8teXA54vwxgKwqRZqa2GgctDEdgY7Yl3UrFTok725hcLtvZnKyXJk7yMgsX6PykapwUYbX0P5-qU/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8Nqjunm5Q_txOhujT8om7i1Hg_0I_YGDyIdKWJ1RtNw3R8lK7lL--1MPq757OzSEx73Vxt3iOnAv3309KxEWqOg/512fx384f"
-          }
-        },
-        {
-          "name": "G3SG1 | Safari Mesh",
-          "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
-          "lore": "A predator is a predator, no matter the environment",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60m_7zO6_ummpD78A_27DA9o_w2lXl-0NsYzjxd4aWJA5oaVGEqVK3l7ju1MC_6ZWamHNqvz5iuyhFvpA91A/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60m_7zO6_ummpD78A_27DA9o_w2lXl-0NsYzjxd4aWJA5oaVGEqVK3l7ju1MC_6ZWamHNqvz5iuyhFvpA91A/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60mvLwOq7cqWdQ-sJ0xO_CrNSsiQWy80plZjv1IdCUdwI8ZF7SrADrwOnvgse-uJ-byiYwvnU8pSGKIJyreEo/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60mvLwOq7cqWdQ-sJ0xO_CrNSsiQWy80plZjv1IdCUdwI8ZF7SrADrwOnvgse-uJ-byiYwvnU8pSGKIJyreEo/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60n_L1JaLummpD78A_jriU8dv02gfkqEY9N2jzIYaScgJvNwzT-1fslevt0ZC4vM7Lm3A2uj5iuyjuyf21Cg/512fx384f"
-          }
-        },
-        {
-          "name": "Five-SeveN | Contractor",
-          "desc": "It has individual parts spray-painted tan, navy and dark green.",
-          "lore": "Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N08y7l7-HnvD8J4Tdl3lW7Yt0iL_ApdTx3AzjrUBoYWqnLYOTeg82MwmF_QO2xershsS96pnPnXBmpGB8ssqDRWAK/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N08y7l7-HnvD8J4Tdl3lW7Yt0iL_ApdTx3AzjrUBoYWqnLYOTeg82MwmF_QO2xershsS96pnPnXBmpGB8ssqDRWAK/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N08y7l7-GkvP9JrbummpD78A_jLqWpYr3jgC2qEQ6YG_xcYTAd1I-ZV_S-AK2l-fr05O878_OwXdnuT5iuyi97WiLEQ/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N08y7l7-GkvP9JrbummpD78A_jLqWpYr3jgC2qEQ6YG_xcYTAd1I-ZV_S-AK2l-fr05O878_OwXdnuT5iuyi97WiLEQ/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N08y7l7-DkvbiKoTdl3lW7Ytz076R89vw21Ht_0JrYWyiINeSd1I8MFiE_1Hrwejm15C86JjJnXEwpGB8smONe_RQ/512fx384f"
-          }
-        },
-        {
-          "name": "AUG | Colony",
-          "desc": "It has individual parts spray-painted khaki and grey.",
-          "lore": "This item has no Lore",
-          "date_added": "27 November 2013",
-          "can_be_souvenir": true,
-          "can_be_stattrak": false,
-          "wears": {
-            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj4OrzZglRd6dd2j6fE8Nmn3VLhqhI6YmCgItKcdVdoYgrQ-Va2le27hsXt75_PzXVl7igi-z-DyEqZTAME/512fx384f",
-            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj4OrzZglRd6dd2j6fE8Nmn3VLhqhI6YmCgItKcdVdoYgrQ-Va2le27hsXt75_PzXVl7igi-z-DyEqZTAME/512fx384f",
-            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj5Nr_Yg2Zu5MRjjeyPpo-g31Hn_0NqYGzwJtCRelI-M1CE8ge_kOzshZXq7ZvBmyFnviZz5mGdwUKZVexurw/512fx384f",
-            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj5Nr_Yg2Zu5MRjjeyPpo-g31Hn_0NqYGzwJtCRelI-M1CE8ge_kOzshZXq7ZvBmyFnviZz5mGdwUKZVexurw/512fx384f",
-            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj8NrrHj1Rd6dd2j6eVpt303FfirRJqZW30IoHGdQU7aQuC_Ae6yO3m1Ja57Z_Nn3Mx7iZz-z-DyCiiyG6B/512fx384f"
-          }
-        },
-        {
           "name": "P250 | Bone Mask",
+          "id": "181",
           "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+          "prices": {
+            "Factory New": "3.08",
+            "Minimal Wear": "0.97",
+            "Field-Tested": "0.80",
+            "Well-Worn": "0.80",
+            "Battle-Scarred": "1.00",
+            "Souvenir Factory New": "4.61",
+            "Souvenir Minimal Wear": "0.54",
+            "Souvenir Field-Tested": "0.18",
+            "Souvenir Well-Worn": "0.64",
+            "Souvenir Battle-Scarred": "0.23"
+          },
           "lore": "True power is demonstrated with subtle application",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -1410,10 +2382,103 @@
           }
         },
         {
+          "name": "AUG | Colony",
+          "id": "184",
+          "desc": "It has individual parts spray-painted khaki and grey.",
+          "prices": {
+            "Factory New": "8.53",
+            "Minimal Wear": "1.27",
+            "Field-Tested": "0.80",
+            "Well-Worn": "0.80",
+            "Battle-Scarred": "0.84",
+            "Souvenir Factory New": "7.61",
+            "Souvenir Minimal Wear": "0.76",
+            "Souvenir Field-Tested": "0.23",
+            "Souvenir Well-Worn": "0.32",
+            "Souvenir Battle-Scarred": "0.38"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj4OrzZglRd6dd2j6fE8Nmn3VLhqhI6YmCgItKcdVdoYgrQ-Va2le27hsXt75_PzXVl7igi-z-DyEqZTAME/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj4OrzZglRd6dd2j6fE8Nmn3VLhqhI6YmCgItKcdVdoYgrQ-Va2le27hsXt75_PzXVl7igi-z-DyEqZTAME/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj5Nr_Yg2Zu5MRjjeyPpo-g31Hn_0NqYGzwJtCRelI-M1CE8ge_kOzshZXq7ZvBmyFnviZz5mGdwUKZVexurw/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj5Nr_Yg2Zu5MRjjeyPpo-g31Hn_0NqYGzwJtCRelI-M1CE8ge_kOzshZXq7ZvBmyFnviZz5mGdwUKZVexurw/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj8NrrHj1Rd6dd2j6eVpt303FfirRJqZW30IoHGdQU7aQuC_Ae6yO3m1Ja57Z_Nn3Mx7iZz-z-DyCiiyG6B/512fx384f"
+          }
+        },
+        {
+          "name": "Five-SeveN | Contractor",
+          "id": "183",
+          "desc": "It has individual parts spray-painted tan, navy and dark green.",
+          "prices": {
+            "Factory New": "6.75",
+            "Minimal Wear": "1.21",
+            "Field-Tested": "0.84",
+            "Well-Worn": "0.83",
+            "Battle-Scarred": "0.85",
+            "Souvenir Factory New": "8.74",
+            "Souvenir Minimal Wear": "1.05",
+            "Souvenir Field-Tested": "0.21",
+            "Souvenir Well-Worn": "0.34",
+            "Souvenir Battle-Scarred": "0.25"
+          },
+          "lore": "Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N08y7l7-HnvD8J4Tdl3lW7Yt0iL_ApdTx3AzjrUBoYWqnLYOTeg82MwmF_QO2xershsS96pnPnXBmpGB8ssqDRWAK/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N08y7l7-HnvD8J4Tdl3lW7Yt0iL_ApdTx3AzjrUBoYWqnLYOTeg82MwmF_QO2xershsS96pnPnXBmpGB8ssqDRWAK/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N08y7l7-GkvP9JrbummpD78A_jLqWpYr3jgC2qEQ6YG_xcYTAd1I-ZV_S-AK2l-fr05O878_OwXdnuT5iuyi97WiLEQ/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N08y7l7-GkvP9JrbummpD78A_jLqWpYr3jgC2qEQ6YG_xcYTAd1I-ZV_S-AK2l-fr05O878_OwXdnuT5iuyi97WiLEQ/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N08y7l7-DkvbiKoTdl3lW7Ytz076R89vw21Ht_0JrYWyiINeSd1I8MFiE_1Hrwejm15C86JjJnXEwpGB8smONe_RQ/512fx384f"
+          }
+        },
+        {
+          "name": "G3SG1 | Safari Mesh",
+          "id": "187",
+          "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+          "prices": {
+            "Factory New": "5.56",
+            "Minimal Wear": "1.01",
+            "Field-Tested": "0.94",
+            "Well-Worn": "0.84",
+            "Battle-Scarred": "0.85",
+            "Souvenir Factory New": "4.33",
+            "Souvenir Minimal Wear": "0.32",
+            "Souvenir Field-Tested": "0.14",
+            "Souvenir Well-Worn": "0.16",
+            "Souvenir Battle-Scarred": "0.16"
+          },
+          "lore": "A predator is a predator, no matter the environment",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60m_7zO6_ummpD78A_27DA9o_w2lXl-0NsYzjxd4aWJA5oaVGEqVK3l7ju1MC_6ZWamHNqvz5iuyhFvpA91A/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60m_7zO6_ummpD78A_27DA9o_w2lXl-0NsYzjxd4aWJA5oaVGEqVK3l7ju1MC_6ZWamHNqvz5iuyhFvpA91A/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60mvLwOq7cqWdQ-sJ0xO_CrNSsiQWy80plZjv1IdCUdwI8ZF7SrADrwOnvgse-uJ-byiYwvnU8pSGKIJyreEo/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60mvLwOq7cqWdQ-sJ0xO_CrNSsiQWy80plZjv1IdCUdwI8ZF7SrADrwOnvgse-uJ-byiYwvnU8pSGKIJyreEo/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60n_L1JaLummpD78A_jriU8dv02gfkqEY9N2jzIYaScgJvNwzT-1fslevt0ZC4vM7Lm3A2uj5iuyjuyf21Cg/512fx384f"
+          }
+        },
+        {
           "name": "P90 | Scorched",
+          "id": "189",
           "desc": "It has been spray-painted in a sun-dappled pattern.",
+          "prices": {
+            "Factory New": "2.77",
+            "Minimal Wear": "1.29",
+            "Field-Tested": "0.80",
+            "Well-Worn": "0.84",
+            "Battle-Scarred": "1.09",
+            "Souvenir Factory New": "4.90",
+            "Souvenir Minimal Wear": "0.31",
+            "Souvenir Field-Tested": "0.14",
+            "Souvenir Well-Worn": "0.30",
+            "Souvenir Battle-Scarred": "0.21"
+          },
           "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
-          "date_added": "27 November 2013",
           "can_be_souvenir": true,
           "can_be_stattrak": false,
           "wears": {
@@ -1422,6 +2487,33 @@
             "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7PfJYS1O6eO7kYSCgvrLP7rDkW4f6ZYj2LiZpomii1Ky-kpkYGn0IdCQdFI3ZwrS8lS3xL_mhp606svLzGwj5Hcs2GaaAA/512fx384f",
             "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7PfJYS1O6eO7kYSCgvrLP7rDkW4f6ZYj2LiZpomii1Ky-kpkYGn0IdCQdFI3ZwrS8lS3xL_mhp606svLzGwj5Hcs2GaaAA/512fx384f",
             "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7PfJYS1O6eO-kYGdjsj4MqnWkyVVsJBw2LvD9ojz3AWx-kRrNWulcICQewc_YlCFq1Dqx-vv0Z64vJ-b1zI97aQThw8g/512fx384f"
+          }
+        },
+        {
+          "name": "Galil AR | Hunting Blind",
+          "id": "191",
+          "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
+          "prices": {
+            "Factory New": "1.92",
+            "Minimal Wear": "1.04",
+            "Field-Tested": "0.81",
+            "Well-Worn": "0.81",
+            "Battle-Scarred": "0.81",
+            "Souvenir Factory New": "1.43",
+            "Souvenir Minimal Wear": "0.82",
+            "Souvenir Field-Tested": "0.61",
+            "Souvenir Well-Worn": "1.50",
+            "Souvenir Battle-Scarred": "1.15"
+          },
+          "lore": "This item has no Lore",
+          "can_be_souvenir": true,
+          "can_be_stattrak": false,
+          "wears": {
+            "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8NqjummJW4NFOhujT8om7jge3-hY6am2mIYTEIwBtNw3TqVLskOznjJbpvMnMmCFjvSYm7H_dzgv330_KjFrJvQ/512fx384f",
+            "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8NqjummJW4NFOhujT8om7jge3-hY6am2mIYTEIwBtNw3TqVLskOznjJbpvMnMmCFjvSYm7H_dzgv330_KjFrJvQ/512fx384f",
+            "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8Nqjum25V4dB8teXA54vwxgKwqRZqa2GgctDEdgY7Yl3UrFTok725hcLtvZnKyXJk7yMgsX6PykapwUYbX0P5-qU/512fx384f",
+            "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8Nqjum25V4dB8teXA54vwxgKwqRZqa2GgctDEdgY7Yl3UrFTok725hcLtvZnKyXJk7yMgsX6PykapwUYbX0P5-qU/512fx384f",
+            "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8Nqjunm5Q_txOhujT8om7i1Hg_0I_YGDyIdKWJ1RtNw3R8lK7lL--1MPq757OzSEx73Vxt3iOnAv3309KxEWqOg/512fx384f"
           }
         }
       ]

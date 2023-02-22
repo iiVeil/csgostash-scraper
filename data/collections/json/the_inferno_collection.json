@@ -1,6 +1,6 @@
 {
   "name": "The Inferno Collection",
-  "image_url": "https://csgostash.com/img/collections/256x198/the_inferno_collection.png?id=033c492326696ca9c02d",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_inferno_collection.png?id=033c492326696ca9c02d816b55a5e012",
   "content": {
     "Rare Special Items": [],
     "Covert Skins": [],
@@ -8,10 +8,46 @@
     "Restricted Skins": [],
     "Mil-Spec Skins": [
       {
-        "name": "Tec-9 | Brass",
-        "desc": "It has brass parts.",
+        "name": "Dual Berettas | Anodized Navy",
+        "id": "47",
+        "desc": "It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+        "prices": {
+          "Factory New": "1.07",
+          "Minimal Wear": "2.18",
+          "Field-Tested": "Not Possible",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible",
+          "Souvenir Factory New": "5.26",
+          "Souvenir Minimal Wear": "11.84",
+          "Souvenir Field-Tested": "Not Possible",
+          "Souvenir Well-Worn": "Not Possible",
+          "Souvenir Battle-Scarred": "Not Possible"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0v33fzxU9eO6nYeDg8j4MqnWkyUJv5wo0-rC8NigiQTnrUs5a2qgJo7BIA82aV_U8lC-kOu8jJ-875zJ1zI97VD5Iwga/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0v33fzxU9eO6nYeDg8j4MqnWkyUJv5wo0-rC8NigiQTnrUs5a2qgJo7BIA82aV_U8lC-kOu8jJ-875zJ1zI97VD5Iwga/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Brass",
+        "id": "45",
+        "desc": "It has brass parts.",
+        "prices": {
+          "Factory New": "15.15",
+          "Minimal Wear": "2.84",
+          "Field-Tested": "0.86",
+          "Well-Worn": "0.81",
+          "Battle-Scarred": "0.85",
+          "Souvenir Factory New": "77.89",
+          "Souvenir Minimal Wear": "17.96",
+          "Souvenir Field-Tested": "11.39",
+          "Souvenir Well-Worn": "10.37",
+          "Souvenir Battle-Scarred": "9.38"
+        },
+        "lore": "This item has no Lore",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -21,26 +57,26 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhhwszKYzxR_-O7kYSCgvrLP7rDkW4fv8d3ibrHpo2ligbkrUBoMGqmI4XHIQA9NVmD_gO3x7zp1MW17Z-bm2wj5Hf6dTnaGA/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhhwszKYzxR_-O-kYGdjsj4MqnWkyVSscFy0ryQ9In3jQC3qhdqZmr6JdeWJwVsYg3S_VO8lbzugsK66c-f1zI97a98iKNv/512fx384f"
         }
-      },
-      {
-        "name": "Dual Berettas | Anodized Navy",
-        "desc": "It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
-        "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0v33fzxU9eO6nYeDg8j4MqnWkyUJv5wo0-rC8NigiQTnrUs5a2qgJo7BIA82aV_U8lC-kOu8jJ-875zJ1zI97VD5Iwga/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0v33fzxU9eO6nYeDg8j4MqnWkyUJv5wo0-rC8NigiQTnrUs5a2qgJo7BIA82aV_U8lC-kOu8jJ-875zJ1zI97VD5Iwga/512fx384f"
-        }
       }
     ],
     "Industrial Grade Skins": [
       {
         "name": "P250 | Gunsmoke",
+        "id": "46",
         "desc": "It has been painted using a hydrographic of a gel pen doodle.",
+        "prices": {
+          "Factory New": "15.44",
+          "Minimal Wear": "2.46",
+          "Field-Tested": "0.87",
+          "Well-Worn": "1.16",
+          "Battle-Scarred": "0.85",
+          "Souvenir Factory New": "56.38",
+          "Souvenir Minimal Wear": "7.02",
+          "Souvenir Field-Tested": "2.12",
+          "Souvenir Well-Worn": "2.37",
+          "Souvenir Battle-Scarred": "1.53"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -53,9 +89,21 @@
       },
       {
         "name": "M4A4 | Tornado",
+        "id": "44",
         "desc": "It has individual parts spray-painted solid colors in a tornado color scheme.",
+        "prices": {
+          "Factory New": "45.67",
+          "Minimal Wear": "4.29",
+          "Field-Tested": "1.16",
+          "Well-Worn": "2.55",
+          "Battle-Scarred": "2.16",
+          "Souvenir Factory New": "117.07",
+          "Souvenir Minimal Wear": "10.74",
+          "Souvenir Field-Tested": "3.92",
+          "Souvenir Well-Worn": "5.22",
+          "Souvenir Battle-Scarred": "3.87"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -70,9 +118,21 @@
     "Consumer Grade Skins": [
       {
         "name": "MAG-7 | Sand Dune",
+        "id": "48",
         "desc": "It has individual parts spray-painted solid colors in a sand dune color scheme.",
+        "prices": {
+          "Factory New": "9.20",
+          "Minimal Wear": "1.84",
+          "Field-Tested": "0.65",
+          "Well-Worn": "0.89",
+          "Battle-Scarred": "1.30",
+          "Souvenir Factory New": "5.69",
+          "Souvenir Minimal Wear": "0.65",
+          "Souvenir Field-Tested": "0.17",
+          "Souvenir Well-Worn": "0.20",
+          "Souvenir Battle-Scarred": "0.19"
+        },
         "lore": "With Turner dead, we have a new priority: rescue Alex Kincaide - Felix Riley, Commanding Officer",
-        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -85,9 +145,21 @@
       },
       {
         "name": "Nova | Walnut",
+        "id": "43",
         "desc": "It has a figured walnut stock.",
+        "prices": {
+          "Factory New": "10.49",
+          "Minimal Wear": "2.08",
+          "Field-Tested": "0.98",
+          "Well-Worn": "1.10",
+          "Battle-Scarred": "0.95",
+          "Souvenir Factory New": "14.53",
+          "Souvenir Minimal Wear": "1.73",
+          "Souvenir Field-Tested": "0.83",
+          "Souvenir Well-Worn": "0.81",
+          "Souvenir Battle-Scarred": "0.78"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {

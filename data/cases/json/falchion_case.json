@@ -1,58 +1,26 @@
 {
   "name": "Falchion Case",
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/256fx256f",
+  "price": "0.53",
   "content": {
     "Rare Special Items": [
       {
-        "name": "★ Falchion Knife | Night",
-        "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
-        "lore": "It's the whisper of the wind... it's the bite at your neck",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh4-0mf7zO6_ummJW4NFOhujT8om73QfhrkpvamHxLIaQcQA-NAmDqVS3x-e6hMS-tMucz3Y1uyUg5HmLygv330_-hpfX1A/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh4-0mf7zO6_ummJW4NFOhujT8om73QfhrkpvamHxLIaQcQA-NAmDqVS3x-e6hMS-tMucz3Y1uyUg5HmLygv330_-hpfX1A/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh4-0mf7zO6_um25V4dB8teXA54vwxg3tr0VlYjinJo6Re1I_NwyCr1O2w--8g57vvpufy3djsihxsyvcyxWpwUYbANRt2R4/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh4-0mf7zO6_um25V4dB8teXA54vwxg3tr0VlYjinJo6Re1I_NwyCr1O2w--8g57vvpufy3djsihxsyvcyxWpwUYbANRt2R4/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh4-0mf7zO6_unm5Q_txOhujT8om73le2qkBvZmmhJo-cIQZoYgnQ_1LvlLjnhMK96J_IyXVr7yAh7XvUlwv330-fIXHkgw/512fx384f"
-        }
-      },
-      {
-        "name": "★ Falchion Knife | Safari Mesh",
-        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
-        "lore": "A predator is a predator, no matter the environment",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0mvLnO4TFl2Vu5Mx2gv3--Y3nj1H6rhA_MW76LY_DdwE6N12F-1G2wbq50MC9uZSayntjuXMmsHmJzRXj1AYMMLIjtwvRMA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0mvLnO4TFl2Vu5Mx2gv3--Y3nj1H6rhA_MW76LY_DdwE6N12F-1G2wbq50MC9uZSayntjuXMmsHmJzRXj1AYMMLIjtwvRMA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0mvLnO4TFl2Vu5cB1g_zMyoD0mlOx5RY5ZDz1cdCQcAc7ZVjY8lK8xefqgZG-6MvAzHVlvyV3sy3Ym0ezghpSLrs4qtg7Y4A/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0mvLnO4TFl2Vu5cB1g_zMyoD0mlOx5RY5ZDz1cdCQcAc7ZVjY8lK8xefqgZG-6MvAzHVlvyV3sy3Ym0ezghpSLrs4qtg7Y4A/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0mvLnO4TFl2Vu4MBwnPD--Y3nj1H6qBJkYGjwJIKUcQQ-ZlCB_AC5w-65hsC-u5rOm3MyviYgs3rUnhDh1QYMMLLEN8NDBw/512fx384f"
-        }
-      },
-      {
-        "name": "★ Falchion Knife | Stained",
-        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
-        "lore": "If you think it's messy now, wait until you see it under a blacklight",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0kfjmML7VqWdY781lteXA54vwxge28ktqNz-gJ4-QJwA4YV-E-we-xLi80Zfqv8jPm3owuHMgtn6LmhypwUYb5tWmOP0/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0kfjmML7VqWdY781lteXA54vwxge28ktqNz-gJ4-QJwA4YV-E-we-xLi80Zfqv8jPm3owuHMgtn6LmhypwUYb5tWmOP0/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0kfjmML7VqWZU7Mxkh9bN9J7yjRq2_xZlYT3yJoaTewE4MgvS_1C8lOboh8O07pmczyNkuSdz4H_UnBe0n1gSORcGh2Vk/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0kfjmML7VqWZU7Mxkh9bN9J7yjRq2_xZlYT3yJoaTewE4MgvS_1C8lOboh8O07pmczyNkuSdz4H_UnBe0n1gSORcGh2Vk/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0kfjmML7VqWNU6dNoteXA54vwxlHi8hA-NjjycNLHdFc_Zw3U-Fi5xubogZbqu5nAy3Vi6HMjsCrVmBWpwUYbmYUk6BU/512fx384f"
-        }
-      },
-      {
         "name": "★ Falchion Knife | Scorched",
+        "id": "639",
         "desc": "It has been spray-painted in a sun-dappled pattern.",
+        "prices": {
+          "StatTrak Factory New": "No Recent Price",
+          "StatTrak Minimal Wear": "143.79",
+          "StatTrak Field-Tested": "118.52",
+          "StatTrak Well-Worn": "103.55",
+          "StatTrak Battle-Scarred": "105.43",
+          "Factory New": "292.63",
+          "Minimal Wear": "110.59",
+          "Field-Tested": "101.09",
+          "Well-Worn": "102.14",
+          "Battle-Scarred": "100.71"
+        },
         "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -64,25 +32,22 @@
         }
       },
       {
-        "name": "★ Falchion Knife | Blue Steel",
-        "desc": "It has been cold blued.",
-        "lore": "This is the malbec of weapon design - Booth, Arms Dealer",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0lfvhNr_ummJW4NFOhujT8om7jVWw-0o9Y2_2doeUd1M5YV-B_1jvkOrmg5617cvJnCZg7nQqsX6LnAv33096JBYroA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0lfvhNr_ummJW4NFOhujT8om7jVWw-0o9Y2_2doeUd1M5YV-B_1jvkOrmg5617cvJnCZg7nQqsX6LnAv33096JBYroA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0lfvhNr_um25V4dB8teXA54vwxle1-0VvN2v1IdSUcQU2NV7R_QLtlLi8jJ6_tZXNnSQ3siQisS6JmxCpwUYbIOval6A/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0lfvhNr_um25V4dB8teXA54vwxle1-0VvN2v1IdSUcQU2NV7R_QLtlLi8jJ6_tZXNnSQ3siQisS6JmxCpwUYbIOval6A/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0lfvhNr_unm5Q_txOhujT8om7ig3srUFoYTr7coWdcg5tYF6B-1G_yb25hcTvtJ_ByyQw7yYn4S7ZnQv330-ul4UOXQ/512fx384f"
-        }
-      },
-      {
         "name": "★ Falchion Knife | Case Hardened",
+        "id": "633",
         "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
+        "prices": {
+          "StatTrak Factory New": "327.70",
+          "StatTrak Minimal Wear": "255.76",
+          "StatTrak Field-Tested": "199.37",
+          "StatTrak Well-Worn": "222.91",
+          "StatTrak Battle-Scarred": "220.46",
+          "Factory New": "249.12",
+          "Minimal Wear": "194.73",
+          "Field-Tested": "148.98",
+          "Well-Worn": "139.70",
+          "Battle-Scarred": "134.40"
+        },
         "lore": "A little color never hurt anyone",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -94,76 +59,103 @@
         }
       },
       {
-        "name": "★ Falchion Knife | Slaughter",
-        "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
-        "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers",
-        "date_added": "26 May 2015",
+        "name": "★ Falchion Knife | Safari Mesh",
+        "id": "638",
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "prices": {
+          "StatTrak Factory New": "No Recent Price",
+          "StatTrak Minimal Wear": "139.00",
+          "StatTrak Field-Tested": "102.75",
+          "StatTrak Well-Worn": "115.36",
+          "StatTrak Battle-Scarred": "155.78",
+          "Factory New": "133.23",
+          "Minimal Wear": "110.41",
+          "Field-Tested": "98.38",
+          "Well-Worn": "102.53",
+          "Battle-Scarred": "97.89"
+        },
+        "lore": "A predator is a predator, no matter the environment",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20jfL2IbrummJW4NFOhujT8om721e2qBZuYmDycITEcAZsaVCF_FC-lebujZbvvsvNmHs27yAi43mOzgv3308URyVBpw/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20jfL2IbrummJW4NFOhujT8om721e2qBZuYmDycITEcAZsaVCF_FC-lebujZbvvsvNmHs27yAi43mOzgv3308URyVBpw/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20jfL2Ibrum25V4dB8teXA54vwxlbm_BdoMWmgLYPDIA5oZVCCrwe2x-fqg5O17pifmnFlvHYj5XvVnBSpwUYb_vEq6VY/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0mvLnO4TFl2Vu5Mx2gv3--Y3nj1H6rhA_MW76LY_DdwE6N12F-1G2wbq50MC9uZSayntjuXMmsHmJzRXj1AYMMLIjtwvRMA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0mvLnO4TFl2Vu5Mx2gv3--Y3nj1H6rhA_MW76LY_DdwE6N12F-1G2wbq50MC9uZSayntjuXMmsHmJzRXj1AYMMLIjtwvRMA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0mvLnO4TFl2Vu5cB1g_zMyoD0mlOx5RY5ZDz1cdCQcAc7ZVjY8lK8xefqgZG-6MvAzHVlvyV3sy3Ym0ezghpSLrs4qtg7Y4A/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0mvLnO4TFl2Vu5cB1g_zMyoD0mlOx5RY5ZDz1cdCQcAc7ZVjY8lK8xefqgZG-6MvAzHVlvyV3sy3Ym0ezghpSLrs4qtg7Y4A/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0mvLnO4TFl2Vu4MBwnPD--Y3nj1H6qBJkYGjwJIKUcQQ-ZlCB_AC5w-65hsC-u5rOm3MyviYgs3rUnhDh1QYMMLLEN8NDBw/512fx384f"
         }
       },
       {
-        "name": "★ Falchion Knife | Crimson Web",
-        "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
-        "lore": "Be careful where you walk, you never know where the web is spread",
-        "date_added": "26 May 2015",
+        "name": "★ Falchion Knife | Blue Steel",
+        "id": "631",
+        "desc": "It has been cold blued.",
+        "prices": {
+          "StatTrak Factory New": "308.90",
+          "StatTrak Minimal Wear": "222.91",
+          "StatTrak Field-Tested": "159.62",
+          "StatTrak Well-Worn": "158.97",
+          "StatTrak Battle-Scarred": "154.28",
+          "Factory New": "173.08",
+          "Minimal Wear": "136.78",
+          "Field-Tested": "136.69",
+          "Well-Worn": "133.75",
+          "Battle-Scarred": "127.05"
+        },
+        "lore": "This is the malbec of weapon design - Booth, Arms Dealer",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0gPL2IITdn2xZ_Pp9i_vG8MKsiwfh_hBra2j6do7DJg83YgrV_lLskru61p-7usjOwHo2vHUq43zegVXp1quG0xFU/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0gPL2IITdn2xZ_Pp9i_vG8MKsiwfh_hBra2j6do7DJg83YgrV_lLskru61p-7usjOwHo2vHUq43zegVXp1quG0xFU/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0gPL2IITck29Y_chOhujT8om7ilXh_ktoamqicoSUcQNqYQvY_FDvxbu51J677szAmHBmu3Nw4irbmAv330-KOycpNg/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0gPL2IITck29Y_chOhujT8om7ilXh_ktoamqicoSUcQNqYQvY_FDvxbu51J677szAmHBmu3Nw4irbmAv330-KOycpNg/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0gPL2IITZk2pH8fp9i_vG8MLwigawrhVuMW-nIoDEcAE9ZFvU-1XvkLi8gsW5vcuam3FkvSUn43nYgVXp1vUpXAtv/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0lfvhNr_ummJW4NFOhujT8om7jVWw-0o9Y2_2doeUd1M5YV-B_1jvkOrmg5617cvJnCZg7nQqsX6LnAv33096JBYroA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0lfvhNr_ummJW4NFOhujT8om7jVWw-0o9Y2_2doeUd1M5YV-B_1jvkOrmg5617cvJnCZg7nQqsX6LnAv33096JBYroA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0lfvhNr_um25V4dB8teXA54vwxle1-0VvN2v1IdSUcQU2NV7R_QLtlLi8jJ6_tZXNnSQ3siQisS6JmxCpwUYbIOval6A/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0lfvhNr_um25V4dB8teXA54vwxle1-0VvN2v1IdSUcQU2NV7R_QLtlLi8jJ6_tZXNnSQ3siQisS6JmxCpwUYbIOval6A/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0lfvhNr_unm5Q_txOhujT8om7ig3srUFoYTr7coWdcg5tYF6B-1G_yb25hcTvtJ_ByyQw7yYn4S7ZnQv330-ul4UOXQ/512fx384f"
         }
       },
       {
-        "name": "★ Falchion Knife | Fade",
-        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
-        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
-        "date_added": "26 May 2015",
+        "name": "★ Falchion Knife | Urban Masked",
+        "id": "642",
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "prices": {
+          "StatTrak Factory New": "No Recent Price",
+          "StatTrak Minimal Wear": "No Recent Price",
+          "StatTrak Field-Tested": "122.71",
+          "StatTrak Well-Worn": "111.73",
+          "StatTrak Battle-Scarred": "109.99",
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "119.99",
+          "Field-Tested": "105.04",
+          "Well-Worn": "109.53",
+          "Battle-Scarred": "107.68"
+        },
+        "lore": "True power is demonstrated with subtle application",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlYG0kfbwNoTdn2xZ_Pp9i_vG8MKkjFbiqRBtYT_3doKcdAE5M1vT-lK2w73s0JPt6p_In3Zl7iBx5H3ZgVXp1vKw8o78/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlYG0kfbwNoTdn2xZ_Pp9i_vG8MKkjFbiqRBtYT_3doKcdAE5M1vT-lK2w73s0JPt6p_In3Zl7iBx5H3ZgVXp1vKw8o78/512fx384f"
-        }
-      },
-      {
-        "name": "★ Falchion Knife | ★ (Vanilla)",
-        "desc": "This item has no description.",
-        "lore": "This item has no Lore",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_falchion.adcc43a018fd4fe315dbdbc7960cfc52c5d63e3e.png"
-        }
-      },
-      {
-        "name": "★ Falchion Knife | Forest DDPAT",
-        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
-        "lore": "By the time you're close enough to notice the pixels it's already too late",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0k_PkMq_ummJW4NFOhujT8om721bm80ZrMWD6dtSXI1c_M1nT-Va8xea7jce97cjLzSMy7yFws3vYnwv330-CGV7xUA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0k_PkMq_ummJW4NFOhujT8om721bm80ZrMWD6dtSXI1c_M1nT-Va8xea7jce97cjLzSMy7yFws3vYnwv330-CGV7xUA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0k_PkMq_um25V4dB8teXA54vwxgzg-kY9Zm-nIoCRcAE8YgnR_VTqk7--18C-u8idwHVkuXZ05HmLzBapwUYbZ3i-IsY/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0k_PkMq_um25V4dB8teXA54vwxgzg-kY9Zm-nIoCRcAE8YgnR_VTqk7--18C-u8idwHVkuXZ05HmLzBapwUYbZ3i-IsY/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0k_PkMq_unm5Q_txOhujT8om72wLjrxA-YWH3I9OQcQ5rYFjT-FO8le3sjZLp6c6czHVhv3NxsyrdnAv330_Dgysv0Q/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0g_bkNoTEhGlQ5vp9g-7J4bP5iUazrl0_YGDzINOdcwBsNwvT-gLqwO3v1JHtvZXPzCc1uSdz5n2IyxW0hRtIcKUx0k4sDK_g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0g_bkNoTEhGlQ5vp9g-7J4bP5iUazrl0_YGDzINOdcwBsNwvT-gLqwO3v1JHtvZXPzCc1uSdz5n2IyxW0hRtIcKUx0k4sDK_g/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0g_bkNoTEhGlQ5vp8j-3I4IHKhFWmrBZyYG3yLITGIQ5qN1nW_1Xoxr3shp_pu5jAziRjvSAk7H6Omx20gk1FOPsv26LsGCteJg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0g_bkNoTEhGlQ5vp8j-3I4IHKhFWmrBZyYG3yLITGIQ5qN1nW_1Xoxr3shp_pu5jAziRjvSAk7H6Omx20gk1FOPsv26LsGCteJg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0g_bkNoTEhGlQ5vp5j-jX7LP5iUazrl0_ZGimJNDGewc_aVvY-QS8yby915e7v53NmnAyuyQj432JlkPihxlNcKUx0oLGuBt0/512fx384f"
         }
       },
       {
         "name": "★ Falchion Knife | Boreal Forest",
+        "id": "632",
         "desc": "It has been painted using a forest camouflage hydrographic.",
+        "prices": {
+          "StatTrak Factory New": "No Recent Price",
+          "StatTrak Minimal Wear": "No Recent Price",
+          "StatTrak Field-Tested": "122.86",
+          "StatTrak Well-Worn": "180.00",
+          "StatTrak Battle-Scarred": "115.00",
+          "Factory New": "231.73",
+          "Minimal Wear": "123.97",
+          "Field-Tested": "107.38",
+          "Well-Worn": "108.74",
+          "Battle-Scarred": "105.70"
+        },
         "lore": "The woods can be a dangerous place... never travel alone",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -175,42 +167,196 @@
         }
       },
       {
-        "name": "★ Falchion Knife | Urban Masked",
-        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
-        "lore": "True power is demonstrated with subtle application",
-        "date_added": "26 May 2015",
+        "name": "★ Falchion Knife | Slaughter",
+        "id": "640",
+        "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
+        "prices": {
+          "StatTrak Factory New": "287.50",
+          "StatTrak Minimal Wear": "259.98",
+          "StatTrak Field-Tested": "229.93",
+          "StatTrak Well-Worn": "Not Possible",
+          "StatTrak Battle-Scarred": "Not Possible",
+          "Factory New": "265.99",
+          "Minimal Wear": "220.46",
+          "Field-Tested": "201.66",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
+        "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0g_bkNoTEhGlQ5vp9g-7J4bP5iUazrl0_YGDzINOdcwBsNwvT-gLqwO3v1JHtvZXPzCc1uSdz5n2IyxW0hRtIcKUx0k4sDK_g/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0g_bkNoTEhGlQ5vp9g-7J4bP5iUazrl0_YGDzINOdcwBsNwvT-gLqwO3v1JHtvZXPzCc1uSdz5n2IyxW0hRtIcKUx0k4sDK_g/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0g_bkNoTEhGlQ5vp8j-3I4IHKhFWmrBZyYG3yLITGIQ5qN1nW_1Xoxr3shp_pu5jAziRjvSAk7H6Omx20gk1FOPsv26LsGCteJg/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0g_bkNoTEhGlQ5vp8j-3I4IHKhFWmrBZyYG3yLITGIQ5qN1nW_1Xoxr3shp_pu5jAziRjvSAk7H6Omx20gk1FOPsv26LsGCteJg/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh5C0g_bkNoTEhGlQ5vp5j-jX7LP5iUazrl0_ZGimJNDGewc_aVvY-QS8yby915e7v53NmnAyuyQj432JlkPihxlNcKUx0oLGuBt0/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20jfL2IbrummJW4NFOhujT8om721e2qBZuYmDycITEcAZsaVCF_FC-lebujZbvvsvNmHs27yAi43mOzgv3308URyVBpw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20jfL2IbrummJW4NFOhujT8om721e2qBZuYmDycITEcAZsaVCF_FC-lebujZbvvsvNmHs27yAi43mOzgv3308URyVBpw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20jfL2Ibrum25V4dB8teXA54vwxlbm_BdoMWmgLYPDIA5oZVCCrwe2x-fqg5O17pifmnFlvHYj5XvVnBSpwUYb_vEq6VY/512fx384f"
+        }
+      },
+      {
+        "name": "★ Falchion Knife | ★ (Vanilla)",
+        "id": "630",
+        "desc": "This item has no description.",
+        "prices": {
+          "StatTrak Vanilla": "186.23",
+          "Vanilla": "169.54"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_falchion.adcc43a018fd4fe315dbdbc7960cfc52c5d63e3e.png"
+        }
+      },
+      {
+        "name": "★ Falchion Knife | Night",
+        "id": "637",
+        "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
+        "prices": {
+          "StatTrak Factory New": "No Recent Price",
+          "StatTrak Minimal Wear": "302.45",
+          "StatTrak Field-Tested": "148.24",
+          "StatTrak Well-Worn": "153.80",
+          "StatTrak Battle-Scarred": "129.81",
+          "Factory New": "349.90",
+          "Minimal Wear": "157.95",
+          "Field-Tested": "120.59",
+          "Well-Worn": "130.29",
+          "Battle-Scarred": "107.44"
+        },
+        "lore": "It's the whisper of the wind... it's the bite at your neck",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh4-0mf7zO6_ummJW4NFOhujT8om73QfhrkpvamHxLIaQcQA-NAmDqVS3x-e6hMS-tMucz3Y1uyUg5HmLygv330_-hpfX1A/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh4-0mf7zO6_ummJW4NFOhujT8om73QfhrkpvamHxLIaQcQA-NAmDqVS3x-e6hMS-tMucz3Y1uyUg5HmLygv330_-hpfX1A/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh4-0mf7zO6_um25V4dB8teXA54vwxg3tr0VlYjinJo6Re1I_NwyCr1O2w--8g57vvpufy3djsihxsyvcyxWpwUYbANRt2R4/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh4-0mf7zO6_um25V4dB8teXA54vwxg3tr0VlYjinJo6Re1I_NwyCr1O2w--8g57vvpufy3djsihxsyvcyxWpwUYbANRt2R4/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJh4-0mf7zO6_unm5Q_txOhujT8om73le2qkBvZmmhJo-cIQZoYgnQ_1LvlLjnhMK96J_IyXVr7yAh7XvUlwv330-fIXHkgw/512fx384f"
+        }
+      },
+      {
+        "name": "★ Falchion Knife | Crimson Web",
+        "id": "634",
+        "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
+        "prices": {
+          "StatTrak Factory New": "No Recent Price",
+          "StatTrak Minimal Wear": "310.21",
+          "StatTrak Field-Tested": "199.98",
+          "StatTrak Well-Worn": "201.90",
+          "StatTrak Battle-Scarred": "No Recent Price",
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "244.32",
+          "Field-Tested": "152.97",
+          "Well-Worn": "167.18",
+          "Battle-Scarred": "159.08"
+        },
+        "lore": "Be careful where you walk, you never know where the web is spread",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0gPL2IITdn2xZ_Pp9i_vG8MKsiwfh_hBra2j6do7DJg83YgrV_lLskru61p-7usjOwHo2vHUq43zegVXp1quG0xFU/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0gPL2IITdn2xZ_Pp9i_vG8MKsiwfh_hBra2j6do7DJg83YgrV_lLskru61p-7usjOwHo2vHUq43zegVXp1quG0xFU/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0gPL2IITck29Y_chOhujT8om7ilXh_ktoamqicoSUcQNqYQvY_FDvxbu51J677szAmHBmu3Nw4irbmAv330-KOycpNg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0gPL2IITck29Y_chOhujT8om7ilXh_ktoamqicoSUcQNqYQvY_FDvxbu51J677szAmHBmu3Nw4irbmAv330-KOycpNg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0gPL2IITZk2pH8fp9i_vG8MLwigawrhVuMW-nIoDEcAE9ZFvU-1XvkLi8gsW5vcuam3FkvSUn43nYgVXp1vUpXAtv/512fx384f"
+        }
+      },
+      {
+        "name": "★ Falchion Knife | Stained",
+        "id": "641",
+        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
+        "prices": {
+          "StatTrak Factory New": "No Recent Price",
+          "StatTrak Minimal Wear": "127.58",
+          "StatTrak Field-Tested": "128.48",
+          "StatTrak Well-Worn": "105.35",
+          "StatTrak Battle-Scarred": "120.87",
+          "Factory New": "139.90",
+          "Minimal Wear": "120.37",
+          "Field-Tested": "108.67",
+          "Well-Worn": "106.42",
+          "Battle-Scarred": "110.42"
+        },
+        "lore": "If you think it's messy now, wait until you see it under a blacklight",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0kfjmML7VqWdY781lteXA54vwxge28ktqNz-gJ4-QJwA4YV-E-we-xLi80Zfqv8jPm3owuHMgtn6LmhypwUYb5tWmOP0/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0kfjmML7VqWdY781lteXA54vwxge28ktqNz-gJ4-QJwA4YV-E-we-xLi80Zfqv8jPm3owuHMgtn6LmhypwUYb5tWmOP0/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0kfjmML7VqWZU7Mxkh9bN9J7yjRq2_xZlYT3yJoaTewE4MgvS_1C8lOboh8O07pmczyNkuSdz4H_UnBe0n1gSORcGh2Vk/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0kfjmML7VqWZU7Mxkh9bN9J7yjRq2_xZlYT3yJoaTewE4MgvS_1C8lOboh8O07pmczyNkuSdz4H_UnBe0n1gSORcGh2Vk/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlZG0kfjmML7VqWNU6dNoteXA54vwxlHi8hA-NjjycNLHdFc_Zw3U-Fi5xubogZbqu5nAy3Vi6HMjsCrVmBWpwUYbmYUk6BU/512fx384f"
+        }
+      },
+      {
+        "name": "★ Falchion Knife | Fade",
+        "id": "635",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "prices": {
+          "StatTrak Factory New": "342.63",
+          "StatTrak Minimal Wear": "No Recent Price",
+          "StatTrak Field-Tested": "Not Possible",
+          "StatTrak Well-Worn": "Not Possible",
+          "StatTrak Battle-Scarred": "Not Possible",
+          "Factory New": "301.73",
+          "Minimal Wear": "300.98",
+          "Field-Tested": "Not Possible",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlYG0kfbwNoTdn2xZ_Pp9i_vG8MKkjFbiqRBtYT_3doKcdAE5M1vT-lK2w73s0JPt6p_In3Zl7iBx5H3ZgVXp1vKw8o78/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlYG0kfbwNoTdn2xZ_Pp9i_vG8MKkjFbiqRBtYT_3doKcdAE5M1vT-lK2w73s0JPt6p_In3Zl7iBx5H3ZgVXp1vKw8o78/512fx384f"
+        }
+      },
+      {
+        "name": "★ Falchion Knife | Forest DDPAT",
+        "id": "636",
+        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "prices": {
+          "StatTrak Factory New": "No Recent Price",
+          "StatTrak Minimal Wear": "314.46",
+          "StatTrak Field-Tested": "105.88",
+          "StatTrak Well-Worn": "122.37",
+          "StatTrak Battle-Scarred": "109.28",
+          "Factory New": "171.89",
+          "Minimal Wear": "117.04",
+          "Field-Tested": "104.65",
+          "Well-Worn": "109.65",
+          "Battle-Scarred": "98.90"
+        },
+        "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0k_PkMq_ummJW4NFOhujT8om721bm80ZrMWD6dtSXI1c_M1nT-Va8xea7jce97cjLzSMy7yFws3vYnwv330-CGV7xUA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0k_PkMq_ummJW4NFOhujT8om721bm80ZrMWD6dtSXI1c_M1nT-Va8xea7jce97cjLzSMy7yFws3vYnwv330-CGV7xUA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0k_PkMq_um25V4dB8teXA54vwxgzg-kY9Zm-nIoCRcAE8YgnR_VTqk7--18C-u8idwHVkuXZ05HmLzBapwUYbZ3i-IsY/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0k_PkMq_um25V4dB8teXA54vwxgzg-kY9Zm-nIoCRcAE8YgnR_VTqk7--18C-u8idwHVkuXZ05HmLzBapwUYbZ3i-IsY/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0k_PkMq_unm5Q_txOhujT8om72wLjrxA-YWH3I9OQcQ5rYFjT-FO8le3sjZLp6c6czHVhv3NxsyrdnAv330_Dgysv0Q/512fx384f"
         }
       }
     ],
     "Covert Skins": [
       {
-        "name": "AWP | Hyper Beast",
-        "desc": "It has been custom painted with a beastly creature in psychadelic colours.",
-        "lore": "You really want to impress me Booth? Make this black light sensitive - Rona Sabri, Rising Star",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tdn2xZ_Pp9i_vG8MKg3VGyqkY5YGn6INfDdQdtMF6B_1fsx7u-1p-678_Jy3A1vXVxsXePgVXp1hRVxWZh/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tdn2xZ_Pp9i_vG8MKg3VGyqkY5YGn6INfDdQdtMF6B_1fsx7u-1p-678_Jy3A1vXVxsXePgVXp1hRVxWZh/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tck29Y_chOhujT8om7i1bh_hE4amr7dYTEe1U6NFqBqQfvxe-50ZO86s6azXMxvCQlsymJzgv330_aLijZVA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tck29Y_chOhujT8om7i1bh_hE4amr7dYTEe1U6NFqBqQfvxe-50ZO86s6azXMxvCQlsymJzgv330_aLijZVA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4TZk2pH8fp9i_vG8MKkiwPh8xA_YGGlcIfGdgY-aVmE_lW8wrvqjJ7vusvNn3Vku3Ur5XfYgVXp1jchiGSt/512fx384f"
-        }
-      },
-      {
         "name": "AK-47 | Aquamarine Revenge",
+        "id": "569",
         "desc": "It has been custom painted with the image of a pod of dolphins.",
+        "prices": {
+          "StatTrak Factory New": "269.99",
+          "StatTrak Minimal Wear": "122.37",
+          "StatTrak Field-Tested": "72.36",
+          "StatTrak Well-Worn": "46.94",
+          "StatTrak Battle-Scarred": "43.64",
+          "Factory New": "85.65",
+          "Minimal Wear": "52.86",
+          "Field-Tested": "29.92",
+          "Well-Worn": "20.18",
+          "Battle-Scarred": "17.41"
+        },
         "lore": "Is there an echo in here?",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -220,27 +366,53 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWZU7Mxkh9bN9J7yjRrhrUFuazjzJteVJlQ6NVHTrFe3wObs15G06picwHFnvid25C3bnhSzn1gSOQz0szG-/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5gZKKkPLLMrfFqWNU6dNoteXA54vwxgCyqRVvZzrxItTDewY7NwvS_gW2x7y-h5a9vp3KnXZh63Ug4yyJyUepwUYbPABm4j8/512fx384f"
         }
+      },
+      {
+        "name": "AWP | Hyper Beast",
+        "id": "568",
+        "desc": "It has been custom painted with a beastly creature in psychadelic colours.",
+        "prices": {
+          "StatTrak Factory New": "305.02",
+          "StatTrak Minimal Wear": "123.59",
+          "StatTrak Field-Tested": "73.42",
+          "StatTrak Well-Worn": "50.29",
+          "StatTrak Battle-Scarred": "47.89",
+          "Factory New": "88.60",
+          "Minimal Wear": "53.90",
+          "Field-Tested": "36.02",
+          "Well-Worn": "25.69",
+          "Battle-Scarred": "21.59"
+        },
+        "lore": "You really want to impress me Booth? Make this black light sensitive - Rona Sabri, Rising Star",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tdn2xZ_Pp9i_vG8MKg3VGyqkY5YGn6INfDdQdtMF6B_1fsx7u-1p-678_Jy3A1vXVxsXePgVXp1hRVxWZh/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tdn2xZ_Pp9i_vG8MKg3VGyqkY5YGn6INfDdQdtMF6B_1fsx7u-1p-678_Jy3A1vXVxsXePgVXp1hRVxWZh/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tck29Y_chOhujT8om7i1bh_hE4amr7dYTEe1U6NFqBqQfvxe-50ZO86s6azXMxvCQlsymJzgv330_aLijZVA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4Tck29Y_chOhujT8om7i1bh_hE4amr7dYTEe1U6NFqBqQfvxe-50ZO86s6azXMxvCQlsymJzgv330_aLijZVA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4TZk2pH8fp9i_vG8MKkiwPh8xA_YGGlcIfGdgY-aVmE_lW8wrvqjJ7vusvNn3Vku3Ur5XfYgVXp1jchiGSt/512fx384f"
+        }
       }
     ],
     "Classified Skins": [
       {
-        "name": "MP7 | Nemesis",
-        "desc": "It has been custom painted with the image of a metallic monster.",
-        "lore": "It's coming for you",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJM6dGlnZO0m_7zO6_ummpD78A_3buRotjw3wW1-URkYW6lIIfBIQNqZw7V-1Dqw7jvhZXvvc_PySZr6z5iuyjpCFO7dg/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJM6dGlnZO0m_7zO6_ummpD78A_3buRotjw3wW1-URkYW6lIIfBIQNqZw7V-1Dqw7jvhZXvvc_PySZr6z5iuyjpCFO7dg/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJM6dGlnZO0mvLwOq7cqWdQ-sJ0xLGR84n32VW3-0A_Zz-nJYeScQM7NAzZrgS8kurs18O9vpnOn3A27nY8pSGKU4iJV0o/512fx384f"
-        }
-      },
-      {
         "name": "CZ75-Auto | Yellow Jacket",
+        "id": "572",
         "desc": "It has been custom painted with curved shapes.",
+        "prices": {
+          "StatTrak Factory New": "33.82",
+          "StatTrak Minimal Wear": "13.69",
+          "StatTrak Field-Tested": "9.00",
+          "StatTrak Well-Worn": "6.71",
+          "StatTrak Battle-Scarred": "7.08",
+          "Factory New": "11.74",
+          "Minimal Wear": "5.98",
+          "Field-Tested": "4.43",
+          "Well-Worn": "3.47",
+          "Battle-Scarred": "3.51"
+        },
         "lore": "Float like a butterfly, sting like a relentless hateful insect",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -252,10 +424,47 @@
         }
       },
       {
+        "name": "MP7 | Nemesis",
+        "id": "571",
+        "desc": "It has been custom painted with the image of a metallic monster.",
+        "prices": {
+          "StatTrak Factory New": "33.04",
+          "StatTrak Minimal Wear": "11.75",
+          "StatTrak Field-Tested": "10.31",
+          "StatTrak Well-Worn": "Not Possible",
+          "StatTrak Battle-Scarred": "Not Possible",
+          "Factory New": "10.18",
+          "Minimal Wear": "6.14",
+          "Field-Tested": "5.06",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
+        "lore": "It's coming for you",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJM6dGlnZO0m_7zO6_ummpD78A_3buRotjw3wW1-URkYW6lIIfBIQNqZw7V-1Dqw7jvhZXvvc_PySZr6z5iuyjpCFO7dg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJM6dGlnZO0m_7zO6_ummpD78A_3buRotjw3wW1-URkYW6lIIfBIQNqZw7V-1Dqw7jvhZXvvc_PySZr6z5iuyjpCFO7dg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJM6dGlnZO0mvLwOq7cqWdQ-sJ0xLGR84n32VW3-0A_Zz-nJYeScQM7NAzZrgS8kurs18O9vpnOn3A27nY8pSGKU4iJV0o/512fx384f"
+        }
+      },
+      {
         "name": "SG 553 | Cyrex",
+        "id": "570",
         "desc": "It has been custom painted with a high-tech design in black, white, and red.",
+        "prices": {
+          "StatTrak Factory New": "50.10",
+          "StatTrak Minimal Wear": "16.52",
+          "StatTrak Field-Tested": "8.74",
+          "StatTrak Well-Worn": "7.05",
+          "StatTrak Battle-Scarred": "6.45",
+          "Factory New": "13.13",
+          "Minimal Wear": "6.59",
+          "Field-Tested": "4.71",
+          "Well-Worn": "3.56",
+          "Battle-Scarred": "3.40"
+        },
         "lore": "This item has no Lore",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -269,25 +478,22 @@
     ],
     "Restricted Skins": [
       {
-        "name": "MP9 | Ruby Poison Dart",
-        "desc": "It has been painted with red and purple metallic paints over a black base coat.",
-        "lore": "Who says diamonds are a girl's best friend?",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj4OrzZglRd6dd2j6eS9Nz33VXjqBdvYjj0d9DBd1A-NVHQqFjvwb_u0cTq78mbz3Zh6XNz-z-DyBQ3E_ml/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj4OrzZglRd6dd2j6eS9Nz33VXjqBdvYjj0d9DBd1A-NVHQqFjvwb_u0cTq78mbz3Zh6XNz-z-DyBQ3E_ml/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj5Nr_Yg2Zu5MRjjeyPoY2k0VXh-0NqMWr6dtDBIAFvYFCGrFXqyOq6gpfvtZvNwHJquXIl42GdwUJM_pmjsw/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj5Nr_Yg2Zu5MRjjeyPoY2k0VXh-0NqMWr6dtDBIAFvYFCGrFXqyOq6gpfvtZvNwHJquXIl42GdwUJM_pmjsw/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj8NrrHj1Rd6dd2j6fErNnw2Qfm_UM4ZWz7JoXGe1U5ZFuF_1Ltwri615Tp7p6YwXRq63Uh-z-DyBK9ouK_/512fx384f"
-        }
-      },
-      {
         "name": "P2000 | Handgun",
+        "id": "573",
         "desc": "It has been custom painted with a hand making an aiming gesture.",
+        "prices": {
+          "StatTrak Factory New": "14.95",
+          "StatTrak Minimal Wear": "3.68",
+          "StatTrak Field-Tested": "1.70",
+          "StatTrak Well-Worn": "1.32",
+          "StatTrak Battle-Scarred": "1.08",
+          "Factory New": "4.67",
+          "Minimal Wear": "1.40",
+          "Field-Tested": "0.71",
+          "Well-Worn": "0.63",
+          "Battle-Scarred": "0.52"
+        },
         "lore": "No more fun and games",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -300,9 +506,21 @@
       },
       {
         "name": "M4A4 | Evil Daimyo",
+        "id": "576",
         "desc": "It has been custom painted with a graphic design in red and black.",
+        "prices": {
+          "StatTrak Factory New": "17.04",
+          "StatTrak Minimal Wear": "8.80",
+          "StatTrak Field-Tested": "4.97",
+          "StatTrak Well-Worn": "5.75",
+          "StatTrak Battle-Scarred": "5.32",
+          "Factory New": "5.94",
+          "Minimal Wear": "3.69",
+          "Field-Tested": "1.97",
+          "Well-Worn": "2.42",
+          "Battle-Scarred": "1.87"
+        },
         "lore": "Carmen. I found him...- The Oni and The Valkyrie Part 1",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -315,9 +533,21 @@
       },
       {
         "name": "Negev | Loudmouth",
+        "id": "574",
         "desc": "It has been custom painted with a monstrous design and then distressed.",
+        "prices": {
+          "StatTrak Factory New": "Not Possible",
+          "StatTrak Minimal Wear": "19.45",
+          "StatTrak Field-Tested": "1.45",
+          "StatTrak Well-Worn": "1.77",
+          "StatTrak Battle-Scarred": "0.93",
+          "Factory New": "Not Possible",
+          "Minimal Wear": "4.28",
+          "Field-Tested": "0.66",
+          "Well-Worn": "0.74",
+          "Battle-Scarred": "0.53"
+        },
         "lore": "Get back here, I'm talking to you!",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -328,10 +558,49 @@
         }
       },
       {
+        "name": "MP9 | Ruby Poison Dart",
+        "id": "575",
+        "desc": "It has been painted with red and purple metallic paints over a black base coat.",
+        "prices": {
+          "StatTrak Factory New": "4.89",
+          "StatTrak Minimal Wear": "2.99",
+          "StatTrak Field-Tested": "1.66",
+          "StatTrak Well-Worn": "2.37",
+          "StatTrak Battle-Scarred": "2.41",
+          "Factory New": "2.09",
+          "Minimal Wear": "1.31",
+          "Field-Tested": "0.83",
+          "Well-Worn": "1.05",
+          "Battle-Scarred": "0.85"
+        },
+        "lore": "Who says diamonds are a girl's best friend?",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj4OrzZglRd6dd2j6eS9Nz33VXjqBdvYjj0d9DBd1A-NVHQqFjvwb_u0cTq78mbz3Zh6XNz-z-DyBQ3E_ml/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj4OrzZglRd6dd2j6eS9Nz33VXjqBdvYjj0d9DBd1A-NVHQqFjvwb_u0cTq78mbz3Zh6XNz-z-DyBQ3E_ml/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj5Nr_Yg2Zu5MRjjeyPoY2k0VXh-0NqMWr6dtDBIAFvYFCGrFXqyOq6gpfvtZvNwHJquXIl42GdwUJM_pmjsw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj5Nr_Yg2Zu5MRjjeyPoY2k0VXh-0NqMWr6dtDBIAFvYFCGrFXqyOq6gpfvtZvNwHJquXIl42GdwUJM_pmjsw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7YKAJM5cikm4eOmcj8NrrHj1Rd6dd2j6fErNnw2Qfm_UM4ZWz7JoXGe1U5ZFuF_1Ltwri615Tp7p6YwXRq63Uh-z-DyBK9ouK_/512fx384f"
+        }
+      },
+      {
         "name": "FAMAS | Neural Net",
+        "id": "577",
         "desc": "It has been painted with a translucent hydrographic over a metallic base coat.",
+        "prices": {
+          "StatTrak Factory New": "5.06",
+          "StatTrak Minimal Wear": "4.03",
+          "StatTrak Field-Tested": "1.61",
+          "StatTrak Well-Worn": "1.87",
+          "StatTrak Battle-Scarred": "1.50",
+          "Factory New": "1.79",
+          "Minimal Wear": "1.19",
+          "Field-Tested": "0.78",
+          "Well-Worn": "0.99",
+          "Battle-Scarred": "0.84"
+        },
         "lore": "I know. But it was the right thing to do... - A Family Affair Part 2",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -345,40 +614,22 @@
     ],
     "Mil-Spec Skins": [
       {
-        "name": "USP-S | Torque",
-        "desc": "It has been custom painted in a modern black, white and yellow design.",
-        "lore": "They're manipulating you Kotaro. And if you can't see that, you're in more trouble than you know... - Felix Riley, Commanding Officer",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteXI8oTht1i1uRQ5fWDyd9LAdQ4_MgzQqVm7wey918TuupufynUw6Sd05C2MyRfmgBgfbuBxxavJa8F12Qc/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteXI8oTht1i1uRQ5fWDyd9LAdQ4_MgzQqVm7wey918TuupufynUw6Sd05C2MyRfmgBgfbuBxxavJa8F12Qc/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteTE8YXghWu4qgE7Nnf0d4-UcQY-NFnX-FC-kuu71JPu6J6Yn3Rm63N34yrdl0fmhUlEbrM8m7XAHqZWJnsT/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteTE8YXghWu4qgE7Nnf0d4-UcQY-NFnX-FC-kuu71JPu6J6Yn3Rm63N34yrdl0fmhUlEbrM8m7XAHqZWJnsT/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteHE9Jrst1i1uRQ5fW6lLIeQJgNsMFjXqFi_lbu8hcO0tZ3LmHEy73Ertn3Zy0a1001La7RxxavJuOoLFgs/512fx384f"
-        }
-      },
-      {
-        "name": "UMP-45 | Riot",
-        "desc": "It has been painted using a combination of hydrographics and heat-transfer decals.",
-        "lore": "If you didn't want collateral damage, perhaps you should have been more specific... - Javier Alviso, Fist of the Phoenix",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLfYkWNF18lwmO7Eu9yhi1Ds_0BuYzr3J4GVIFVrNVnUq1K3yee9hcO9uJyanyRlvXVx7XfD30vggrNaWnM/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLfYkWNF18lwmO7Eu9yhi1Ds_0BuYzr3J4GVIFVrNVnUq1K3yee9hcO9uJyanyRlvXVx7XfD30vggrNaWnM/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLbUkmJE5fp9i_vG8MKh31Lnqko5Y2HxJ46SeldvMw6B-FW-l7ju1JTpvc_IyXRk7yAgsH_fgVXp1oQp02-z/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLbUkmJE5fp9i_vG8MKh31Lnqko5Y2HxJ46SeldvMw6B-FW-l7ju1JTpvc_IyXRk7yAgsH_fgVXp1oQp02-z/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLPUl31I18lwmO7Eu9vziQLlrRJqZ2v6JYKRJwY3MFmG-lPrlevq05W0u5XBnCNkvXEh5CrD30vgK1lTqQ4/512fx384f"
-        }
-      },
-      {
         "name": "Glock-18 | Bunsen Burner",
+        "id": "582",
         "desc": "It has been given a blue patina which has been polished off parts of the slide to result in a graphic flame design.",
+        "prices": {
+          "StatTrak Factory New": "4.52",
+          "StatTrak Minimal Wear": "1.73",
+          "StatTrak Field-Tested": "0.78",
+          "StatTrak Well-Worn": "2.49",
+          "StatTrak Battle-Scarred": "0.80",
+          "Factory New": "1.08",
+          "Minimal Wear": "0.37",
+          "Field-Tested": "0.18",
+          "Well-Worn": "0.35",
+          "Battle-Scarred": "0.17"
+        },
         "lore": "KNOCK KNOCK",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -390,10 +641,49 @@
         }
       },
       {
+        "name": "P90 | Elite Build",
+        "id": "580",
+        "desc": "It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.",
+        "prices": {
+          "StatTrak Factory New": "6.71",
+          "StatTrak Minimal Wear": "1.41",
+          "StatTrak Field-Tested": "0.60",
+          "StatTrak Well-Worn": "0.34",
+          "StatTrak Battle-Scarred": "0.27",
+          "Factory New": "1.70",
+          "Minimal Wear": "0.34",
+          "Field-Tested": "0.20",
+          "Well-Worn": "0.17",
+          "Battle-Scarred": "0.15"
+        },
+        "lore": "Tread softly Naomi...people in your line of work aren't known for their longevity - The Shield and The Serpent Part 2",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPv9NLPFqWdQ-sJ0xO-UrYrz3AztqEpuNT-iLNWTJwJtZVrY-1XskLrvhMW_uZ-dn3Iy6CY8pSGK7PES7n8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPv9NLPFqWdQ-sJ0xO-UrYrz3AztqEpuNT-iLNWTJwJtZVrY-1XskLrvhMW_uZ-dn3Iy6CY8pSGK7PES7n8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPrxN7LEm1Rd6dd2j6fFrdzzjVDm_RBvMDvzcNeRcwA6ZQzVqFLtyebv1pG-tM-az3o16CV3-z-DyAE2ajl0/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPrxN7LEm1Rd6dd2j6fFrdzzjVDm_RBvMDvzcNeRcwA6ZQzVqFLtyebv1pG-tM-az3o16CV3-z-DyAE2ajl0/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqP_xMq3IqWdQ-sJ0xOyS9t-t2VHg_EVvZT_7IY6cegRtNVqE_FS4wr_v0MDousnOmyA16HI8pSGK5tWLb_I/512fx384f"
+        }
+      },
+      {
         "name": "Galil AR | Rocket Pop",
+        "id": "583",
         "desc": "It has been custom painted with a graphic design of stripes and pixellated particles.",
+        "prices": {
+          "StatTrak Factory New": "15.99",
+          "StatTrak Minimal Wear": "3.57",
+          "StatTrak Field-Tested": "1.50",
+          "StatTrak Well-Worn": "0.87",
+          "StatTrak Battle-Scarred": "0.72",
+          "Factory New": "6.49",
+          "Minimal Wear": "2.42",
+          "Field-Tested": "0.95",
+          "Well-Worn": "0.49",
+          "Battle-Scarred": "0.29"
+        },
         "lore": "The perfect thing for a hot summer's day",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -405,10 +695,49 @@
         }
       },
       {
+        "name": "UMP-45 | Riot",
+        "id": "579",
+        "desc": "It has been painted using a combination of hydrographics and heat-transfer decals.",
+        "prices": {
+          "StatTrak Factory New": "1.26",
+          "StatTrak Minimal Wear": "0.73",
+          "StatTrak Field-Tested": "0.32",
+          "StatTrak Well-Worn": "0.51",
+          "StatTrak Battle-Scarred": "0.32",
+          "Factory New": "0.47",
+          "Minimal Wear": "0.32",
+          "Field-Tested": "0.25",
+          "Well-Worn": "0.38",
+          "Battle-Scarred": "0.28"
+        },
+        "lore": "If you didn't want collateral damage, perhaps you should have been more specific... - Javier Alviso, Fist of the Phoenix",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLfYkWNF18lwmO7Eu9yhi1Ds_0BuYzr3J4GVIFVrNVnUq1K3yee9hcO9uJyanyRlvXVx7XfD30vggrNaWnM/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLfYkWNF18lwmO7Eu9yhi1Ds_0BuYzr3J4GVIFVrNVnUq1K3yee9hcO9uJyanyRlvXVx7XfD30vggrNaWnM/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLbUkmJE5fp9i_vG8MKh31Lnqko5Y2HxJ46SeldvMw6B-FW-l7ju1JTpvc_IyXRk7yAgsH_fgVXp1oQp02-z/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLbUkmJE5fp9i_vG8MKh31Lnqko5Y2HxJ46SeldvMw6B-FW-l7ju1JTpvc_IyXRk7yAgsH_fgVXp1oQp02-z/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLPUl31I18lwmO7Eu9vziQLlrRJqZ2v6JYKRJwY3MFmG-lPrlevq05W0u5XBnCNkvXEh5CrD30vgK1lTqQ4/512fx384f"
+        }
+      },
+      {
         "name": "Nova | Ranger",
+        "id": "581",
         "desc": "It has been painted with a brush stroke hydrographic and detailed with heat-transfer decals.",
+        "prices": {
+          "StatTrak Factory New": "2.37",
+          "StatTrak Minimal Wear": "0.69",
+          "StatTrak Field-Tested": "0.37",
+          "StatTrak Well-Worn": "0.29",
+          "StatTrak Battle-Scarred": "0.30",
+          "Factory New": "0.58",
+          "Minimal Wear": "0.31",
+          "Field-Tested": "0.26",
+          "Well-Worn": "0.26",
+          "Battle-Scarred": "0.24"
+        },
         "lore": "Who's keeping score?",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -420,18 +749,30 @@
         }
       },
       {
-        "name": "P90 | Elite Build",
-        "desc": "It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.",
-        "lore": "Tread softly Naomi...people in your line of work aren't known for their longevity - The Shield and The Serpent Part 2",
-        "date_added": "26 May 2015",
+        "name": "USP-S | Torque",
+        "id": "578",
+        "desc": "It has been custom painted in a modern black, white and yellow design.",
+        "prices": {
+          "StatTrak Factory New": "4.87",
+          "StatTrak Minimal Wear": "3.48",
+          "StatTrak Field-Tested": "2.23",
+          "StatTrak Well-Worn": "2.76",
+          "StatTrak Battle-Scarred": "4.76",
+          "Factory New": "1.87",
+          "Minimal Wear": "1.33",
+          "Field-Tested": "0.86",
+          "Well-Worn": "1.01",
+          "Battle-Scarred": "1.93"
+        },
+        "lore": "They're manipulating you Kotaro. And if you can't see that, you're in more trouble than you know... - Felix Riley, Commanding Officer",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPv9NLPFqWdQ-sJ0xO-UrYrz3AztqEpuNT-iLNWTJwJtZVrY-1XskLrvhMW_uZ-dn3Iy6CY8pSGK7PES7n8/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPv9NLPFqWdQ-sJ0xO-UrYrz3AztqEpuNT-iLNWTJwJtZVrY-1XskLrvhMW_uZ-dn3Iy6CY8pSGK7PES7n8/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPrxN7LEm1Rd6dd2j6fFrdzzjVDm_RBvMDvzcNeRcwA6ZQzVqFLtyebv1pG-tM-az3o16CV3-z-DyAE2ajl0/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqPrxN7LEm1Rd6dd2j6fFrdzzjVDm_RBvMDvzcNeRcwA6ZQzVqFLtyebv1pG-tM-az3o16CV3-z-DyAE2ajl0/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJP7c-ikZKSqP_xMq3IqWdQ-sJ0xOyS9t-t2VHg_EVvZT_7IY6cegRtNVqE_FS4wr_v0MDousnOmyA16HI8pSGK5tWLb_I/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteXI8oTht1i1uRQ5fWDyd9LAdQ4_MgzQqVm7wey918TuupufynUw6Sd05C2MyRfmgBgfbuBxxavJa8F12Qc/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteXI8oTht1i1uRQ5fWDyd9LAdQ4_MgzQqVm7wey918TuupufynUw6Sd05C2MyRfmgBgfbuBxxavJa8F12Qc/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteTE8YXghWu4qgE7Nnf0d4-UcQY-NFnX-FC-kuu71JPu6J6Yn3Rm63N34yrdl0fmhUlEbrM8m7XAHqZWJnsT/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteTE8YXghWu4qgE7Nnf0d4-UcQY-NFnX-FC-kuu71JPu6J6Yn3Rm63N34yrdl0fmhUlEbrM8m7XAHqZWJnsT/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbTWhG5C-8xnteHE9Jrst1i1uRQ5fW6lLIeQJgNsMFjXqFi_lbu8hcO0tZ3LmHEy73Ertn3Zy0a1001La7RxxavJuOoLFgs/512fx384f"
         }
       }
     ],

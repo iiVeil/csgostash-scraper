@@ -38,10 +38,11 @@ class Container:
 
     There is no need to create one of these manually
     """
-    __slots__ = ('_spawned', 'name', 'icon')
+    __slots__ = ('_spawned', 'name', 'icon', 'price')
 
-    def __init__(self, name: str, icon: str):
+    def __init__(self, name: str, icon: str, price):
         self.name = name
+        self.price = price
         self.icon = icon
         # Defines the object as manually spawned. This variable should not be changed manually
         self._spawned = True

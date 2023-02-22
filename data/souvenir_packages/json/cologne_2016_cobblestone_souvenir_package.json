@@ -1,14 +1,27 @@
 {
   "name": "Cologne 2016 Cobblestone Souvenir Package",
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ4KgNZs-j1elFfw-HHfDJ96NmJl4KJm_K6NrnQlT0Fu5N137CUodnw0ALtrUJlYDyidtSQIAE-ZQ7W-AW8xrjshYj84srk7RD0nw/256fx256f",
+  "price": "866.88",
   "content": {
     "Rare Special Items": [],
     "Covert Skins": [
       {
         "name": "AWP | Dragon Lore",
+        "id": "422",
         "desc": "It has been custom painted with a knotwork dragon.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "No Recent Price",
+          "Field-Tested": "No Recent Price",
+          "Well-Worn": "No Recent Price",
+          "Battle-Scarred": "No Recent Price",
+          "Souvenir Factory New": "No Recent Price",
+          "Souvenir Minimal Wear": "No Recent Price",
+          "Souvenir Field-Tested": "No Recent Price",
+          "Souvenir Well-Worn": "No Recent Price",
+          "Souvenir Battle-Scarred": "No Recent Price"
+        },
         "lore": "200 keys could never unlock its secrets",
-        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -23,9 +36,21 @@
     "Classified Skins": [
       {
         "name": "M4A1-S | Knight",
+        "id": "435",
         "desc": "It has brass inlays with a renaissance armor theme.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "No Recent Price",
+          "Field-Tested": "Not Possible",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible",
+          "Souvenir Factory New": "No Recent Price",
+          "Souvenir Minimal Wear": "No Recent Price",
+          "Souvenir Field-Tested": "Not Possible",
+          "Souvenir Well-Worn": "Not Possible",
+          "Souvenir Battle-Scarred": "Not Possible"
+        },
         "lore": "What do you mean you can't find Cocinero and Izaki? - Felix Riley, Commanding Officer",
-        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -36,10 +61,46 @@
     ],
     "Restricted Skins": [
       {
+        "name": "CZ75-Auto | Chalice",
+        "id": "436",
+        "desc": "It has been painted with a chrome base coat and candied in transparent royal blue and amber anodized effect paint.",
+        "prices": {
+          "Factory New": "336.67",
+          "Minimal Wear": "1,529.62",
+          "Field-Tested": "Not Possible",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible",
+          "Souvenir Factory New": "66.70",
+          "Souvenir Minimal Wear": "104.01",
+          "Souvenir Field-Tested": "Not Possible",
+          "Souvenir Well-Worn": "Not Possible",
+          "Souvenir Battle-Scarred": "Not Possible"
+        },
+        "lore": "You chose wisely",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73YzJb7dCJmImMn-PLP7rDkW4f7px33evFrYmg2wblrRJsZm7xddLGcFQ5ZljV-le-ybvqgJG878mYn2wj5HevAX6yDA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73YzJb7dCJmImMn-PLP7rDkW4f7px33evFrYmg2wblrRJsZm7xddLGcFQ5ZljV-le-ybvqgJG878mYn2wj5HevAX6yDA/512fx384f"
+        }
+      },
+      {
         "name": "Desert Eagle | Hand Cannon",
+        "id": "432",
         "desc": "It has brass parts that have been given an acid patina inspired by antique brass cannons.",
+        "prices": {
+          "Factory New": "353.37",
+          "Minimal Wear": "318.75",
+          "Field-Tested": "367.00",
+          "Well-Worn": "339.78",
+          "Battle-Scarred": "1,200.00",
+          "Souvenir Factory New": "No Recent Price",
+          "Souvenir Minimal Wear": "350.70",
+          "Souvenir Field-Tested": "202.18",
+          "Souvenir Well-Worn": "No Recent Price",
+          "Souvenir Battle-Scarred": "222.00"
+        },
         "lore": "Be prepared to encounter many thorns in the trials to come",
-        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -49,26 +110,26 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjVD4ti1lY6FmPnLPr7Vn35c18lwmO7Eu43z3wTjqhJuMm_0IYXEIQJrNQyD_gK7xbu6g5a-6JjOyHJi7iIh43_D30vg-AZcby4/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjVD4ti1lY6FmPnLO77QgHJu5MRjjeyPpt703ALnqUFvZDj6J4KWdFNrNF2B81G-ybjphsO96JWfnSBnu3Yl52GdwUJxcGeYOA/512fx384f"
         }
-      },
-      {
-        "name": "CZ75-Auto | Chalice",
-        "desc": "It has been painted with a chrome base coat and candied in transparent royal blue and amber anodized effect paint.",
-        "lore": "You chose wisely",
-        "date_added": "1 July 2014",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73YzJb7dCJmImMn-PLP7rDkW4f7px33evFrYmg2wblrRJsZm7xddLGcFQ5ZljV-le-ybvqgJG878mYn2wj5HevAX6yDA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73YzJb7dCJmImMn-PLP7rDkW4f7px33evFrYmg2wblrRJsZm7xddLGcFQ5ZljV-le-ybvqgJG878mYn2wj5HevAX6yDA/512fx384f"
-        }
       }
     ],
     "Mil-Spec Skins": [
       {
         "name": "MP9 | Dark Age",
+        "id": "431",
         "desc": "It has been painted with metallic paints to look as though it has been inlaid with metals in a medieval motif.",
+        "prices": {
+          "Factory New": "85.12",
+          "Minimal Wear": "77.37",
+          "Field-Tested": "83.58",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible",
+          "Souvenir Factory New": "11.92",
+          "Souvenir Minimal Wear": "8.32",
+          "Souvenir Field-Tested": "8.56",
+          "Souvenir Well-Worn": "Not Possible",
+          "Souvenir Battle-Scarred": "Not Possible"
+        },
         "lore": "I could kill her paramour... perhaps that would buy you some time with Valeria - A Father's Love Part 2",
-        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -79,9 +140,21 @@
       },
       {
         "name": "P2000 | Chainmail",
+        "id": "433",
         "desc": "It has been painted with a semi-transparent hydrographic in a chainmail pattern over a silver base coat.",
+        "prices": {
+          "Factory New": "74.01",
+          "Minimal Wear": "81.95",
+          "Field-Tested": "83.08",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible",
+          "Souvenir Factory New": "9.23",
+          "Souvenir Minimal Wear": "6.50",
+          "Souvenir Field-Tested": "6.44",
+          "Souvenir Well-Worn": "Not Possible",
+          "Souvenir Battle-Scarred": "Not Possible"
+        },
         "lore": "Of all the members of The Phoenix, none are more loyal to Valeria than her bodyguard Naomi",
-        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -93,38 +166,22 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "Sawed-Off | Rust Coat",
-        "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
-        "lore": "Some people don't need to hide how dirty their deeds are",
-        "date_added": "1 July 2014",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0n_L1JaLummpD78A_ju_E8dT3jA2wrRBoZm71JIbEcVc4YV_R8lXqkrzujJW7u8_AmiBi7z5iuyhvCAhQsg/512fx384f"
-        }
-      },
-      {
-        "name": "Nova | Green Apple",
-        "desc": "It has individual parts spray-painted solid colors in a green and black color scheme.",
-        "lore": "An apple a day keeps insurance premiums high",
-        "date_added": "1 July 2014",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzPYzhH4uO6nYeDg8j4MqnWkyVXvscj27qQo4-t2AS2qUJlY2vxIoeXJwJsaF7VrFbqwu_t0J7puMvM1zI97ZcHCheM/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzPYzhH4uO6nYeDg8j4MqnWkyVXvscj27qQo4-t2AS2qUJlY2vxIoeXJwJsaF7VrFbqwu_t0J7puMvM1zI97ZcHCheM/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzPYzhH4uO7kYSCgvrLP7rDkW4fupEo2OuQo4qi2QTk-kc9YjqgIYXHI1Q8ZwvTq1TtwOi-1565tMjBn2wj5Hd_kPf4Uw/512fx384f"
-        }
-      },
-      {
         "name": "USP-S | Royal Blue",
+        "id": "427",
         "desc": "It has been painted solid colors in indigo, crimson and grey.",
+        "prices": {
+          "Factory New": "41.90",
+          "Minimal Wear": "10.00",
+          "Field-Tested": "9.32",
+          "Well-Worn": "9.00",
+          "Battle-Scarred": "9.03",
+          "Souvenir Factory New": "No Recent Price",
+          "Souvenir Minimal Wear": "41.26",
+          "Souvenir Field-Tested": "11.29",
+          "Souvenir Well-Worn": "10.61",
+          "Souvenir Battle-Scarred": "9.27"
+        },
         "lore": "You should smile Felix, you'd have more luck with the ladies if you didn't look like such a dour bastard all the time - Imogen, Arms Dealer In Training",
-        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -136,24 +193,100 @@
         }
       },
       {
+        "name": "Sawed-Off | Rust Coat",
+        "id": "434",
+        "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
+        "prices": {
+          "Factory New": "10.97",
+          "Minimal Wear": "11.70",
+          "Field-Tested": "9.20",
+          "Well-Worn": "10.12",
+          "Battle-Scarred": "9.67",
+          "Souvenir Factory New": "10.19",
+          "Souvenir Minimal Wear": "1.07",
+          "Souvenir Field-Tested": "0.93",
+          "Souvenir Well-Worn": "2.71",
+          "Souvenir Battle-Scarred": "3.92"
+        },
+        "lore": "Some people don't need to hide how dirty their deeds are",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0m_7zO6_ummpD78A_iLqXpo-ljgWxrhVkYDigI4Scc1A2M17UrlK9ybq80cK0vpzByndjuD5iuyiTvuM2bA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0mvLwOq7cqWdQ-sJ0xL6Y9tit2gDlqkFsZm_0dtKSJANraQvXrlm4wejmh57qucucnHVk7iI8pSGKUnJFp9g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx9_8izkYy0n_L1JaLummpD78A_ju_E8dT3jA2wrRBoZm71JIbEcVc4YV_R8lXqkrzujJW7u8_AmiBi7z5iuyhvCAhQsg/512fx384f"
+        }
+      },
+      {
         "name": "MAG-7 | Silver",
+        "id": "430",
         "desc": "It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.",
+        "prices": {
+          "Factory New": "9.67",
+          "Minimal Wear": "10.81",
+          "Field-Tested": "Not Possible",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible",
+          "Souvenir Factory New": "7.86",
+          "Souvenir Minimal Wear": "8.53",
+          "Souvenir Field-Tested": "Not Possible",
+          "Souvenir Well-Worn": "Not Possible",
+          "Souvenir Battle-Scarred": "Not Possible"
+        },
         "lore": "There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician",
-        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
           "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3czbeDFU6c6JmImMn-PLP7rDkW4f7sNz273DrN_x0QfkrRVlZmDxJI-SdlNqNV_YqQe4k-3u15K06sjNymwj5HcKKU8-aA/512fx384f",
           "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3czbeDFU6c6JmImMn-PLP7rDkW4f7sNz273DrN_x0QfkrRVlZmDxJI-SdlNqNV_YqQe4k-3u15K06sjNymwj5HcKKU8-aA/512fx384f"
         }
+      },
+      {
+        "name": "Nova | Green Apple",
+        "id": "429",
+        "desc": "It has individual parts spray-painted solid colors in a green and black color scheme.",
+        "prices": {
+          "Factory New": "10.48",
+          "Minimal Wear": "9.54",
+          "Field-Tested": "9.52",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible",
+          "Souvenir Factory New": "5.83",
+          "Souvenir Minimal Wear": "3.10",
+          "Souvenir Field-Tested": "2.55",
+          "Souvenir Well-Worn": "Not Possible",
+          "Souvenir Battle-Scarred": "Not Possible"
+        },
+        "lore": "An apple a day keeps insurance premiums high",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzPYzhH4uO6nYeDg8j4MqnWkyVXvscj27qQo4-t2AS2qUJlY2vxIoeXJwJsaF7VrFbqwu_t0J7puMvM1zI97ZcHCheM/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzPYzhH4uO6nYeDg8j4MqnWkyVXvscj27qQo4-t2AS2qUJlY2vxIoeXJwJsaF7VrFbqwu_t0J7puMvM1zI97ZcHCheM/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhz3MzPYzhH4uO7kYSCgvrLP7rDkW4fupEo2OuQo4qi2QTk-kc9YjqgIYXHI1Q8ZwvTq1TtwOi-1565tMjBn2wj5Hd_kPf4Uw/512fx384f"
+        }
       }
     ],
     "Consumer Grade Skins": [
       {
         "name": "MAC-10 | Indigo",
+        "id": "425",
         "desc": "It has been painted solid colors in indigo, blue and grey.",
+        "prices": {
+          "Factory New": "13.46",
+          "Minimal Wear": "1.98",
+          "Field-Tested": "1.70",
+          "Well-Worn": "1.64",
+          "Battle-Scarred": "1.55",
+          "Souvenir Factory New": "27.60",
+          "Souvenir Minimal Wear": "3.56",
+          "Souvenir Field-Tested": "1.16",
+          "Souvenir Well-Worn": "1.45",
+          "Souvenir Battle-Scarred": "0.61"
+        },
         "lore": "Alex Kincaide, I'm sure you have many questions... please allow me to give you answers - The Phoenix and The Storyteller Part 1",
-        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -165,25 +298,22 @@
         }
       },
       {
-        "name": "UMP-45 | Indigo",
-        "desc": "It has been painted solid colors in indigo, blue and grey.",
-        "lore": "Alex Kincaide, I'm sure you have many questions... please allow me to give you answers - The Phoenix and The Storyteller Part 1",
-        "date_added": "1 July 2014",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3eDNG5du5q4GFk8jzIb7IqWdY781lteXA54vwxgO1_0VkZjrwJ4LHJAc-Yg7S_wPvwObpgMLvvJnAy3Fiv3J05SyMmkapwUYbTQC2z4o/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3eDNG5du5q4GFk8jzIb7IqWdY781lteXA54vwxgO1_0VkZjrwJ4LHJAc-Yg7S_wPvwObpgMLvvJnAy3Fiv3J05SyMmkapwUYbTQC2z4o/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3eDNG5du5q4GFk8jzIb7IqWZU7Mxkh9bN9J7yjRrjrRJkNmundYDDIwJoMwnZ_ge7l7zmhcDvvpTJyiZn7il24XnamUG0n1gSObNpNGwL/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3eDNG5du5q4GFk8jzIb7IqWZU7Mxkh9bN9J7yjRrjrRJkNmundYDDIwJoMwnZ_ge7l7zmhcDvvpTJyiZn7il24XnamUG0n1gSObNpNGwL/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3eDNG5du5q4GFk8jzIb7IqWNU6dNoteXA54vwxlWx-hY_aj_xJ4-cd1A5NQqB_gPvxbrsgpW975-YnCBjuXEg5X2OzUOpwUYbVdCgv5I/512fx384f"
-        }
-      },
-      {
         "name": "SCAR-20 | Storm",
+        "id": "426",
         "desc": "It has individual parts spray-painted solid colors in a stormy color scheme.",
+        "prices": {
+          "Factory New": "3.92",
+          "Minimal Wear": "1.95",
+          "Field-Tested": "1.64",
+          "Well-Worn": "1.68",
+          "Battle-Scarred": "1.70",
+          "Souvenir Factory New": "6.62",
+          "Souvenir Minimal Wear": "1.01",
+          "Souvenir Field-Tested": "0.32",
+          "Souvenir Well-Worn": "0.47",
+          "Souvenir Battle-Scarred": "0.34"
+        },
         "lore": "It will be waiting for you at the monorail",
-        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -195,10 +325,49 @@
         }
       },
       {
+        "name": "UMP-45 | Indigo",
+        "id": "424",
+        "desc": "It has been painted solid colors in indigo, blue and grey.",
+        "prices": {
+          "Factory New": "4.76",
+          "Minimal Wear": "2.14",
+          "Field-Tested": "1.84",
+          "Well-Worn": "1.65",
+          "Battle-Scarred": "1.63",
+          "Souvenir Factory New": "20.06",
+          "Souvenir Minimal Wear": "2.32",
+          "Souvenir Field-Tested": "0.60",
+          "Souvenir Well-Worn": "0.94",
+          "Souvenir Battle-Scarred": "0.43"
+        },
+        "lore": "Alex Kincaide, I'm sure you have many questions... please allow me to give you answers - The Phoenix and The Storyteller Part 1",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3eDNG5du5q4GFk8jzIb7IqWdY781lteXA54vwxgO1_0VkZjrwJ4LHJAc-Yg7S_wPvwObpgMLvvJnAy3Fiv3J05SyMmkapwUYbTQC2z4o/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3eDNG5du5q4GFk8jzIb7IqWdY781lteXA54vwxgO1_0VkZjrwJ4LHJAc-Yg7S_wPvwObpgMLvvJnAy3Fiv3J05SyMmkapwUYbTQC2z4o/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3eDNG5du5q4GFk8jzIb7IqWZU7Mxkh9bN9J7yjRrjrRJkNmundYDDIwJoMwnZ_ge7l7zmhcDvvpTJyiZn7il24XnamUG0n1gSObNpNGwL/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3eDNG5du5q4GFk8jzIb7IqWZU7Mxkh9bN9J7yjRrjrRJkNmundYDDIwJoMwnZ_ge7l7zmhcDvvpTJyiZn7il24XnamUG0n1gSObNpNGwL/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3eDNG5du5q4GFk8jzIb7IqWNU6dNoteXA54vwxlWx-hY_aj_xJ4-cd1A5NQqB_gPvxbrsgpW975-YnCBjuXEg5X2OzUOpwUYbVdCgv5I/512fx384f"
+        }
+      },
+      {
         "name": "P90 | Storm",
+        "id": "423",
         "desc": "It has individual parts spray-painted solid colors in a stormy color scheme.",
+        "prices": {
+          "Factory New": "5.33",
+          "Minimal Wear": "1.93",
+          "Field-Tested": "1.75",
+          "Well-Worn": "1.75",
+          "Battle-Scarred": "1.69",
+          "Souvenir Factory New": "13.36",
+          "Souvenir Minimal Wear": "1.46",
+          "Souvenir Field-Tested": "0.29",
+          "Souvenir Well-Worn": "0.55",
+          "Souvenir Battle-Scarred": "0.57"
+        },
         "lore": "It will be waiting for you at the monorail",
-        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
@@ -211,9 +380,21 @@
       },
       {
         "name": "Dual Berettas | Briar",
+        "id": "428",
         "desc": "It has been painted with a hydrographic of curling vines and flowers.",
+        "prices": {
+          "Factory New": "2.65",
+          "Minimal Wear": "2.00",
+          "Field-Tested": "1.92",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible",
+          "Souvenir Factory New": "2.14",
+          "Souvenir Minimal Wear": "1.45",
+          "Souvenir Field-Tested": "1.47",
+          "Souvenir Well-Worn": "Not Possible",
+          "Souvenir Battle-Scarred": "Not Possible"
+        },
         "lore": "True Love's Kiss can't save you from its barbs",
-        "date_added": "1 July 2014",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {

@@ -1,14 +1,21 @@
 {
   "name": "The St. Marc Collection",
-  "image_url": "https://csgostash.com/img/collections/256x198/the_st._marc_collection.png?id=015cc01b9d5007606adb",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_st._marc_collection.png?id=015cc01b9d5007606adbab89ee30fb44",
   "content": {
     "Rare Special Items": [],
     "Covert Skins": [
       {
         "name": "AK-47 | Wild Lotus",
+        "id": "1145",
         "desc": "A custom paint job of an orange lotus has been hand painted over a green base.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "No Recent Price",
+          "Field-Tested": "No Recent Price",
+          "Well-Worn": "No Recent Price",
+          "Battle-Scarred": "No Recent Price"
+        },
         "lore": "Muck or nettles",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -23,9 +30,16 @@
     "Classified Skins": [
       {
         "name": "MP9 | Wild Lily",
+        "id": "1144",
         "desc": "A custom paint job of a blue lily has been hand painted over a purple base.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "No Recent Price",
+          "Field-Tested": "1,483.24",
+          "Well-Worn": "1,725.38",
+          "Battle-Scarred": "1,510.88"
+        },
         "lore": "Stop and smell the cordite",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -39,25 +53,17 @@
     ],
     "Restricted Skins": [
       {
-        "name": "Glock-18 | Synth Leaf",
-        "desc": "A teal and purple hydrographic pattern of overlapping leaves has been applied.",
-        "lore": "Blood on the leaves",
-        "date_added": "19 November 2019",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fThD6uO0mJWOqPv9NLPFqWdQ-sJ0xLjDpd2ii1fsr0dpam2nLYSRdwU5N1HZ-Fnqk-rtgJXq6pvLwXBrvnM8pSGKZyeyDW0/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fThD6uO0mJWOqPv9NLPFqWdQ-sJ0xLjDpd2ii1fsr0dpam2nLYSRdwU5N1HZ-Fnqk-rtgJXq6pvLwXBrvnM8pSGKZyeyDW0/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fThD6uO0mJWOqPrxN7LEm1Rd6dd2j6eYodmj3Fe1-kNramDxddCUJgY8aV7V-Fm3we69h569usydyHs1vCh3-z-DyP1Ysv4S/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fThD6uO0mJWOqPrxN7LEm1Rd6dd2j6eYodmj3Fe1-kNramDxddCUJgY8aV7V-Fm3we69h569usydyHs1vCh3-z-DyP1Ysv4S/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fThD6uO0mJWOqP_xMq3IqWdQ-sJ0xLiU84miiwfnrUQ5Yz2iIdKddlU2ZVnQ-Vm7wu_u0cO06pXPnXBi63I8pSGKrxykoBs/512fx384f"
-        }
-      },
-      {
         "name": "AUG | Midnight Lily",
+        "id": "1143",
         "desc": "A pattern of lilies has been applied using pearlescent, color changing paint.",
+        "prices": {
+          "Factory New": "199.00",
+          "Minimal Wear": "269.37",
+          "Field-Tested": "295.46",
+          "Well-Worn": "191.71",
+          "Battle-Scarred": "212.82"
+        },
         "lore": "While beautiful, lilies are most often associated with death",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -69,10 +75,39 @@
         }
       },
       {
+        "name": "Glock-18 | Synth Leaf",
+        "id": "1142",
+        "desc": "A teal and purple hydrographic pattern of overlapping leaves has been applied.",
+        "prices": {
+          "Factory New": "212.81",
+          "Minimal Wear": "193.32",
+          "Field-Tested": "185.08",
+          "Well-Worn": "No Recent Price",
+          "Battle-Scarred": "241.69"
+        },
+        "lore": "Blood on the leaves",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fThD6uO0mJWOqPv9NLPFqWdQ-sJ0xLjDpd2ii1fsr0dpam2nLYSRdwU5N1HZ-Fnqk-rtgJXq6pvLwXBrvnM8pSGKZyeyDW0/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fThD6uO0mJWOqPv9NLPFqWdQ-sJ0xLjDpd2ii1fsr0dpam2nLYSRdwU5N1HZ-Fnqk-rtgJXq6pvLwXBrvnM8pSGKZyeyDW0/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fThD6uO0mJWOqPrxN7LEm1Rd6dd2j6eYodmj3Fe1-kNramDxddCUJgY8aV7V-Fm3we69h569usydyHs1vCh3-z-DyP1Ysv4S/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fThD6uO0mJWOqPrxN7LEm1Rd6dd2j6eYodmj3Fe1-kNramDxddCUJgY8aV7V-Fm3we69h569usydyHs1vCh3-z-DyP1Ysv4S/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3fThD6uO0mJWOqP_xMq3IqWdQ-sJ0xLiU84miiwfnrUQ5Yz2iIdKddlU2ZVnQ-Vm7wu_u0cO06pXPnXBi63I8pSGKrxykoBs/512fx384f"
+        }
+      },
+      {
         "name": "SSG 08 | Sea Calico",
+        "id": "1141",
         "desc": "A yellow floral pattern has been applied over a dark teal base.",
+        "prices": {
+          "Factory New": "230.09",
+          "Minimal Wear": "216.69",
+          "Field-Tested": "207.30",
+          "Well-Worn": "530.98",
+          "Battle-Scarred": "No Recent Price"
+        },
         "lore": "You won't need flowers when you're dead",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -87,9 +122,16 @@
     "Mil-Spec Skins": [
       {
         "name": "MP7 | Teal Blossom",
+        "id": "1139",
         "desc": "It has been spray-painted with a teal, green, and orange rose bud pattern.",
+        "prices": {
+          "Factory New": "69.17",
+          "Minimal Wear": "84.94",
+          "Field-Tested": "64.22",
+          "Well-Worn": "77.77",
+          "Battle-Scarred": "83.20"
+        },
         "lore": "No rose without a thorn",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -101,25 +143,17 @@
         }
       },
       {
-        "name": "Five-SeveN | Crimson Blossom",
-        "desc": "A wine colored rose bud hydrographic pattern has been applied.",
-        "lore": "No rose without a thorn",
-        "date_added": "19 November 2019",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb096jkL-ZkvPLP7LWnn9u5MRjjeyP8d2h0VK1qEpkNjjxJ4CRew9rYw6B-1S3k-btgZS87ZWcnCY27HF24WGdwUKMg_vQ7Q/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb096jkL-ZkvPLP7LWnn9u5MRjjeyP8d2h0VK1qEpkNjjxJ4CRew9rYw6B-1S3k-btgZS87ZWcnCY27HF24WGdwUKMg_vQ7Q/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb096jkL-ZkvPLPr7Vn35c18lwmO7Eu9_00FDgqhI6YW6ldoWSdgU_ZArT_1G-ku67hMLquZSfyCZi6HV2sHfD30vgyump6vc/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb096jkL-ZkvPLPr7Vn35c18lwmO7Eu9_00FDgqhI6YW6ldoWSdgU_ZArT_1G-ku67hMLquZSfyCZi6HV2sHfD30vgyump6vc/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb096jkL-ZkvPLO77QgHJu5MRjjeyP9473jAOy8kBlMGzxI4SSJgBvM1rV-wC2x-a9h8C9upScmiFgvnEq5mGdwUKu4ImF9Q/512fx384f"
-        }
-      },
-      {
         "name": "UMP-45 | Day Lily",
+        "id": "1137",
         "desc": "A hydrographic pattern of red lilies has been applied.",
+        "prices": {
+          "Factory New": "65.81",
+          "Minimal Wear": "79.23",
+          "Field-Tested": "63.86",
+          "Well-Worn": "74.64",
+          "Battle-Scarred": "71.31"
+        },
         "lore": "While beautiful, lilies are most often associated with death",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -131,10 +165,39 @@
         }
       },
       {
+        "name": "Five-SeveN | Crimson Blossom",
+        "id": "1138",
+        "desc": "A wine colored rose bud hydrographic pattern has been applied.",
+        "prices": {
+          "Factory New": "64.91",
+          "Minimal Wear": "63.86",
+          "Field-Tested": "82.71",
+          "Well-Worn": "116.51",
+          "Battle-Scarred": "86.85"
+        },
+        "lore": "No rose without a thorn",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb096jkL-ZkvPLP7LWnn9u5MRjjeyP8d2h0VK1qEpkNjjxJ4CRew9rYw6B-1S3k-btgZS87ZWcnCY27HF24WGdwUKMg_vQ7Q/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb096jkL-ZkvPLP7LWnn9u5MRjjeyP8d2h0VK1qEpkNjjxJ4CRew9rYw6B-1S3k-btgZS87ZWcnCY27HF24WGdwUKMg_vQ7Q/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb096jkL-ZkvPLPr7Vn35c18lwmO7Eu9_00FDgqhI6YW6ldoWSdgU_ZArT_1G-ku67hMLquZSfyCZi6HV2sHfD30vgyump6vc/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb096jkL-ZkvPLPr7Vn35c18lwmO7Eu9_00FDgqhI6YW6ldoWSdgU_ZArT_1G-ku67hMLquZSfyCZi6HV2sHfD30vgyump6vc/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb096jkL-ZkvPLO77QgHJu5MRjjeyP9473jAOy8kBlMGzxI4SSJgBvM1rV-wC2x-a9h8C9upScmiFgvnEq5mGdwUKu4ImF9Q/512fx384f"
+        }
+      },
+      {
         "name": "FAMAS | Sundown",
+        "id": "1140",
         "desc": "Purple palm fronds have been spray-painted over a blue and pink camo.",
+        "prices": {
+          "Factory New": "60.66",
+          "Minimal Wear": "60.66",
+          "Field-Tested": "60.00",
+          "Well-Worn": "62.56",
+          "Battle-Scarred": "64.26"
+        },
         "lore": "A E S T H E T I C",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -148,25 +211,17 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "XM1014 | Banana Leaf",
-        "desc": "A green and yellow hydrographic pattern of overlapping leaves has been applied.",
-        "lore": "Blood on the leaves",
-        "date_added": "19 November 2019",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTjFH7dqJk5KOkvnLP7LWnn9u5MRjjeyPptiiiQHgqhZsMGHxLYTDJABqMl3Q_AXtl-_ohZTo6Z_JzXIyvSQn7GGdwULLooIxog/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTjFH7dqJk5KOkvnLP7LWnn9u5MRjjeyPptiiiQHgqhZsMGHxLYTDJABqMl3Q_AXtl-_ohZTo6Z_JzXIyvSQn7GGdwULLooIxog/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTjFH7dqJk5KOkvnLPr7Vn35c18lwmO7Eu9j33gKwr0JpNjj7JIDHew9taAnZ_AK3xubrg8S1v5_LyyRluikiti7D30vg-wZI3-I/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTjFH7dqJk5KOkvnLPr7Vn35c18lwmO7Eu9j33gKwr0JpNjj7JIDHew9taAnZ_AK3xubrg8S1v5_LyyRluikiti7D30vg-wZI3-I/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTjFH7dqJk5KOkvnLO77QgHJu5MRjjeyPoo-niwLl80pqMjr7LdOXJA5tM1rY8wPqkuq6g5_qtczNmiM2siBz5WGdwUL1k1rang/512fx384f"
-        }
-      },
-      {
         "name": "P90 | Sunset Lily",
+        "id": "1133",
         "desc": "It has been spray-painted with a pattern of orange lilies.",
+        "prices": {
+          "Factory New": "13.42",
+          "Minimal Wear": "13.00",
+          "Field-Tested": "12.24",
+          "Well-Worn": "14.57",
+          "Battle-Scarred": "13.58"
+        },
         "lore": "While beautiful, lilies are most often associated with death",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -178,25 +233,17 @@
         }
       },
       {
-        "name": "M4A4 | Dark Blossom",
-        "desc": "It has been spray-painted with a blue rose bud pattern.",
-        "lore": "No rose without a thorn",
-        "date_added": "19 November 2019",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zKZDl97tCjkb-HnvD8J4Tdl3lW7Yt32bjDrdSn2gK3_ERoa2n2II7EclU_NF7S_1m_k7u-jcC_tZnPwHJlpGB8svQRy-TR/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zKZDl97tCjkb-HnvD8J4Tdl3lW7Yt32bjDrdSn2gK3_ERoa2n2II7EclU_NF7S_1m_k7u-jcC_tZnPwHJlpGB8svQRy-TR/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zKZDl97tCjkb-GkvP9JrbummpD78A_jL3Eotr22gey-0trYWiicI-TcFQ3NV7RqVW_wuzr1pG06J2azXcyvj5iuyhIkSm85A/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zKZDl97tCjkb-GkvP9JrbummpD78A_jL3Eotr22gey-0trYWiicI-TcFQ3NV7RqVW_wuzr1pG06J2azXcyvj5iuyhIkSm85A/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zKZDl97tCjkb-DkvbiKoTdl3lW7Ysji-jFoI6k2FKx_RVoazv3IYTBIwM2MlDU81Dsl7--hMXp7pydwXFkpGB8shAiq_J-/512fx384f"
-        }
-      },
-      {
         "name": "Tec-9 | Rust Leaf",
+        "id": "1136",
         "desc": "It has been spray-painted with an orange pattern of overlapping leaves.",
+        "prices": {
+          "Factory New": "13.06",
+          "Minimal Wear": "13.05",
+          "Field-Tested": "13.00",
+          "Well-Worn": "12.34",
+          "Battle-Scarred": "12.73"
+        },
         "lore": "Blood on the leaves",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -206,29 +253,65 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zEdDxE09OklY6Mksj5Nr_Yg2Zu5MRjjeyP996s0FLhr0A6MT_3IoOUIFI8MlqBrlC7wO3m1sS5vJrMnXtk6CQgs2GdwUKgV6motw/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zEdDxE09OklY6Mksj8NrrHj1Rd6dd2j6eR8dyl2ALsr0Y4MW-lcoPAI1U8NAyD-lO7webt1se5uMybzyNg7yUg-z-DyH8tacGB/512fx384f"
         }
+      },
+      {
+        "name": "XM1014 | Banana Leaf",
+        "id": "1135",
+        "desc": "A green and yellow hydrographic pattern of overlapping leaves has been applied.",
+        "prices": {
+          "Factory New": "12.56",
+          "Minimal Wear": "12.49",
+          "Field-Tested": "11.62",
+          "Well-Worn": "13.06",
+          "Battle-Scarred": "12.72"
+        },
+        "lore": "Blood on the leaves",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTjFH7dqJk5KOkvnLP7LWnn9u5MRjjeyPptiiiQHgqhZsMGHxLYTDJABqMl3Q_AXtl-_ohZTo6Z_JzXIyvSQn7GGdwULLooIxog/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTjFH7dqJk5KOkvnLP7LWnn9u5MRjjeyPptiiiQHgqhZsMGHxLYTDJABqMl3Q_AXtl-_ohZTo6Z_JzXIyvSQn7GGdwULLooIxog/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTjFH7dqJk5KOkvnLPr7Vn35c18lwmO7Eu9j33gKwr0JpNjj7JIDHew9taAnZ_AK3xubrg8S1v5_LyyRluikiti7D30vg-wZI3-I/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTjFH7dqJk5KOkvnLPr7Vn35c18lwmO7Eu9j33gKwr0JpNjj7JIDHew9taAnZ_AK3xubrg8S1v5_LyyRluikiti7D30vg-wZI3-I/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTjFH7dqJk5KOkvnLO77QgHJu5MRjjeyPoo-niwLl80pqMjr7LdOXJA5tM1rY8wPqkuq6g5_qtczNmiM2siBz5WGdwUL1k1rang/512fx384f"
+        }
+      },
+      {
+        "name": "M4A4 | Dark Blossom",
+        "id": "1134",
+        "desc": "It has been spray-painted with a blue rose bud pattern.",
+        "prices": {
+          "Factory New": "12.47",
+          "Minimal Wear": "11.87",
+          "Field-Tested": "12.24",
+          "Well-Worn": "12.77",
+          "Battle-Scarred": "13.48"
+        },
+        "lore": "No rose without a thorn",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zKZDl97tCjkb-HnvD8J4Tdl3lW7Yt32bjDrdSn2gK3_ERoa2n2II7EclU_NF7S_1m_k7u-jcC_tZnPwHJlpGB8svQRy-TR/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zKZDl97tCjkb-HnvD8J4Tdl3lW7Yt32bjDrdSn2gK3_ERoa2n2II7EclU_NF7S_1m_k7u-jcC_tZnPwHJlpGB8svQRy-TR/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zKZDl97tCjkb-GkvP9JrbummpD78A_jL3Eotr22gey-0trYWiicI-TcFQ3NV7RqVW_wuzr1pG06J2azXcyvj5iuyhIkSm85A/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zKZDl97tCjkb-GkvP9JrbummpD78A_jL3Eotr22gey-0trYWiicI-TcFQ3NV7RqVW_wuzr1pG06J2azXcyvj5iuyhIkSm85A/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zKZDl97tCjkb-DkvbiKoTdl3lW7Ysji-jFoI6k2FKx_RVoazv3IYTBIwM2MlDU81Dsl7--hMXp7pydwXFkpGB8shAiq_J-/512fx384f"
+        }
       }
     ],
     "Consumer Grade Skins": [
       {
-        "name": "MP5-SD | Bamboo Garden",
-        "desc": "It has been painted with a hydrographic of brush-painted bamboo.",
-        "lore": "Insert shoot pun here",
-        "date_added": "19 November 2019",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3czxP7tO5q5OfmvbmMITdn2xZ_Pp9i_vG8MKkjATj_kJtMWjwLYWTclI-NFHX-Qe2kum6hpe66M7Iznth6yJw7X7fgVXp1qn1Wf0g/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3czxP7tO5q5OfmvbmMITdn2xZ_Pp9i_vG8MKkjATj_kJtMWjwLYWTclI-NFHX-Qe2kum6hpe66M7Iznth6yJw7X7fgVXp1qn1Wf0g/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3czxP7tO5q5OfmvbmMITck29Y_chOhujT8om7i1fg_Ec5Z2GgII7Bd1dsNw6Bq1K-w7jn0Z7u786YzyNkvXR07S2Olgv330-n6l9Zeg/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3czxP7tO5q5OfmvbmMITck29Y_chOhujT8om7i1fg_Ec5Z2GgII7Bd1dsNw6Bq1K-w7jn0Z7u786YzyNkvXR07S2Olgv330-n6l9Zeg/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3czxP7tO5q5OfmvbmMITZk2pH8fp9i_vG8MKn0QfnqktlMm33LIaVcAZraQzXrlbsybzu15Tp6J_ByXUxvilx4CzdgVXp1jIEo2X3/512fx384f"
-        }
-      },
-      {
         "name": "PP-Bizon | Seabird",
+        "id": "1130",
         "desc": "It has individual parts spray-painted solid colors in an aqua and tan color scheme.",
+        "prices": {
+          "Factory New": "2.26",
+          "Minimal Wear": "2.07",
+          "Field-Tested": "1.98",
+          "Well-Worn": "2.20",
+          "Battle-Scarred": "1.89"
+        },
         "lore": "Mine.",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -240,10 +323,39 @@
         }
       },
       {
+        "name": "M249 | Jungle",
+        "id": "1132",
+        "desc": "It has individual parts spray-painted solid colors in a jungle color scheme.",
+        "prices": {
+          "Factory New": "4.42",
+          "Minimal Wear": "2.11",
+          "Field-Tested": "1.99",
+          "Well-Worn": "1.89",
+          "Battle-Scarred": "1.91"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhz3MzCZDNF4NmJmImMn-PLP7rDkW4fucAk2LCWp9umiQSw_RVrY27wI9fAIQBsN1CDr1K5wbq6g8S0u8uYnWwj5HcjRLVAaw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhz3MzCZDNF4NmJmImMn-PLP7rDkW4fucAk2LCWp9umiQSw_RVrY27wI9fAIQBsN1CDr1K5wbq6g8S0u8uYnWwj5HcjRLVAaw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhz3MzCZDNF4NmJmYWPnuL5DLfQhGxUpscijLCUo46l31GyrUI_YGjzdYOWcw83ZQnQrlW9wbvohsTt7p2bn3B9-n51lwtfIBU/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhz3MzCZDNF4NmJmYWPnuL5DLfQhGxUpscijLCUo46l31GyrUI_YGjzdYOWcw83ZQnQrlW9wbvohsTt7p2bn3B9-n51lwtfIBU/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhz3MzCZDNF4NmJnIWKge7LP7rDkW4f7Zx1j-yTrN2mjA21-RZvN2vxcIOTdANoYgvY-VS6x-i70MO06sjOmmwj5HeLg2hZ3Q/512fx384f"
+        }
+      },
+      {
         "name": "MAC-10 | Surfwood",
+        "id": "1129",
         "desc": "It has been spray-painted with a pale green and cream colored design.",
+        "prices": {
+          "Factory New": "2.18",
+          "Minimal Wear": "2.03",
+          "Field-Tested": "1.95",
+          "Well-Worn": "2.33",
+          "Battle-Scarred": "1.93"
+        },
         "lore": "Mint condition",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -256,9 +368,16 @@
       },
       {
         "name": "Sawed-Off | Jungle Thicket",
+        "id": "1131",
         "desc": "It has been spray-painted with dark green palm fronds over a jungle colored camo.",
+        "prices": {
+          "Factory New": "2.20",
+          "Minimal Wear": "2.02",
+          "Field-Tested": "1.92",
+          "Well-Worn": "1.92",
+          "Battle-Scarred": "1.93"
+        },
         "lore": "From Aztec with love",
-        "date_added": "19 November 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -270,18 +389,25 @@
         }
       },
       {
-        "name": "M249 | Jungle",
-        "desc": "It has individual parts spray-painted solid colors in a jungle color scheme.",
-        "lore": "This item has no Lore",
-        "date_added": "19 November 2019",
+        "name": "MP5-SD | Bamboo Garden",
+        "id": "1128",
+        "desc": "It has been painted with a hydrographic of brush-painted bamboo.",
+        "prices": {
+          "Factory New": "2.35",
+          "Minimal Wear": "1.99",
+          "Field-Tested": "1.97",
+          "Well-Worn": "2.08",
+          "Battle-Scarred": "2.02"
+        },
+        "lore": "Insert shoot pun here",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhz3MzCZDNF4NmJmImMn-PLP7rDkW4fucAk2LCWp9umiQSw_RVrY27wI9fAIQBsN1CDr1K5wbq6g8S0u8uYnWwj5HcjRLVAaw/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhz3MzCZDNF4NmJmImMn-PLP7rDkW4fucAk2LCWp9umiQSw_RVrY27wI9fAIQBsN1CDr1K5wbq6g8S0u8uYnWwj5HcjRLVAaw/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhz3MzCZDNF4NmJmYWPnuL5DLfQhGxUpscijLCUo46l31GyrUI_YGjzdYOWcw83ZQnQrlW9wbvohsTt7p2bn3B9-n51lwtfIBU/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhz3MzCZDNF4NmJmYWPnuL5DLfQhGxUpscijLCUo46l31GyrUI_YGjzdYOWcw83ZQnQrlW9wbvohsTt7p2bn3B9-n51lwtfIBU/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhz3MzCZDNF4NmJnIWKge7LP7rDkW4f7Zx1j-yTrN2mjA21-RZvN2vxcIOTdANoYgvY-VS6x-i70MO06sjOmmwj5HeLg2hZ3Q/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3czxP7tO5q5OfmvbmMITdn2xZ_Pp9i_vG8MKkjATj_kJtMWjwLYWTclI-NFHX-Qe2kum6hpe66M7Iznth6yJw7X7fgVXp1qn1Wf0g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3czxP7tO5q5OfmvbmMITdn2xZ_Pp9i_vG8MKkjATj_kJtMWjwLYWTclI-NFHX-Qe2kum6hpe66M7Iznth6yJw7X7fgVXp1qn1Wf0g/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3czxP7tO5q5OfmvbmMITck29Y_chOhujT8om7i1fg_Ec5Z2GgII7Bd1dsNw6Bq1K-w7jn0Z7u786YzyNkvXR07S2Olgv330-n6l9Zeg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3czxP7tO5q5OfmvbmMITck29Y_chOhujT8om7i1fg_Ec5Z2GgII7Bd1dsNw6Bq1K-w7jn0Z7u786YzyNkvXR07S2Olgv330-n6l9Zeg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3czxP7tO5q5OfmvbmMITZk2pH8fp9i_vG8MKn0QfnqktlMm33LIaVcAZraQzXrlbsybzu15Tp6J_ByXUxvilx4CzdgVXp1jIEo2X3/512fx384f"
         }
       }
     ]

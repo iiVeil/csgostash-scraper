@@ -38,18 +38,19 @@ class Item:
             - Key
             - Pin
     """
-    __slots__ = ('_spawned', 'title', 'description', 'lore', 'date_added',
-                 'collection', 'collections', 'found_in', 'rarity')
+    __slots__ = ('_spawned', 'title', 'description', 'lore',
+                 'collection', 'collections', 'found_in', 'rarity', 'prices', 'id')
 
-    def __init__(self, title: str, desc: str, lore: str, date_added: str, collection: list, found_in: list, rarity: str):
+    def __init__(self, title: str, desc: str, lore: str, collection: list, found_in: list, rarity: str, prices, id):
         self.title = title
         self.description = desc
         self.lore = lore
-        self.date_added = date_added
         self.collection = collection
         self.collections = collection
         self.found_in = found_in
         self.rarity = rarity
+        self.prices = prices
+        self.id = id
         # Defines the object as manually spawned. This variable should not be changed manually
         self._spawned = True
 
@@ -90,10 +91,9 @@ class Item:
         name = d['name']
         description = d['desc']
         lore = d['lore']
-        date_added = d['date_added']
         collection = d['collection']
         rarity = d['rarity']
 
-        _cls = cls(name, description, lore, date_added, collection, collection, rarity)
+        _cls = cls(name, description, lore, collection, collection, rarity)
         _cls._spawned = False
         return _cls

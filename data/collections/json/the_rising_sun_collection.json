@@ -1,14 +1,21 @@
 {
   "name": "The Rising Sun Collection",
-  "image_url": "https://csgostash.com/img/collections/256x198/the_rising_sun_collection.png?id=69c91b1a4814f67e717c",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_rising_sun_collection.png?id=69c91b1a4814f67e717cc9fe237348cd",
   "content": {
     "Rare Special Items": [],
     "Covert Skins": [
       {
         "name": "AUG | Akihabara Accept",
+        "id": "629",
         "desc": "It has been decorated with a heat transfer vinyl of an anime magazine cover.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "No Recent Price",
+          "Field-Tested": "871.48",
+          "Well-Worn": "473.00",
+          "Battle-Scarred": "281.44"
+        },
         "lore": "Yatta!",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -23,9 +30,16 @@
     "Classified Skins": [
       {
         "name": "AK-47 | Hydroponic",
+        "id": "628",
         "desc": "It has been painted with a bamboo motif using metallic paints.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "1,800.00",
+          "Field-Tested": "1,109.77",
+          "Well-Worn": "744.86",
+          "Battle-Scarred": "615.26"
+        },
         "lore": "Notice how Gunsmith Yukako used the wood of the AK-47 to accentuate her verdant theme... make no mistake: Hydroponic is as beautiful and deadly as nature itself - Imogen, Arms Dealer In Training",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -39,25 +53,39 @@
     ],
     "Restricted Skins": [
       {
-        "name": "M4A4 | Daybreak",
-        "desc": "It has been painted with a sunrise in metallic paints.",
-        "lore": "The sun rises on the just and unjust alike",
-        "date_added": "26 May 2015",
+        "name": "Desert Eagle | Sunset Storm 弐",
+        "id": "626",
+        "desc": "It has been painted with a hydrographic of a stormy sea over a red metallic base coat.",
+        "prices": {
+          "Factory New": "293.64",
+          "Minimal Wear": "223.46",
+          "Field-Tested": "246.00",
+          "Well-Worn": "482.19",
+          "Battle-Scarred": "289.43"
+        },
+        "lore": "You think it's the same, but look again... subtlety makes all the difference",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szDeDBN4tOJh5WFhf7nNoTdn2xZ_Pp9i_vG8MLz3Ffg-UBvZWrxctPBdQY-ZQmC_le4x7-61MXp7c_MynBguXN2sSvbgVXp1tleQfgM/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szDeDBN4tOJh5WFhf7nNoTdn2xZ_Pp9i_vG8MLz3Ffg-UBvZWrxctPBdQY-ZQmC_le4x7-61MXp7c_MynBguXN2sSvbgVXp1tleQfgM/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szDeDBN4tOJh5WFhf7nNoTck29Y_chOhujT8om721Cy_EJuMW_ydYCSJ1JvNQvX-Vi3k-q6gJfttJrJm3Rr7iAn4HnYywv330-8Dlvn5g/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szDeDBN4tOJh5WFhf7nNoTck29Y_chOhujT8om721Cy_EJuMW_ydYCSJ1JvNQvX-Vi3k-q6gJfttJrJm3Rr7iAn4HnYywv330-8Dlvn5g/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szDeDBN4tOJh5WFhf7nNoTZk2pH8fp9i_vG8MKmiQbt_RU_YD3zdYKWdwI2aFnZ_gO8wrzt0cW17Z_In3RhvSAr5X-LgVXp1suJowVr/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqOT8PLHeqWdY781lteXA54vwxgOwrUc6Nmr7ItLEIQc2MA3Sq1ntwrvqhcLqu8mfm3tivCV2sCyIlxapwUYbFeY_M6c/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqOT8PLHeqWdY781lteXA54vwxgOwrUc6Nmr7ItLEIQc2MA3Sq1ntwrvqhcLqu8mfm3tivCV2sCyIlxapwUYbFeY_M6c/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqOT8PLHeqWZU7Mxkh9bN9J7yjRqw8kQ6YGmmdYSVcwY2YVDR_QDtlLrqhcS1vJvOyiQyuyUi7SrcyRTin1gSOYWPW-cx/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqOT8PLHeqWZU7Mxkh9bN9J7yjRqw8kQ6YGmmdYSVcwY2YVDR_QDtlLrqhcS1vJvOyiQyuyUi7SrcyRTin1gSOYWPW-cx/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqOT8PLHeqWNU6dNoteXA54vwxgyx_xFuYjj1d4KQelRoMA3TqFDtxOe6jZ7q6szIy3ZgvCFwsHaJmRKpwUYbGuFNcRU/512fx384f"
         }
       },
       {
         "name": "Desert Eagle | Sunset Storm 壱",
+        "id": "625",
         "desc": "It has been painted with a hydrographic of a stormy sea over a red metallic base coat.",
+        "prices": {
+          "Factory New": "266.02",
+          "Minimal Wear": "230.00",
+          "Field-Tested": "255.16",
+          "Well-Worn": "504.22",
+          "Battle-Scarred": "287.50"
+        },
         "lore": "You think it's the same, but look again... subtlety makes all the difference",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -69,10 +97,39 @@
         }
       },
       {
+        "name": "M4A4 | Daybreak",
+        "id": "627",
+        "desc": "It has been painted with a sunrise in metallic paints.",
+        "prices": {
+          "Factory New": "252.09",
+          "Minimal Wear": "223.46",
+          "Field-Tested": "214.88",
+          "Well-Worn": "230.00",
+          "Battle-Scarred": "201.22"
+        },
+        "lore": "The sun rises on the just and unjust alike",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szDeDBN4tOJh5WFhf7nNoTdn2xZ_Pp9i_vG8MLz3Ffg-UBvZWrxctPBdQY-ZQmC_le4x7-61MXp7c_MynBguXN2sSvbgVXp1tleQfgM/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szDeDBN4tOJh5WFhf7nNoTdn2xZ_Pp9i_vG8MLz3Ffg-UBvZWrxctPBdQY-ZQmC_le4x7-61MXp7c_MynBguXN2sSvbgVXp1tleQfgM/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szDeDBN4tOJh5WFhf7nNoTck29Y_chOhujT8om721Cy_EJuMW_ydYCSJ1JvNQvX-Vi3k-q6gJfttJrJm3Rr7iAn4HnYywv330-8Dlvn5g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szDeDBN4tOJh5WFhf7nNoTck29Y_chOhujT8om721Cy_EJuMW_ydYCSJ1JvNQvX-Vi3k-q6gJfttJrJm3Rr7iAn4HnYywv330-8Dlvn5g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szDeDBN4tOJh5WFhf7nNoTZk2pH8fp9i_vG8MKmiQbt_RU_YD3zdYKWdwI2aFnZ_gO8wrzt0cW17Z_In3RhvSAr5X-LgVXp1suJowVr/512fx384f"
+        }
+      },
+      {
         "name": "Five-SeveN | Neon Kimono",
+        "id": "624",
         "desc": "It has been painted with a hydrographic in a geometric motif.",
+        "prices": {
+          "Factory New": "300.00",
+          "Minimal Wear": "249.98",
+          "Field-Tested": "203.35",
+          "Well-Worn": "1,150.00",
+          "Battle-Scarred": "234.09"
+        },
         "lore": "I know I'm asking a lot of you... Turner was like your son - The Paladin and The Teacher Part 1",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -82,29 +139,21 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09e_mY-FmMjwOrrcmWVV-_p8j-3I4IHKhFWmrBZya2zzJNOTIwJvZwvV-lC-k7rsg561u5XMwHNj6CMh4yrYmha1hBpLOPsv26KPUAj66w/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09e_mY-FmMjwOrrcmWVV-_p5j-jX7LP5iUazrl04YD_2JtOdd1A4YF3Z81DvxLzngse0vc6anXE3syhw5X2Mmke-0hwdcKUx0uYbAdhJ/512fx384f"
         }
-      },
-      {
-        "name": "Desert Eagle | Sunset Storm 弐",
-        "desc": "It has been painted with a hydrographic of a stormy sea over a red metallic base coat.",
-        "lore": "You think it's the same, but look again... subtlety makes all the difference",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqOT8PLHeqWdY781lteXA54vwxgOwrUc6Nmr7ItLEIQc2MA3Sq1ntwrvqhcLqu8mfm3tivCV2sCyIlxapwUYbFeY_M6c/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqOT8PLHeqWdY781lteXA54vwxgOwrUc6Nmr7ItLEIQc2MA3Sq1ntwrvqhcLqu8mfm3tivCV2sCyIlxapwUYbFeY_M6c/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqOT8PLHeqWZU7Mxkh9bN9J7yjRqw8kQ6YGmmdYSVcwY2YVDR_QDtlLrqhcS1vJvOyiQyuyUi7SrcyRTin1gSOYWPW-cx/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqOT8PLHeqWZU7Mxkh9bN9J7yjRqw8kQ6YGmmdYSVcwY2YVDR_QDtlLrqhcS1vJvOyiQyuyUi7SrcyRTin1gSOYWPW-cx/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqOT8PLHeqWNU6dNoteXA54vwxgyx_xFuYjj1d4KQelRoMA3TqFDtxOe6jZ7q6szIy3ZgvCFwsHaJmRKpwUYbGuFNcRU/512fx384f"
-        }
       }
     ],
     "Mil-Spec Skins": [
       {
         "name": "Tec-9 | Terrace",
+        "id": "623",
         "desc": "It has been painted with a hydrographic in a geometric motif.",
+        "prices": {
+          "Factory New": "121.09",
+          "Minimal Wear": "134.29",
+          "Field-Tested": "101.09",
+          "Well-Worn": "102.00",
+          "Battle-Scarred": "147.73"
+        },
         "lore": "You're too trusting Valeria... it will get you killed - Franz Kriegeld, Phoenix Tactician",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -117,9 +166,16 @@
       },
       {
         "name": "MAG-7 | Counter Terrace",
+        "id": "622",
         "desc": "It has been painted with a hydrographic in a geometric motif.",
+        "prices": {
+          "Factory New": "115.07",
+          "Minimal Wear": "123.56",
+          "Field-Tested": "103.58",
+          "Well-Worn": "106.45",
+          "Battle-Scarred": "No Recent Price"
+        },
         "lore": "Hey Sabri, you should take this one... it's loud like you - Carmen Cocinero, Extraction Expert",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -132,9 +188,16 @@
       },
       {
         "name": "Galil AR | Aqua Terrace",
+        "id": "621",
         "desc": "It has been painted with a geometric motif in metallic paints.",
+        "prices": {
+          "Factory New": "111.16",
+          "Minimal Wear": "101.51",
+          "Field-Tested": "106.42",
+          "Well-Worn": "169.89",
+          "Battle-Scarred": "110.23"
+        },
         "lore": "Serenity now...",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -148,25 +211,17 @@
     ],
     "Industrial Grade Skins": [
       {
-        "name": "P250 | Crimson Kimono",
-        "desc": "It has been painted with a hydrographic in a geometric motif.",
-        "lore": "Turner, all men can be broken... it's just a matter of finding the right pressure point - The Traitor and The Truthseeker Part 2",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszDeDBN4tOJkImKmvj6N6juhG5V18l4jeHVyoD0mlOx5UplNjqhIoDDdA5qZwqCq1XrwOm91pW878nOyyZmuiQjsHfelxawgEtSLrs4vyyHLos/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszDeDBN4tOJkImKmvj6N6juhG5V18l4jeHVyoD0mlOx5UplNjqhIoDDdA5qZwqCq1XrwOm91pW878nOyyZmuiQjsHfelxawgEtSLrs4vyyHLos/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszDeDBN4tOJkImKmvj6N6juhG5V18h0juDU-LP5iUazrl1vYW3ycYSdJwVtaVvUrFa5l-3rh8C7vJ_Ln3BlvyNz43mPyUDhg00acKUx0mto_qC7/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszDeDBN4tOJkImKmvj6N6juhG5V18h0juDU-LP5iUazrl1vYW3ycYSdJwVtaVvUrFa5l-3rh8C7vJ_Ln3BlvyNz43mPyUDhg00acKUx0mto_qC7/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszDeDBN4tOJkImKmvj6N6juhG5V1810i__YyoD0mlOx5RdkamzxJY7GcAY4ZVuB-AW2wunrjcfv7ZXJynJnunV3t3ndlxXmg01SLrs4Rb17XRc/512fx384f"
-        }
-      },
-      {
         "name": "Desert Eagle | Midnight Storm",
+        "id": "620",
         "desc": "It has been painted with a hydrographic of a stormy sea over a blue metallic base coat.",
+        "prices": {
+          "Factory New": "24.61",
+          "Minimal Wear": "19.62",
+          "Field-Tested": "17.63",
+          "Well-Worn": "19.41",
+          "Battle-Scarred": "18.97"
+        },
         "lore": "I don't hate you Sebastien... I pity you - Chase Turner, Coalition Defector",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -176,44 +231,43 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqPrxN7LEm1Rd6dd2j6eY8dikjAHtrUttNm3xIISRIAY9MlrZqFfowe3r0cW9v5WdnHQ17ykk-z-DyDcxIIKJ/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqP_xMq3IqWdQ-sJ0xLCT89_02wPh-xFoNmn0IIOdJlA8NA3S_le2yentjcLo7svMz3VhuSA8pSGKJIK50wA/512fx384f"
         }
+      },
+      {
+        "name": "P250 | Crimson Kimono",
+        "id": "619",
+        "desc": "It has been painted with a hydrographic in a geometric motif.",
+        "prices": {
+          "Factory New": "23.41",
+          "Minimal Wear": "19.00",
+          "Field-Tested": "19.23",
+          "Well-Worn": "19.58",
+          "Battle-Scarred": "18.89"
+        },
+        "lore": "Turner, all men can be broken... it's just a matter of finding the right pressure point - The Traitor and The Truthseeker Part 2",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszDeDBN4tOJkImKmvj6N6juhG5V18l4jeHVyoD0mlOx5UplNjqhIoDDdA5qZwqCq1XrwOm91pW878nOyyZmuiQjsHfelxawgEtSLrs4vyyHLos/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszDeDBN4tOJkImKmvj6N6juhG5V18l4jeHVyoD0mlOx5UplNjqhIoDDdA5qZwqCq1XrwOm91pW878nOyyZmuiQjsHfelxawgEtSLrs4vyyHLos/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszDeDBN4tOJkImKmvj6N6juhG5V18h0juDU-LP5iUazrl1vYW3ycYSdJwVtaVvUrFa5l-3rh8C7vJ_Ln3BlvyNz43mPyUDhg00acKUx0mto_qC7/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszDeDBN4tOJkImKmvj6N6juhG5V18h0juDU-LP5iUazrl1vYW3ycYSdJwVtaVvUrFa5l-3rh8C7vJ_Ln3BlvyNz43mPyUDhg00acKUx0mto_qC7/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszDeDBN4tOJkImKmvj6N6juhG5V1810i__YyoD0mlOx5RdkamzxJY7GcAY4ZVuB-AW2wunrjcfv7ZXJynJnunV3t3ndlxXmg01SLrs4Rb17XRc/512fx384f"
+        }
       }
     ],
     "Consumer Grade Skins": [
       {
-        "name": "P250 | Mint Kimono",
-        "desc": "It has been spray-painted with a geometric motif.",
-        "lore": "Come Booth, let me show you what I've been working on - Yukako, Gunsmith",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zDeDBN4tOJkImKmvj6N6jummJW4NFOhujT8om7jgy2-RdqZTqnd4CRJw42Z1iC-Vfvkuy7hZ68up2dyXY2v3Vx4y6Imwv330_ucmAZ3w/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zDeDBN4tOJkImKmvj6N6jummJW4NFOhujT8om7jgy2-RdqZTqnd4CRJw42Z1iC-Vfvkuy7hZ68up2dyXY2v3Vx4y6Imwv330_ucmAZ3w/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zDeDBN4tOJkImKmvj6N6jum25V4dB8teXA54vwxgbtqUprNTz7I9WRIwZoMF3Rrljsw-q7jJG56pSdm3Ixvygg4HqJlkepwUYbokHbO_E/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zDeDBN4tOJkImKmvj6N6jum25V4dB8teXA54vwxgbtqUprNTz7I9WRIwZoMF3Rrljsw-q7jJG56pSdm3Ixvygg4HqJlkepwUYbokHbO_E/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zDeDBN4tOJkImKmvj6N6junm5Q_txOhujT8om73QDkqkI-Zm77IdecdQc_ZV-Br1Xsxbu5g8PvuZ6YwXVmv3Mms36Ilgv330_3xuBwNg/512fx384f"
-        }
-      },
-      {
-        "name": "G3SG1 | Orange Kimono",
-        "desc": "It has been painted with a hydrographic in a geometric motif.",
-        "lore": "Tradition is a powerful thing",
-        "date_added": "26 May 2015",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ejRP49K5q4SClvr7Pb_CqWRD6ct2j9bN_Iv9nGu4qgE7NnehcNfHd1I6N1HSrFS5wu260Za5us-bnHBkvCck5CzemBLlhEtPauVum7XAHphG6K35/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ejRP49K5q4SClvr7Pb_CqWRD6ct2j9bN_Iv9nGu4qgE7NnehcNfHd1I6N1HSrFS5wu260Za5us-bnHBkvCck5CzemBLlhEtPauVum7XAHphG6K35/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ejRP49K5q4SClvr7Pb_CqWRD6ct2j9bM8Ij8nVmLpxIuNDztIo_AdFJoZV_Sq1HrxuzngJa56cidzSZjuyclsSuJyx2x0B5JOuU-gOveFws0ax123w/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ejRP49K5q4SClvr7Pb_CqWRD6ct2j9bM8Ij8nVmLpxIuNDztIo_AdFJoZV_Sq1HrxuzngJa56cidzSZjuyclsSuJyx2x0B5JOuU-gOveFws0ax123w/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ejRP49K5q4SClvr7Pb_CqWRD6ct2j9bJ8I3jkWu4qgE7Nnfwd4fEJ1Q7MAzTqVa3wbjsgZTvv5jNmiBl6SEhtymOnEOxhxtNbrY-m7XAHjOn3vHo/512fx384f"
-        }
-      },
-      {
         "name": "PP-Bizon | Bamboo Print",
+        "id": "614",
         "desc": "It has been painted with a hydrographic of brush-painted bamboo.",
+        "prices": {
+          "Factory New": "5.19",
+          "Minimal Wear": "3.00",
+          "Field-Tested": "2.50",
+          "Well-Worn": "2.77",
+          "Battle-Scarred": "2.22"
+        },
         "lore": "Insert shoot pun here",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -225,10 +279,39 @@
         }
       },
       {
-        "name": "Sawed-Off | Bamboo Shadow",
+        "name": "Tec-9 | Bamboo Forest",
+        "id": "616",
         "desc": "It has been painted with a hydrographic of brush-painted bamboo.",
+        "prices": {
+          "Factory New": "7.31",
+          "Minimal Wear": "4.42",
+          "Field-Tested": "2.62",
+          "Well-Worn": "2.31",
+          "Battle-Scarred": "2.42"
+        },
+        "lore": "I still think it should have a panda - Booth, Arms Dealer",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszKcDBA49OJnpWFkPvxDLfYkWNF18lwmO7Eu9-k2gLs_0ZsNTuhIdSQIQQ8Y1mF_ATvkLq90JG9vpman3pm7CN35CvD30vg7kB-r_U/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszKcDBA49OJnpWFkPvxDLfYkWNF18lwmO7Eu9-k2gLs_0ZsNTuhIdSQIQQ8Y1mF_ATvkLq90JG9vpman3pm7CN35CvD30vg7kB-r_U/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszKcDBA49OJnpWFkPvxDLbUkmJE5fp9i_vG8MKj31Ww-kFuMjr6IoHBIAQ2YwmBrFK9ybzo0cO-uJvPzyZm6SQk4XvegVXp1uJoo2JO/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszKcDBA49OJnpWFkPvxDLbUkmJE5fp9i_vG8MKj31Ww-kFuMjr6IoHBIAQ2YwmBrFK9ybzo0cO-uJvPzyZm6SQk4XvegVXp1uJoo2JO/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszKcDBA49OJnpWFkPvxDLPUl31I18lwmO7Eu9imjlaw80U9MGH1ctXBcwVqN1GC-FC-lOa8gpW_6szBwHQyv3Er5nnD30vgsGqBv_Y/512fx384f"
+        }
+      },
+      {
+        "name": "Sawed-Off | Bamboo Shadow",
+        "id": "615",
+        "desc": "It has been painted with a hydrographic of brush-painted bamboo.",
+        "prices": {
+          "Factory New": "3.96",
+          "Minimal Wear": "2.88",
+          "Field-Tested": "2.44",
+          "Well-Worn": "2.45",
+          "Battle-Scarred": "2.37"
+        },
         "lore": "Kotaro lost his son to this gun... and one day he'll use it to stop the man responsible",
-        "date_added": "26 May 2015",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -240,18 +323,47 @@
         }
       },
       {
-        "name": "Tec-9 | Bamboo Forest",
-        "desc": "It has been painted with a hydrographic of brush-painted bamboo.",
-        "lore": "I still think it should have a panda - Booth, Arms Dealer",
-        "date_added": "26 May 2015",
+        "name": "G3SG1 | Orange Kimono",
+        "id": "617",
+        "desc": "It has been painted with a hydrographic in a geometric motif.",
+        "prices": {
+          "Factory New": "3.65",
+          "Minimal Wear": "2.81",
+          "Field-Tested": "2.47",
+          "Well-Worn": "2.44",
+          "Battle-Scarred": "2.39"
+        },
+        "lore": "Tradition is a powerful thing",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszKcDBA49OJnpWFkPvxDLfYkWNF18lwmO7Eu9-k2gLs_0ZsNTuhIdSQIQQ8Y1mF_ATvkLq90JG9vpman3pm7CN35CvD30vg7kB-r_U/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszKcDBA49OJnpWFkPvxDLfYkWNF18lwmO7Eu9-k2gLs_0ZsNTuhIdSQIQQ8Y1mF_ATvkLq90JG9vpman3pm7CN35CvD30vg7kB-r_U/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszKcDBA49OJnpWFkPvxDLbUkmJE5fp9i_vG8MKj31Ww-kFuMjr6IoHBIAQ2YwmBrFK9ybzo0cO-uJvPzyZm6SQk4XvegVXp1uJoo2JO/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszKcDBA49OJnpWFkPvxDLbUkmJE5fp9i_vG8MKj31Ww-kFuMjr6IoHBIAQ2YwmBrFK9ybzo0cO-uJvPzyZm6SQk4XvegVXp1uJoo2JO/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszKcDBA49OJnpWFkPvxDLPUl31I18lwmO7Eu9imjlaw80U9MGH1ctXBcwVqN1GC-FC-lOa8gpW_6szBwHQyv3Er5nnD30vgsGqBv_Y/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ejRP49K5q4SClvr7Pb_CqWRD6ct2j9bN_Iv9nGu4qgE7NnehcNfHd1I6N1HSrFS5wu260Za5us-bnHBkvCck5CzemBLlhEtPauVum7XAHphG6K35/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ejRP49K5q4SClvr7Pb_CqWRD6ct2j9bN_Iv9nGu4qgE7NnehcNfHd1I6N1HSrFS5wu260Za5us-bnHBkvCck5CzemBLlhEtPauVum7XAHphG6K35/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ejRP49K5q4SClvr7Pb_CqWRD6ct2j9bM8Ij8nVmLpxIuNDztIo_AdFJoZV_Sq1HrxuzngJa56cidzSZjuyclsSuJyx2x0B5JOuU-gOveFws0ax123w/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ejRP49K5q4SClvr7Pb_CqWRD6ct2j9bM8Ij8nVmLpxIuNDztIo_AdFJoZV_Sq1HrxuzngJa56cidzSZjuyclsSuJyx2x0B5JOuU-gOveFws0ax123w/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ejRP49K5q4SClvr7Pb_CqWRD6ct2j9bJ8I3jkWu4qgE7Nnfwd4fEJ1Q7MAzTqVa3wbjsgZTvv5jNmiBl6SEhtymOnEOxhxtNbrY-m7XAHjOn3vHo/512fx384f"
+        }
+      },
+      {
+        "name": "P250 | Mint Kimono",
+        "id": "618",
+        "desc": "It has been spray-painted with a geometric motif.",
+        "prices": {
+          "Factory New": "4.05",
+          "Minimal Wear": "3.02",
+          "Field-Tested": "2.50",
+          "Well-Worn": "2.69",
+          "Battle-Scarred": "2.41"
+        },
+        "lore": "Come Booth, let me show you what I've been working on - Yukako, Gunsmith",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zDeDBN4tOJkImKmvj6N6jummJW4NFOhujT8om7jgy2-RdqZTqnd4CRJw42Z1iC-Vfvkuy7hZ68up2dyXY2v3Vx4y6Imwv330_ucmAZ3w/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zDeDBN4tOJkImKmvj6N6jummJW4NFOhujT8om7jgy2-RdqZTqnd4CRJw42Z1iC-Vfvkuy7hZ68up2dyXY2v3Vx4y6Imwv330_ucmAZ3w/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zDeDBN4tOJkImKmvj6N6jum25V4dB8teXA54vwxgbtqUprNTz7I9WRIwZoMF3Rrljsw-q7jJG56pSdm3Ixvygg4HqJlkepwUYbokHbO_E/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zDeDBN4tOJkImKmvj6N6jum25V4dB8teXA54vwxgbtqUprNTz7I9WRIwZoMF3Rrljsw-q7jJG56pSdm3Ixvygg4HqJlkepwUYbokHbO_E/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zDeDBN4tOJkImKmvj6N6junm5Q_txOhujT8om73QDkqkI-Zm77IdecdQc_ZV-Br1Xsxbu5g8PvuZ6YwXVmv3Mms36Ilgv330_3xuBwNg/512fx384f"
         }
       }
     ]

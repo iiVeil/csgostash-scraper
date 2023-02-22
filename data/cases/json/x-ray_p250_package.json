@@ -1,6 +1,7 @@
 {
   "name": "X-Ray P250 Package",
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsS091PDtH5O_1FAthwfTNP2kTvomzzYHdlqLxZb7XlW4IuJwk3u2S8NWl3QS1_EA6YT2iddeXdgIgIQaHHJc2aVo/256fx256f",
+  "price": "2.88",
   "content": {
     "Rare Special Items": [],
     "Covert Skins": [],
@@ -8,9 +9,21 @@
     "Restricted Skins": [
       {
         "name": "P250 | X-Ray",
+        "id": "1097",
         "desc": "A custom painted P250 showing its internals with an X-Ray",
+        "prices": {
+          "StatTrak Factory New": "4.16",
+          "StatTrak Minimal Wear": "2.68",
+          "StatTrak Field-Tested": "2.68",
+          "StatTrak Well-Worn": "Not Possible",
+          "StatTrak Battle-Scarred": "Not Possible",
+          "Factory New": "0.88",
+          "Minimal Wear": "0.62",
+          "Field-Tested": "0.54",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
         "lore": "This item has no Lore",
-        "date_added": "15 October 2019",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {

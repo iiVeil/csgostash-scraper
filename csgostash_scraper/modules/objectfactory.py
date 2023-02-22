@@ -29,7 +29,7 @@ import logging
 import os
 
 from .scraper import PageHandler, RetrieveCollection, RetrieveCase, RetrieveSouvenirPackage, RetrieveWeaponSkin
-from .scraper import ItemHasNoWear, ItemNoCollection, ItemNoStattrakSouvenir, ItemHasNoDescription, ItemHasNoLore, ItemHasNoDateAdded
+from .scraper import ItemHasNoWear, ItemNoCollection, ItemNoStattrakSouvenir, ItemHasNoDescription, ItemHasNoLore
 from .objects import Collection, SkinCase, SouvenirPackage, WeaponSkin
 
 # logging.basicConfig(level=logging.DEBUG)
@@ -73,11 +73,6 @@ class ItemFactory(Factory):
             lore = 'This item has no Lore'
 
         try:
-            date_added = ws.get_date_added()
-        except ItemHasNoDateAdded:
-            date_added = 'This item has no date_added'
-
-        try:
             collection = ws.get_collection()
         except ItemNoCollection:
             collection = 'This item does not belong to a Collection'
@@ -93,8 +88,11 @@ class ItemFactory(Factory):
         rarity = get_rarity.split(' ')[0]
         weapon_type = get_rarity.split(' ')[1]
 
-        data_dict = dict(weapon_type=weapon_type, title=title, desc=description, lore=lore, date_added=date_added,
-                         collection=collection, found_in=found_in, rarity=rarity, wears=wears)
+        prices = ws.get_prices()
+        item_id = ws.get_id()
+
+        data_dict = dict(weapon_type=weapon_type, title=title, desc=description, lore=lore,
+                         collection=collection, found_in=found_in, rarity=rarity, wears=wears, prices=prices, id=item_id)
         item = WeaponSkin._from_data(data_dict)
 
         try:
@@ -107,7 +105,6 @@ class ItemFactory(Factory):
             pass
 
         logging.debug(f'Created object: {repr(item)}')
-        logging.info(f'Retrieving: {item.name}')
 
         return item
 
@@ -145,13 +142,14 @@ class ContainerFactory(Factory):
 
         name = c.get_title()
         icon = c.get_image_url()
+        price = c.get_price()
         content = set()
 
         for url in RetrieveWeaponSkin.get_all_urls(page_url):
             item = ItemFactory.create_weaponskin(url)
             content.add(item)
 
-        data_dict = dict(name=name, icon=icon, content=content)
+        data_dict = dict(name=name, icon=icon, content=content, price=price)
         case = SkinCase._from_data(data_dict)
 
         logging.debug(f'Created object: {repr(case)}')
@@ -166,6 +164,7 @@ class ContainerFactory(Factory):
 
         name = sp.get_title()
         icon = sp.get_image_url()
+        price = sp.get_price()
         collections = []
 
         # Internal collection object creation
@@ -195,7 +194,8 @@ class ContainerFactory(Factory):
                 else:
                     ContainerFactory.create_souvenir_package(page_url, False)
 
-        data_dict = dict(name=name, icon=icon, collection=collections)
+        data_dict = dict(name=name, icon=icon,
+                         collection=collections, price=price)
         package = SouvenirPackage._from_data(data_dict)
 
         logging.debug(f'Created object: {repr(package)}')

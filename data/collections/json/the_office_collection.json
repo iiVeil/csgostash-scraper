@@ -1,6 +1,6 @@
 {
   "name": "The Office Collection",
-  "image_url": "https://csgostash.com/img/collections/256x198/the_office_collection.png?id=f43c0925d7781e744d8c",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_office_collection.png?id=f43c0925d7781e744d8c6fedc738bc86",
   "content": {
     "Rare Special Items": [],
     "Covert Skins": [],
@@ -8,22 +8,17 @@
     "Restricted Skins": [],
     "Mil-Spec Skins": [
       {
-        "name": "P2000 | Silver",
-        "desc": "It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.",
-        "lore": "There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician",
-        "date_added": "14 August 2013",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfwJR5dCgkZK0m_7zO6_ummpD78A_0r3D84injgS2rxBrMjv1JYLBe1VqZlnQ-QO5le7ohJC8upzIwXNlvD5iuyim-mGAHQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfwJR5dCgkZK0m_7zO6_ummpD78A_0r3D84injgS2rxBrMjv1JYLBe1VqZlnQ-QO5le7ohJC8upzIwXNlvD5iuyim-mGAHQ/512fx384f"
-        }
-      },
-      {
         "name": "MP7 | Whiteout",
+        "id": "19",
         "desc": "It is spray-painted all white.",
+        "prices": {
+          "Factory New": "550.58",
+          "Minimal Wear": "43.76",
+          "Field-Tested": "8.48",
+          "Well-Worn": "8.06",
+          "Battle-Scarred": "8.43"
+        },
         "lore": "It looks pure, but looks can be deceiving",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -33,14 +28,40 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7OTAeClH48miq42Ok_7hPoTdl3lW7YtziLuXo9jx3ge1_kZqNTvyLYTAIwI4aQuFrlC9xu7ph5_pus-bn3oxpGB8sufl2t5-/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRv7OTAeClH48miq4iOluHtDLfQhGxUpp0i2biYp9mkjQfh80BtMWjyIoDGdAE2M1DR_FG8wu2818C_vJSYwHF9-n51CWhWBL4/512fx384f"
         }
+      },
+      {
+        "name": "P2000 | Silver",
+        "id": "20",
+        "desc": "It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.",
+        "prices": {
+          "Factory New": "8.56",
+          "Minimal Wear": "16.87",
+          "Field-Tested": "Not Possible",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
+        "lore": "There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfwJR5dCgkZK0m_7zO6_ummpD78A_0r3D84injgS2rxBrMjv1JYLBe1VqZlnQ-QO5le7ohJC8upzIwXNlvD5iuyim-mGAHQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfwJR5dCgkZK0m_7zO6_ummpD78A_0r3D84injgS2rxBrMjv1JYLBe1VqZlnQ-QO5le7ohJC8upzIwXNlvD5iuyim-mGAHQ/512fx384f"
+        }
       }
     ],
     "Industrial Grade Skins": [
       {
         "name": "G3SG1 | Arctic Camo",
+        "id": "21",
         "desc": "It has been painted using an arctic camo hydrographic.",
+        "prices": {
+          "Factory New": "97.89",
+          "Minimal Wear": "11.32",
+          "Field-Tested": "4.25",
+          "Well-Worn": "3.88",
+          "Battle-Scarred": "3.80"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -52,25 +73,17 @@
         }
       },
       {
-        "name": "M249 | Blizzard Marbleized",
-        "desc": "It has been painted in a marbleized pattern.",
-        "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-HnvD8J4Tdl3lW7Yt12L2WoN-liVDt_xY5YTjzd4eTdgc_ZwrY8wfqwrjsjce4v8mbn3FjpGB8sqAt40m2/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-HnvD8J4Tdl3lW7Yt12L2WoN-liVDt_xY5YTjzd4eTdgc_ZwrY8wfqwrjsjce4v8mbn3FjpGB8sqAt40m2/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-GkvP9JrbummpD78A_iLrH943w3le1_hJuNj_3Io7DcwNtMFHUqwO6lOrpjcS56J7MynJh7z5iuyj-R2rzOA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-GkvP9JrbummpD78A_iLrH943w3le1_hJuNj_3Io7DcwNtMFHUqwO6lOrpjcS56J7MynJh7z5iuyj-R2rzOA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-DkvbiKoTdl3lW7Yt30uzH9Iqt2AO3_EA_ZzulJNeTelBqaVDX_FO_wO651pC1u8ifyyc3pGB8stT3jnUw/512fx384f"
-        }
-      },
-      {
         "name": "Galil AR | Winter Forest",
+        "id": "22",
         "desc": "It has been painted using a forest camouflage hydrographic.",
+        "prices": {
+          "Factory New": "109.38",
+          "Minimal Wear": "14.88",
+          "Field-Tested": "4.23",
+          "Well-Worn": "4.34",
+          "Battle-Scarred": "3.25"
+        },
         "lore": "The woods can be a dangerous place... never travel alone",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -80,14 +93,43 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJE486zh5S0gP76J77DqWZU7Mxkh9bN9J7yjRrkrRI9N2D1cIWUegFqYFvT_VS7wO680cW46ciYwXtl6HYi5HyLyUa_n1gSOTI8E0Pj/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJE486zh5S0gP76J77DqWNU6dNoteXA54vwxlGy_UtsZGz0cYKSe1A_NVvQ81PsxOe50Ze86p_OynBqviMm5H7bzh2pwUYbOguoN6c/512fx384f"
         }
+      },
+      {
+        "name": "M249 | Blizzard Marbleized",
+        "id": "18",
+        "desc": "It has been painted in a marbleized pattern.",
+        "prices": {
+          "Factory New": "197.39",
+          "Minimal Wear": "15.45",
+          "Field-Tested": "3.39",
+          "Well-Worn": "4.34",
+          "Battle-Scarred": "5.78"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-HnvD8J4Tdl3lW7Yt12L2WoN-liVDt_xY5YTjzd4eTdgc_ZwrY8wfqwrjsjce4v8mbn3FjpGB8sqAt40m2/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-HnvD8J4Tdl3lW7Yt12L2WoN-liVDt_xY5YTjzd4eTdgc_ZwrY8wfqwrjsjce4v8mbn3FjpGB8sqAt40m2/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-GkvP9JrbummpD78A_iLrH943w3le1_hJuNj_3Io7DcwNtMFHUqwO6lOrpjcS56J7MynJh7z5iuyj-R2rzOA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-GkvP9JrbummpD78A_iLrH943w3le1_hJuNj_3Io7DcwNtMFHUqwO6lOrpjcS56J7MynJh7z5iuyj-R2rzOA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-DkvbiKoTdl3lW7Yt30uzH9Iqt2AO3_EA_ZzulJNeTelBqaVDX_FO_wO651pC1u8ifyyc3pGB8stT3jnUw/512fx384f"
+        }
       }
     ],
     "Consumer Grade Skins": [
       {
         "name": "FAMAS | Contrast Spray",
+        "id": "17",
         "desc": "It has been spray-painted freehand with short, thick lines in contrasting colors.",
+        "prices": {
+          "Factory New": "32.78",
+          "Minimal Wear": "5.19",
+          "Field-Tested": "1.90",
+          "Well-Worn": "2.94",
+          "Battle-Scarred": "1.61"
+        },
         "lore": "Perfect for the insurgent on the go",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {

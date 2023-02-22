@@ -1,16 +1,61 @@
 {
   "name": "The Dust Collection",
-  "image_url": "https://csgostash.com/img/collections/256x198/the_dust_collection.png?id=9869c8557ca41ad26392",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_dust_collection.png?id=9869c8557ca41ad26392027f749ca909",
   "content": {
     "Rare Special Items": [],
     "Covert Skins": [],
     "Classified Skins": [],
     "Restricted Skins": [
       {
-        "name": "Glock-18 | Brass",
-        "desc": "It has brass parts.",
+        "name": "P2000 | Scorpion",
+        "id": "67",
+        "desc": "It has been painted using anodized-effect paints in a rippled fade pattern with a red scorpion decal on the grip.",
+        "prices": {
+          "Factory New": "6.25",
+          "Minimal Wear": "7.73",
+          "Field-Tested": "Not Possible",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJR79OkhImEmcjkYeuBxlRd4cJ5ntbN9J7yjRrs_UBvYDj2LYPHIQBtZ1nT8wC6lObrgpW46Zucm3pr6XQh5iveyhSzn1gSOfRffSvr/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJR79OkhImEmcjkYeuBxlRd4cJ5ntbN9J7yjRrs_UBvYDj2LYPHIQBtZ1nT8wC6lObrgpW46Zucm3pr6XQh5iveyhSzn1gSOfRffSvr/512fx384f"
+        }
+      },
+      {
+        "name": "Desert Eagle | Blaze",
+        "id": "68",
+        "desc": "It has been painted by airbrushing transparent paints over a chrome base coat.",
+        "prices": {
+          "Factory New": "611.85",
+          "Minimal Wear": "787.43",
+          "Field-Tested": "Not Possible",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLJTjtO7dGzh7-HnvD8J4Tdl3lW7Yt1jriVpY-migfh8hBtZTqgcI7Aewc2MgnWqwW-k-zph569uZyfnHMwpGB8slBfgSNs/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLJTjtO7dGzh7-HnvD8J4Tdl3lW7Yt1jriVpY-migfh8hBtZTqgcI7Aewc2MgnWqwW-k-zph569uZyfnHMwpGB8slBfgSNs/512fx384f"
+        }
+      },
+      {
+        "name": "Glock-18 | Brass",
+        "id": "66",
+        "desc": "It has brass parts.",
+        "prices": {
+          "Factory New": "33.58",
+          "Minimal Wear": "20.16",
+          "Field-Tested": "8.14",
+          "Well-Worn": "7.91",
+          "Battle-Scarred": "7.50"
+        },
+        "lore": "This item has no Lore",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -20,53 +65,40 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3cy9D_8-JmYWPnuL5DLfQhGxUpp0k076U9NrxiQ3krRFrNmynIYfHcAA8ZF7Rrlfqw-juhpS9u52dzSN9-n51v3yyNRs/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3cy9D_8-JnIWKge7LP7rDkW4fu5xzib2Yod6kiwWx_xY-ZD2mJYfBJg9tYAzSqVXvweu71JO17p6ammwj5Hd9iP7Wnw/512fx384f"
         }
-      },
-      {
-        "name": "Desert Eagle | Blaze",
-        "desc": "It has been painted by airbrushing transparent paints over a chrome base coat.",
-        "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLJTjtO7dGzh7-HnvD8J4Tdl3lW7Yt1jriVpY-migfh8hBtZTqgcI7Aewc2MgnWqwW-k-zph569uZyfnHMwpGB8slBfgSNs/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLJTjtO7dGzh7-HnvD8J4Tdl3lW7Yt1jriVpY-migfh8hBtZTqgcI7Aewc2MgnWqwW-k-zph569uZyfnHMwpGB8slBfgSNs/512fx384f"
-        }
-      },
-      {
-        "name": "P2000 | Scorpion",
-        "desc": "It has been painted using anodized-effect paints in a rippled fade pattern with a red scorpion decal on the grip.",
-        "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJR79OkhImEmcjkYeuBxlRd4cJ5ntbN9J7yjRrs_UBvYDj2LYPHIQBtZ1nT8wC6lObrgpW46Zucm3pr6XQh5iveyhSzn1gSOfRffSvr/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJR79OkhImEmcjkYeuBxlRd4cJ5ntbN9J7yjRrs_UBvYDj2LYPHIQBtZ1nT8wC6lObrgpW46Zucm3pr6XQh5iveyhSzn1gSOfRffSvr/512fx384f"
-        }
       }
     ],
     "Mil-Spec Skins": [
       {
-        "name": "Sawed-Off | Copper",
-        "desc": "It has been copper plated.",
+        "name": "AUG | Copperhead",
+        "id": "65",
+        "desc": "It has been painted using a copperhead snakeskin-patterned hydrographic.",
+        "prices": {
+          "Factory New": "Not Possible",
+          "Minimal Wear": "100.05",
+          "Field-Tested": "84.24",
+          "Well-Worn": "Not Possible",
+          "Battle-Scarred": "Not Possible"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx979OmhIWZqPv9NLPFqWdQ-sJ0xOiT8d_x0Qbn_UJuY2jzLdfBJA5qN1mCqVS9k-m7hZS-uZ2fzyNmunE8pSGKvLf5NxQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx979OmhIWZqPv9NLPFqWdQ-sJ0xOiT8d_x0Qbn_UJuY2jzLdfBJA5qN1mCqVS9k-m7hZS-uZ2fzyNmunE8pSGKvLf5NxQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx979OmhIWZqPrxN7LEm1Rd6dd2j6eZ9Nn30Q3h_xc6YT2mJYSQelU3Y1jW8wK8wunqgcXvtZrLzHNi6Sdx-z-DyEy1Zd4H/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx979OmhIWZqPrxN7LEm1Rd6dd2j6eZ9Nn30Q3h_xc6YT2mJYSQelU3Y1jW8wK8wunqgcXvtZrLzHNi6Sdx-z-DyEy1Zd4H/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx979OmhIWZqP_xMq3IqWdQ-sJ0xL_Ho9ym2wHsrRJlazj7JYKXJ1U6N17T8we6xOq8gpLpvZ6bwXtn7CA8pSGKkZvgDjI/512fx384f"
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957PDHYS1H_tSzlYS0m_7zO6_ummpD78A_27-X84ig3QG2-0NrZj-mdoCcegE2YlHZ8wW3wei8gZO-tcnLnXRguz5iuyg_78IKJw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957PDHYS1H_tSzlYS0mvLwOq7cqWdQ-sJ0xLzE843xjgbjqRE9Yj-iIYKdIAc_NVzW-lHok-2615TqvM7MyyY36XQ8pSGKwmwc__s/512fx384f"
         }
       },
       {
         "name": "AWP | Snake Camo",
+        "id": "69",
         "desc": "It has been spray-painted using a snakeskin stencil in patches that have been outlined freehand.",
+        "prices": {
+          "Factory New": "196.92",
+          "Minimal Wear": "98.82",
+          "Field-Tested": "86.25",
+          "Well-Worn": "90.44",
+          "Battle-Scarred": "87.25"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -78,24 +110,41 @@
         }
       },
       {
-        "name": "AUG | Copperhead",
-        "desc": "It has been painted using a copperhead snakeskin-patterned hydrographic.",
+        "name": "Sawed-Off | Copper",
+        "id": "63",
+        "desc": "It has been copper plated.",
+        "prices": {
+          "Factory New": "811.53",
+          "Minimal Wear": "100.05",
+          "Field-Tested": "92.58",
+          "Well-Worn": "79.04",
+          "Battle-Scarred": "88.83"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957PDHYS1H_tSzlYS0m_7zO6_ummpD78A_27-X84ig3QG2-0NrZj-mdoCcegE2YlHZ8wW3wei8gZO-tcnLnXRguz5iuyg_78IKJw/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957PDHYS1H_tSzlYS0mvLwOq7cqWdQ-sJ0xLzE843xjgbjqRE9Yj-iIYKdIAc_NVzW-lHok-2615TqvM7MyyY36XQ8pSGKwmwc__s/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx979OmhIWZqPv9NLPFqWdQ-sJ0xOiT8d_x0Qbn_UJuY2jzLdfBJA5qN1mCqVS9k-m7hZS-uZ2fzyNmunE8pSGKvLf5NxQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx979OmhIWZqPv9NLPFqWdQ-sJ0xOiT8d_x0Qbn_UJuY2jzLdfBJA5qN1mCqVS9k-m7hZS-uZ2fzyNmunE8pSGKvLf5NxQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx979OmhIWZqPrxN7LEm1Rd6dd2j6eZ9Nn30Q3h_xc6YT2mJYSQelU3Y1jW8wK8wunqgcXvtZrLzHNi6Sdx-z-DyEy1Zd4H/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx979OmhIWZqPrxN7LEm1Rd6dd2j6eZ9Nn30Q3h_xc6YT2mJYSQelU3Y1jW8wK8wunqgcXvtZrLzHNi6Sdx-z-DyEy1Zd4H/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx979OmhIWZqP_xMq3IqWdQ-sJ0xL_Ho9ym2wHsrRJlazj7JYKXJ1U6N17T8we6xOq8gpLpvZ6bwXtn7CA8pSGKkZvgDjI/512fx384f"
         }
       }
     ],
     "Industrial Grade Skins": [
       {
         "name": "M4A4 | Desert Storm",
+        "id": "64",
         "desc": "It has been painted using a desert camouflage hydrographic.",
+        "prices": {
+          "Factory New": "38.84",
+          "Minimal Wear": "15.25",
+          "Field-Tested": "14.00",
+          "Well-Worn": "13.50",
+          "Battle-Scarred": "14.75"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -108,9 +157,16 @@
       },
       {
         "name": "SCAR-20 | Palm",
+        "id": "62",
         "desc": "It has been spray-painted using cardboard cutouts, fine mesh, and palm leaves as stencils.",
+        "prices": {
+          "Factory New": "29.75",
+          "Minimal Wear": "16.48",
+          "Field-Tested": "15.22",
+          "Well-Worn": "13.39",
+          "Battle-Scarred": "15.91"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -123,9 +179,16 @@
       },
       {
         "name": "AK-47 | Predator",
+        "id": "61",
         "desc": "It has been spray-painted in a zebra stripe pattern.",
+        "prices": {
+          "Factory New": "42.09",
+          "Minimal Wear": "16.98",
+          "Field-Tested": "15.04",
+          "Well-Worn": "14.91",
+          "Battle-Scarred": "13.68"
+        },
         "lore": "This item has no Lore",
-        "date_added": "14 August 2013",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {

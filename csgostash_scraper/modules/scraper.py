@@ -43,9 +43,6 @@ class ItemHasNoLore(ScraperException):
     """Exception that is thrown if the item has no lore"""
     pass
 
-class ItemHasNoDateAdded(ScraperException):
-    """Exception that is thrown if the item has no date_added"""
-    pass
 
 class ItemNoCollection(ScraperException):
     """Exception that is thrown if the item does not belong in a collection"""
@@ -221,20 +218,6 @@ class RetrieveWeaponSkin(RetrieveObject):
 
     get_lore = get_flavor_text
 
-    def get_date_added(self):
-        """Returns skin date_added as string"""
-
-        # Find date_added from page paragraphs
-        page_paragraphs = self.parsed_page.find_all("p")
-
-        for paragraph in page_paragraphs:
-            if paragraph.strong != None:
-                if 'Added:' in paragraph.strong.text:
-                    description = paragraph.text
-                    return description.split('Added:')[1].strip()
-        else:
-            raise ItemHasNoDateAdded()
-
     def get_collection(self, filters=['Collection']):
         """Returns the collection name(s) as a list of strings
         It can also return the containers the item is found in, by setting the filtered_value to 'Case'
@@ -321,6 +304,46 @@ class RetrieveWeaponSkin(RetrieveObject):
 
         return possible_wears
 
+    def get_prices(self):
+        well_content = self.parsed_page.find(
+            "div", {"class": "well price-details"})
+        tab_content = well_content.find("div",  {"class": "tab-content"})
+        steam_prices = tab_content.find("div", {"id": "prices"})
+        all_prices = steam_prices.find_all(
+            "div", {"class": "btn-group-sm btn-group-justified"})
+
+        prices = {}
+
+        for price in all_prices:
+            weapon_type = ""
+            a = price.find("a")
+            spans = a.find_all("span")
+            if len(spans) == 2:
+                weapon_type = spans[0].text
+                weapon_price = spans[1].text.strip("$")
+            elif len(spans) == 3:
+                weapon_type += spans[0].text + " "
+                weapon_type += spans[1].text
+                weapon_price = spans[2].text.strip("$")
+            elif len(spans) == 4:
+                weapon_type += spans[0].text + " "
+                weapon_type += spans[1].text + " "
+                weapon_type += spans[2].text
+                weapon_price = spans[3].text.strip("$")
+
+            prices[weapon_type] = weapon_price
+
+        return prices
+
+    def get_id(self):
+        url = self.parsed_page.find("meta", property="og:url")
+
+        #                               THIS
+        # https://csgostash.com/skin/ > 1546 < /UMP-45-Wild-Child
+        # Can be used to find a weapon page again with https://csgostash.com/skin/1546/
+        # will make parsing prices again easier.
+        return url['content'][8:].split("/")[2]
+
 
 class RetrieveCollection(RetrieveObject):
 
@@ -373,6 +396,13 @@ class RetrieveCase(RetrieveObject):
 
         return title
 
+    def get_price(self):
+        button = self.parsed_page.find(
+            "a", {"class": "btn btn-default market-button-item"})
+        price = button.text.split(' on Steam')[0].strip().strip("$")
+
+        return price
+
 
 class RetrieveSouvenirPackage(RetrieveObject):
 
@@ -405,6 +435,15 @@ class RetrieveSouvenirPackage(RetrieveObject):
         title = title['content'].split('- CS:GO Stash')[0].strip()
 
         return title
+
+    def get_price(self):
+        button_groups = self.parsed_page.find_all(
+            "div", {"class": "btn-group btn-group-justified"})
+        a = button_groups[0].find("a")
+        spans = a.find_all("span")
+        price = spans[1].text.strip("$")
+
+        return price
 
     def get_collection_url(self):
         """Returns the souvenir package collection url and name as lists"""

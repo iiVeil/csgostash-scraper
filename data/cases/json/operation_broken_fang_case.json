@@ -1,58 +1,43 @@
 {
   "name": "Operation Broken Fang Case",
   "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/256fx256f",
+  "price": "2.20",
   "content": {
     "Rare Special Items": [
       {
-        "name": "★ Moto Gloves | Finish Line",
-        "desc": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+        "name": "★ Driver Gloves | Black Tie",
+        "id": "58",
+        "desc": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "872.94",
+          "Field-Tested": "298.44",
+          "Well-Worn": "227.64",
+          "Battle-Scarred": "137.50"
+        },
         "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://csgostash.com/img/missing/gloves.png",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9rMJV56DgSBuAbr37rv1JC56snLnScw7HIgt3qJm0O_1UlIOrM80fGaSVuZBqRMHvSLUCHO8MckmTbq2rc/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9vAJl97PDeMqxPplPDthp_pupqYzSc1v3EltHnUn0HjiUlEa7Q91P2eSg3PVqIbHKLQBCCBrtktH8fcCo7D/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9vAJl97PDeMqxPplPDthp_pupqYzSc1v3EltHnUn0HjiUlEa7Q91P2eSg3PVqIbHKLQBCCBrtktH8fcCo7D/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS97AI0B3DgSBuAbr372705e4uZuawXJjvXQl5iyImhyz001Pa7Rp1_ydSVWcAadBTfGDD3rO8MckHi5TsbY/512fx384f"
-        }
-      },
-      {
-        "name": "★ Sport Gloves | Slingshot",
-        "desc": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_ummJW4NFOhujT8om72wWw-EE-amCgJISRdQJqYgvT8wXol-7mjJ_ouZ6bnSFiuCQr4Hfbywv330-uIHwuiA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_ummJW4NFOhujT8om72wWw-EE-amCgJISRdQJqYgvT8wXol-7mjJ_ouZ6bnSFiuCQr4Hfbywv330-uIHwuiA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_um25V4dB8teXA54vwxgLh_EU9MG-mcIGRcVU7aF2FqAS-x72708S7vp3IwSFjvygr5HffmkCpwUYbdJtyCsg/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_um25V4dB8teXA54vwxgLh_EU9MG-mcIGRcVU7aF2FqAS-x72708S7vp3IwSFjvygr5HffmkCpwUYbdJtyCsg/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_unm5Q_txOhujT8om70QbjqUdlaj2ndYOXJlBoNwuEqwDsx-_ngZXvtZzLzyAwuXEjsCnVnAv3309hy0wshg/512fx384f"
-        }
-      },
-      {
-        "name": "★ Broken Fang Gloves | Jade",
-        "desc": "These fingerless gloves have been decorated with metal studs and the Operation Broken Fang logo.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjeceN_CKkJRPQmSrQSgye6-jZa8752bz3piuSgmt3_fnRLjhRlOa7Y7h_TNTQmaU_NJGKaLVW2Q7s47NBNOxQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjeceN_CKkJRPQmSrQSgye6-jZa8752bz3piuSgmt3_fnRLjhRlOa7Y7h_TNTQmaU_NJGKaLVW2Q7s47NBNOxQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjecedPBK0NjDgSBuAbr3-u608Dt6p3JyyNjuyBw4SmOmRy0hUxLP-w6gfHLQF-cVfRIH_KGAHLO8MckBBg_XI0/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjecedPBK0NjDgSBuAbr3-u608Dt6p3JyyNjuyBw4SmOmRy0hUxLP-w6gfHLQF-cVfRIH_KGAHLO8MckBBg_XI0/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjecfNPENE9RPQmSrQSgleru08Dq6pmYzSQxuCgh4X3dm0GyhUsfauY7hqDPGArKUa1BTvaKAG2Q7s4bY_S6kQ/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz--YXygECLpxIuNDztIIbAe1c2ZVvR_1LvxrzugZO4vMvMyidi6SMm5n3fzke-0Bwdbu09gOveFwu9luAEbA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz--YXygECLpxIuNDztIIbAe1c2ZVvR_1LvxrzugZO4vMvMyidi6SMm5n3fzke-0Bwdbu09gOveFwu9luAEbA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz--InxgUG5lB89IT6mOofGewQ2Mg3Vrlm9k-nq1JS1tc_KmHFnviggs3mLzhfmhRgfarc5gaeACQLJTfX2aSs/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz--InxgUG5lB89IT6mOofGewQ2Mg3Vrlm9k-nq1JS1tc_KmHFnviggs3mLzhfmhRgfarc5gaeACQLJTfX2aSs/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz-_Yn0nk2LpxIuNDztdoKdcQQ-YV2G_1G7xLi9hMS06JudwHo1uiJxtyrZmRfjhR0abrBqgOveFwvmlADd5g/512fx384f"
         }
       },
       {
         "name": "★ Broken Fang Gloves | Yellow-banded",
+        "id": "59",
         "desc": "These fingerless gloves have been decorated with metal studs and the Operation Broken Fang logo.",
+        "prices": {
+          "Factory New": "1,010.88",
+          "Minimal Wear": "186.60",
+          "Field-Tested": "103.85",
+          "Well-Worn": "91.77",
+          "Battle-Scarred": "72.52"
+        },
         "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -64,130 +49,17 @@
         }
       },
       {
-        "name": "★ Moto Gloves | Smoke Out",
-        "desc": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18l4jeHVyoD0mlOx5UBva2ihLISUcg8-ZF6Cq1m8wr3v05a178_PyXNmuCQh7SvYyhfliBlSLrs4OJQvYKw/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18l4jeHVyoD0mlOx5UBva2ihLISUcg8-ZF6Cq1m8wr3v05a178_PyXNmuCQh7SvYyhfliBlSLrs4OJQvYKw/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18h0juDU-LP5iUazrl1oNjr0cIXAcw9vNFnTrgC_x7y7h8DvvZzIm3U2vHUk5C3ezUe3h0lFcKUx0nl1anS6/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18h0juDU-LP5iUazrl1oNjr0cIXAcw9vNFnTrgC_x7y7h8DvvZzIm3U2vHUk5C3ezUe3h0lFcKUx0nl1anS6/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU1810i__YyoD0mlOx5RdvZT32ItWUI1M_NF_WqFPslebpg5ft786cz3Nr7CUn43mPnUe-h01SLrs4wCLnFVc/512fx384f"
-        }
-      },
-      {
-        "name": "★ Driver Gloves | Rezan the Red",
-        "desc": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60m_7zO6_ummpD78A_3L2TrN-h0Afl-0tpNmH0JYPEdVM2YV_S_FC6l-nu05_q752fy3Jm7z5iuyjF5BKzRg/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60m_7zO6_ummpD78A_3L2TrN-h0Afl-0tpNmH0JYPEdVM2YV_S_FC6l-nu05_q752fy3Jm7z5iuyjF5BKzRg/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60mvLwOq7cqWdQ-sJ0xLCTpt6l0AawrkNvajz7LdXDJFJtMguBqwfokrvn0cC0upTAmCdru3Q8pSGKBwn68BM/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60mvLwOq7cqWdQ-sJ0xLCTpt6l0AawrkNvajz7LdXDJFJtMguBqwfokrvn0cC0upTAmCdru3Q8pSGKBwn68BM/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60n_L1JaLummpD78A_j7iT89zzjlK18kBlMWGncYSTdQ5sYF_X81HtlLzug5XvvsvLwCFq7z5iuygEgAigGg/512fx384f"
-        }
-      },
-      {
-        "name": "★ Hand Wraps | Giraffe",
-        "desc": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgavfdHNNmliMBqHr0--lLi6g56-6M-fyHoy63Rw4i2IzECyiB9JP7Y5gPWdSgjIA6dOGqXTGDOO5y2RKGat/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgavfdHNNmliMBqHr0--lLi6g56-6M-fyHoy63Rw4i2IzECyiB9JP7Y5gPWdSgjIA6dOGqXTGDOO5y2RKGat/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgaucdLMN1tRPQmSrQSgwbq60MK9ucjAyCBjvnYr5XiOzhe_hxEaaOU9hv3LT1nMVvEcGvOBAm2Q7s6bwKScbA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgaucdLMN1tRPQmSrQSgwbq60MK9ucjAyCBjvnYr5XiOzhe_hxEaaOU9hv3LT1nMVvEcGvOBAm2Q7s6bwKScbA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgarcdfTO2liMBqHr0_rx-7ugMe5tJTJnScwvHIl4H6Pmhfm0BkeO-c50PbNGlqWAK0cSaKLGDOO52lc2d52/512fx384f"
-        }
-      },
-      {
-        "name": "★ Sport Gloves | Scarlet Shamagh",
-        "desc": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://csgostash.com/img/missing/gloves.png",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-m5WFk-TgPLTFnlRD7cFOhuDG_ZjKhFWmrBZyYjzzI4OWIFc3ZlqFrgK8w-vog8Tvv5SdzHA3sikit3mJyRGygBlIP_sv26KQteZvVg/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-m5WFk-TgPLTFnlRD7cFOh-zF_Jn4t1i1uRQ5fWD7co6XdABvYV6Bqwfvx-vr1p69u5nMnycy7iB3tCuMyh3mgk5OabBxxavJljSl3x4/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-m5WFk-TgPLTFnlRD7cFOh-zF_Jn4t1i1uRQ5fWD7co6XdABvYV6Bqwfvx-vr1p69u5nMnycy7iB3tCuMyh3mgk5OabBxxavJljSl3x4/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-m5WFk-TgPLTFnlRD7cFOguzA45XKhFWmrBZyMmn1coedcgE6ZVyFqAXvwbi-gJLv7sjPmHBj63YltHvVnRHlhRwfafsv26Jkpi6w5A/512fx384f"
-        }
-      },
-      {
-        "name": "★ Hand Wraps | Desert Shamagh",
-        "desc": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS9rMJV56DgSBuAbr3-7nh5K0tZ7MmHVjuiMjtH7VzEe1hR4abbBs1KacGw-eU60dGqaBBXrO8Mck5vvN90I/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS9rMJV56DgSBuAbr3-7nh5K0tZ7MmHVjuiMjtH7VzEe1hR4abbBs1KacGw-eU60dGqaBBXrO8Mck5vvN90I/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS9vAJl97PDeMqxPplPDthJa7uZ6Yn3JgvXElsH_VmBa0hB9Lb-Y5hPyaTAmWAKNKSKOHVyLVrtktH7lgq_Bq/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS9vAJl97PDeMqxPplPDthJa7uZ6Yn3JgvXElsH_VmBa0hB9Lb-Y5hPyaTAmWAKNKSKOHVyLVrtktH7lgq_Bq/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS97AI0B3DgSBuAbr3-bp08e0tc_Iz3Rrsighs3zZzke20B4YPec816GWTV3KDvNJFPWEAHbO8MckxMQU5p8/512fx384f"
-        }
-      },
-      {
-        "name": "★ Specialist Gloves | Field Agent",
-        "desc": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rd4cJ5ntbN9J7yjRrlrkBtZ2zwJYaVc1M4N1_YqFftwry5hJC77ZvOwSBn63F0tneJm0awn1gSOeTQ2mnL/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rd4cJ5ntbN9J7yjRrlrkBtZ2zwJYaVc1M4N1_YqFftwry5hJC77ZvOwSBn63F0tneJm0awn1gSOeTQ2mnL/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rc7cF4n-T--Y3nj1H68kY_ZG-gcNWRcg89NwrXq1nvweq6gJLqtZqamHJgvyggsyrdzRCwhAYMMLJ0FRJxuw/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rc7cF4n-T--Y3nj1H68kY_ZG-gcNWRcg89NwrXq1nvweq6gJLqtZqamHJgvyggsyrdzRCwhAYMMLJ0FRJxuw/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1RZ7cRnk9bN9J7yjRqw-xJuY2miJ4bGJA9oZw3Q-Fi_levvh8O-uZvLwXBnvCIg4XaLm0bjn1gSOU7OdtYZ/512fx384f"
-        }
-      },
-      {
-        "name": "★ Specialist Gloves | Tiger Strike",
-        "desc": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://csgostash.com/img/missing/gloves.png",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP5gVO8vywwMiukcZiSIw85Ml7Q-1m7ybq8gJC0tMybmHQ1uXUjtHjblkO2hhxPOuRr16aWVxzAUF7Ew8VE/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP4jVC9vh4DPzixc9OLdlM_NFHW_gK5wOy91JXtuprPmHdqvnQntHjYyUG0hUxEPbZr1POdHULeWfKt10KdLg/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP4jVC9vh4DPzixc9OLdlM_NFHW_gK5wOy91JXtuprPmHdqvnQntHjYyUG0hUxEPbZr1POdHULeWfKt10KdLg/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP9jVWisiwwMiukcZiQJw87ZQnU_FPox-a518fvu5_ImiFgvSd043-PnRHmgk1Ma-1n06HIVxzAUPflnTne/512fx384f"
-        }
-      },
-      {
-        "name": "★ Specialist Gloves | Marble Fade",
-        "desc": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://csgostash.com/img/missing/gloves.png",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoD8j1yglB89IT6mOoWSJ1Q_ZVvT_ATrlbi6g8O_uJuazXRiuSR25HeIzh2w1E0db7c7haOACQLJVTTvRq8/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoHwjF2hpiwwMiukcZiUdlM3ZgyCqwK4ku-6jZ6_6svKnCQxuCJ35SncnhPhhh1Ma-08hvbNVxzAUBsRQtkH/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoHwjF2hpiwwMiukcZiUdlM3ZgyCqwK4ku-6jZ6_6svKnCQxuCJ35SncnhPhhh1Ma-08hvbNVxzAUBsRQtkH/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoTwiUKtlB89IT6mOtPEIVBsMFzY-gS7xr3vgZ64uJWayydm6SQi53nYlke10hEaPec61KCACQLJLIXVpjc/512fx384f"
-        }
-      },
-      {
         "name": "★ Hand Wraps | CAUTION!",
+        "id": "72",
         "desc": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "691.65",
+          "Field-Tested": "330.98",
+          "Well-Worn": "296.28",
+          "Battle-Scarred": "212.90"
+        },
         "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -199,104 +71,43 @@
         }
       },
       {
-        "name": "★ Sport Gloves | Nocts",
-        "desc": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+        "name": "★ Hand Wraps | Giraffe",
+        "id": "70",
+        "desc": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "241.07",
+          "Field-Tested": "131.79",
+          "Well-Worn": "120.81",
+          "Battle-Scarred": "89.74"
+        },
         "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLP7LWnn9u5MRjjeyPp92kjVC1-0I6YGH6J47Gc1c4NFDV-wDvxevqgJbvtZmdyyQw63Ir5mGdwUILovLG4A/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLP7LWnn9u5MRjjeyPp92kjVC1-0I6YGH6J47Gc1c4NFDV-wDvxevqgJbvtZmdyyQw63Ir5mGdwUILovLG4A/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLPr7Vn35c18lwmO7Eu9-hjALtqEduMm2mLNDBdVU3Y1-Dr1e5lLvrhZPuvcvKmiBqsilw5i7D30vgeWJUxBU/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLPr7Vn35c18lwmO7Eu9-hjALtqEduMm2mLNDBdVU3Y1-Dr1e5lLvrhZPuvcvKmiBqsilw5i7D30vgeWJUxBU/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLO77QgHJu5MRjjeyPpdim0Azs_0JsZ237Io6WdwFoZ13Y_gTqkru5hJK87Z3ImCAwvyAl5GGdwUIOzPq_1w/512fx384f"
-        }
-      },
-      {
-        "name": "★ Driver Gloves | Snow Leopard",
-        "desc": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWdY781lteXA54vwxgbn-RJsYzvzLdCWegI-aFzZrgW_wufv1sXqupnIyHcwvCQn4niPzBKpwUYbceNDf8I/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWdY781lteXA54vwxgbn-RJsYzvzLdCWegI-aFzZrgW_wufv1sXqupnIyHcwvCQn4niPzBKpwUYbceNDf8I/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWZU7Mxkh9bN9J7yjRq2_kM5NT2md4HAJw87YQnY-QfokL3s05Xp6Z2awSY16XN2sX6MmhO1n1gSOZCgVf4j/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWZU7Mxkh9bN9J7yjRq2_kM5NT2md4HAJw87YQnY-QfokL3s05Xp6Z2awSY16XN2sX6MmhO1n1gSOZCgVf4j/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWNU6dNoteXA54vwxlXj-EVtY2GhcI-XcFRsZ1DU_APtx--918S06svNm3divHRz7CndnxGpwUYbCdJgqAA/512fx384f"
-        }
-      },
-      {
-        "name": "★ Broken Fang Gloves | Needle Point",
-        "desc": "These fingerless gloves have been decorated with metal studs and the Operation Broken Fang logo.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu4ohQ0JwavdcTCJxg2ZlvYr1XtxL25gZ7t7ZzPynQy6XIqtyvUlx2_1Rweb-c50PWXHQqfGeUXS4D0SPQ1/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu4ohQ0JwavdcTCJxg2ZlvYr1XtxL25gZ7t7ZzPynQy6XIqtyvUlx2_1Rweb-c50PWXHQqfGeUXS4D0SPQ1/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu5rhc1JjSceNfXJVMgYVyCrgLtxefmgsW66JidynpmvSYltyzclxDj0h9LZ-Jn0fGWQFWYB7sJQvf6I3SuDw/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu5rhc1JjSceNfXJVMgYVyCrgLtxefmgsW66JidynpmvSYltyzclxDj0h9LZ-Jn0fGWQFWYB7sJQvf6I3SuDw/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu8rhIqKgavdcTCJxg-YA3ZrFW3wOnsgZHp6MvMn3E1syIh43zUl0a1iUxEbe051_TPTgibGeUXS4KBxX88/512fx384f"
-        }
-      },
-      {
-        "name": "★ Moto Gloves | Blood Pressure",
-        "desc": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://csgostash.com/img/missing/gloves.png",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu4ohQ0JwavdcTCJxg9aAmCrFS8w-3qhsLv7pjPmiQ3vnV04S3UmhS1gkxJb-VphfXMHwmfGeUXS9Kiq6d_/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu5rhc1JjSceNfXJVMgZ17Rq1i3l-brhZ-_v57OnHFnuiN2s3eMnxC_0BlPOONo1PDNGw3LA7sJQvdcQ6YuYQ/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu5rhc1JjSceNfXJVMgZ17Rq1i3l-brhZ-_v57OnHFnuiN2s3eMnxC_0BlPOONo1PDNGw3LA7sJQvdcQ6YuYQ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu8rhIqKgavdcTCJxg7MgzS-gTqxOnqjJe07svMyHJhvilz4HqJzUaw1xlEauc70P2eTw7PGeUXS3vxsiqf/512fx384f"
-        }
-      },
-      {
-        "name": "★ Moto Gloves | 3rd Commando Company",
-        "desc": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP5gVO8vywwMiukcZiVIVBqMlvRrAK-x73m1J-0tc-cyCRk7ycl5n3dykDigkxKbu0-hvWZVxzAUN37mJa3/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP5gVO8vywwMiukcZiVIVBqMlvRrAK-x73m1J-0tc-cyCRk7ycl5n3dykDigkxKbu0-hvWZVxzAUN37mJa3/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP4jVC9vh4DPzixc9OLJAZtYljW-VPowufs1sXv6JvPynoyuCQl4nmIykawiR5Pabdu06bKSELeWfJccbdlIg/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP4jVC9vh4DPzixc9OLJAZtYljW-VPowufs1sXv6JvPynoyuCQl4nmIykawiR5Pabdu06bKSELeWfJccbdlIg/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP9jVWisiwwMiukcZjHIQdtZQ7T_AC7l---jJe86Z7PzCNjs3Yj4H-PnR3mhktEbu1s1PacVxzAUGCJ8gNf/512fx384f"
-        }
-      },
-      {
-        "name": "★ Specialist Gloves | Lt. Commander",
-        "desc": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
-        "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP5gVO8vywwMiukcZidcVU2NQnUrAK5yLroh5XqupTKmiNm6Slz4HrclxGwghpNOuNu06eaVxzAULicmv7r/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP5gVO8vywwMiukcZidcVU2NQnUrAK5yLroh5XqupTKmiNm6Slz4HrclxGwghpNOuNu06eaVxzAULicmv7r/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP4jVC9vh4DPzixc9OLIVQ_YQrX-VS2k-69jJK1usjJnSAxvSErsXqIy0CziUwePeI9hPOaSkLeWfIx1bbvqw/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP4jVC9vh4DPzixc9OLIVQ_YQrX-VS2k-69jJK1usjJnSAxvSErsXqIy0CziUwePeI9hPOaSkLeWfIx1bbvqw/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP9jVWisiwwMiukcZiTegc3M13T_1e_w-m-hcW-vcuYmHUwuiN3sXvbzECygElOaO09h6HLVxzAUEv_VwCm/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgavfdHNNmliMBqHr0--lLi6g56-6M-fyHoy63Rw4i2IzECyiB9JP7Y5gPWdSgjIA6dOGqXTGDOO5y2RKGat/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgavfdHNNmliMBqHr0--lLi6g56-6M-fyHoy63Rw4i2IzECyiB9JP7Y5gPWdSgjIA6dOGqXTGDOO5y2RKGat/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgaucdLMN1tRPQmSrQSgwbq60MK9ucjAyCBjvnYr5XiOzhe_hxEaaOU9hv3LT1nMVvEcGvOBAm2Q7s6bwKScbA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgaucdLMN1tRPQmSrQSgwbq60MK9ucjAyCBjvnYr5XiOzhe_hxEaaOU9hv3LT1nMVvEcGvOBAm2Q7s6bwKScbA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp3i-vT_I_Kj12mqhU6NgarcdfTO2liMBqHr0_rx-7ugMe5tJTJnScwvHIl4H6Pmhfm0BkeO-c50PbNGlqWAK0cSaKLGDOO52lc2d52/512fx384f"
         }
       },
       {
         "name": "★ Sport Gloves | Big Game",
+        "id": "62",
         "desc": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "732.10",
+          "Field-Tested": "390.00",
+          "Well-Worn": "358.12",
+          "Battle-Scarred": "249.98"
+        },
         "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://csgostash.com/img/missing/gloves.png",
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-gY6fkuXLP7LWnn9u5MRjjeyPo9z02FXm-kdvMD-nco7HIVI_NF7R81nrkrjvgcTp6J6anHJruCAg4WGdwUKPP_nhrg/512fx384f",
           "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-gY6fkuXLP7LWnn9u5MRjjeyPo9z02FXm-kdvMD-nco7HIVI_NF7R81nrkrjvgcTp6J6anHJruCAg4WGdwUKPP_nhrg/512fx384f",
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-gY6fkuXLPr7Vn35c18lwmO7Eu4rzjgGyrRdpMjzzJ4XHewE4NwmE81e9xb3qhZK0uJ7BmHNivCElt3bD30vgsOif__s/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-gY6fkuXLPr7Vn35c18lwmO7Eu4rzjgGyrRdpMjzzJ4XHewE4NwmE81e9xb3qhZK0uJ7BmHNivCElt3bD30vgsOif__s/512fx384f",
@@ -304,40 +115,83 @@
         }
       },
       {
-        "name": "★ Driver Gloves | Queen Jaguar",
-        "desc": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+        "name": "★ Sport Gloves | Scarlet Shamagh",
+        "id": "63",
+        "desc": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "699.98",
+          "Field-Tested": "360.00",
+          "Well-Worn": "301.90",
+          "Battle-Scarred": "212.81"
+        },
         "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRd4cJ5ntbN9J7yjRqy_ENqZWD2ctWUIVU2aF_W-Fa5xujmg8K-uM6dyydhuHYn5XrVnUTmn1gSOYiGVtO2/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRd4cJ5ntbN9J7yjRqy_ENqZWD2ctWUIVU2aF_W-Fa5xujmg8K-uM6dyydhuHYn5XrVnUTmn1gSOYiGVtO2/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRc7cF4n-T--Y3nj1H6-ktsMW-hdYeVdQI6NQ6E-gO_xebn1pK4upzKnSEwsiYj4XuOyke20wYMMLINF5AHkQ/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRc7cF4n-T--Y3nj1H6-ktsMW-hdYeVdQI6NQ6E-gO_xebn1pK4upzKnSEwsiYj4XuOyke20wYMMLINF5AHkQ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRZ7cRnk9bN9J7yjRq1_kJkajz6dYHDIAU9Yg3Y81bolenuhMTuuMmcwCYyuiB3tHjcmR2zn1gSOb4CKD11/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-m5WFk-TgPLTFnlRD7cFOhuDG_ZjKhFWmrBZyYjzzI4OWIFc3ZlqFrgK8w-vog8Tvv5SdzHA3sikit3mJyRGygBlIP_sv26KQteZvVg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-m5WFk-TgPLTFnlRD7cFOhuDG_ZjKhFWmrBZyYjzzI4OWIFc3ZlqFrgK8w-vog8Tvv5SdzHA3sikit3mJyRGygBlIP_sv26KQteZvVg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-m5WFk-TgPLTFnlRD7cFOh-zF_Jn4t1i1uRQ5fWD7co6XdABvYV6Bqwfvx-vr1p69u5nMnycy7iB3tCuMyh3mgk5OabBxxavJljSl3x4/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-m5WFk-TgPLTFnlRD7cFOh-zF_Jn4t1i1uRQ5fWD7co6XdABvYV6Bqwfvx-vr1p69u5nMnycy7iB3tCuMyh3mgk5OabBxxavJljSl3x4/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO-m5WFk-TgPLTFnlRD7cFOguzA45XKhFWmrBZyMmn1coedcgE6ZVyFqAXvwbi-gJLv7sjPmHBj63YltHvVnRHlhRwfafsv26Jkpi6w5A/512fx384f"
         }
       },
       {
-        "name": "★ Hand Wraps | Constrictor",
-        "desc": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+        "name": "★ Specialist Gloves | Field Agent",
+        "id": "54",
+        "desc": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "1,064.10",
+          "Field-Tested": "478.83",
+          "Well-Worn": "345.00",
+          "Battle-Scarred": "180.02"
+        },
         "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS9rMJV56DgSBuAbr37rth8S-v8_LnXpl6SRz4X7UzEC1hxgeauRng6ScHAqXAvMfHKGFDiLO8MckvMDT7VQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS9rMJV56DgSBuAbr37rth8S-v8_LnXpl6SRz4X7UzEC1hxgeauRng6ScHAqXAvMfHKGFDiLO8MckvMDT7VQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS9vAJl97PDeMqxPplPDsg5O77ZybzXRiuicktnrVl0Digx9La7Y51PXNQF-eDvFASaGCD3GCrtktHwUCfwgJ/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS9vAJl97PDeMqxPplPDsg5O77ZybzXRiuicktnrVl0Digx9La7Y51PXNQF-eDvFASaGCD3GCrtktHwUCfwgJ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS97AI0B3DgSBuAbr37_r0Z7tvZqdz3FmuSMms37Znhe01REfPbdqhvbNG1qeA6EbSKWDVHPO8Mcknz4_Kg0/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rd4cJ5ntbN9J7yjRrlrkBtZ2zwJYaVc1M4N1_YqFftwry5hJC77ZvOwSBn63F0tneJm0awn1gSOeTQ2mnL/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rd4cJ5ntbN9J7yjRrlrkBtZ2zwJYaVc1M4N1_YqFftwry5hJC77ZvOwSBn63F0tneJm0awn1gSOeTQ2mnL/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rc7cF4n-T--Y3nj1H68kY_ZG-gcNWRcg89NwrXq1nvweq6gJLqtZqamHJgvyggsyrdzRCwhAYMMLJ0FRJxuw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1Rc7cF4n-T--Y3nj1H68kY_ZG-gcNWRcg89NwrXq1nvweq6gJLqtZqamHJgvyggsyrdzRCwhAYMMLJ0FRJxuw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Tn1RZ7cRnk9bN9J7yjRqw-xJuY2miJ4bGJA9oZw3Q-Fi_levvh8O-uZvLwXBnvCIg4XaLm0bjn1gSOU7OdtYZ/512fx384f"
+        }
+      },
+      {
+        "name": "★ Sport Gloves | Slingshot",
+        "id": "61",
+        "desc": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "No Recent Price",
+          "Field-Tested": "913.93",
+          "Well-Worn": "713.31",
+          "Battle-Scarred": "295.93"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_ummJW4NFOhujT8om72wWw-EE-amCgJISRdQJqYgvT8wXol-7mjJ_ouZ6bnSFiuCQr4Hfbywv330-uIHwuiA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_ummJW4NFOhujT8om72wWw-EE-amCgJISRdQJqYgvT8wXol-7mjJ_ouZ6bnSFiuCQr4Hfbywv330-uIHwuiA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_um25V4dB8teXA54vwxgLh_EU9MG-mcIGRcVU7aF2FqAS-x72708S7vp3IwSFjvygr5HffmkCpwUYbdJtyCsg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_um25V4dB8teXA54vwxgLh_EU9MG-mcIGRcVU7aF2FqAS-x72708S7vp3IwSFjvygr5HffmkCpwUYbdJtyCsg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_unm5Q_txOhujT8om70QbjqUdlaj2ndYOXJlBoNwuEqwDsx-_ngZXvtZzLzyAwuXEjsCnVnAv3309hy0wshg/512fx384f"
         }
       },
       {
         "name": "★ Broken Fang Gloves | Unhinged",
+        "id": "60",
         "desc": "These fingerless gloves have been decorated with metal studs and the Operation Broken Fang logo.",
+        "prices": {
+          "Factory New": "876.16",
+          "Minimal Wear": "134.29",
+          "Field-Tested": "77.86",
+          "Well-Worn": "68.88",
+          "Battle-Scarred": "66.08"
+        },
         "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
@@ -349,42 +203,354 @@
         }
       },
       {
-        "name": "★ Driver Gloves | Black Tie",
+        "name": "★ Driver Gloves | Snow Leopard",
+        "id": "57",
         "desc": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "No Recent Price",
+          "Field-Tested": "803.40",
+          "Well-Worn": "No Recent Price",
+          "Battle-Scarred": "519.34"
+        },
         "lore": "This item has no Lore",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz--YXygECLpxIuNDztIIbAe1c2ZVvR_1LvxrzugZO4vMvMyidi6SMm5n3fzke-0Bwdbu09gOveFwu9luAEbA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz--YXygECLpxIuNDztIIbAe1c2ZVvR_1LvxrzugZO4vMvMyidi6SMm5n3fzke-0Bwdbu09gOveFwu9luAEbA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz--InxgUG5lB89IT6mOofGewQ2Mg3Vrlm9k-nq1JS1tc_KmHFnviggs3mLzhfmhRgfarc5gaeACQLJTfX2aSs/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz--InxgUG5lB89IT6mOofGewQ2Mg3Vrlm9k-nq1JS1tc_KmHFnviggs3mLzhfmhRgfarc5gaeACQLJTfX2aSs/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_8i_gIODkvPLMbfQlWBu_814nuz-_Yn0nk2LpxIuNDztdoKdcQQ-YV2G_1G7xLi9hMS06JudwHo1uiJxtyrZmRfjhR0abrBqgOveFwvmlADd5g/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWdY781lteXA54vwxgbn-RJsYzvzLdCWegI-aFzZrgW_wufv1sXqupnIyHcwvCQn4niPzBKpwUYbceNDf8I/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWdY781lteXA54vwxgbn-RJsYzvzLdCWegI-aFzZrgW_wufv1sXqupnIyHcwvCQn4niPzBKpwUYbceNDf8I/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWZU7Mxkh9bN9J7yjRq2_kM5NT2md4HAJw87YQnY-QfokL3s05Xp6Z2awSY16XN2sX6MmhO1n1gSOZCgVf4j/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWZU7Mxkh9bN9J7yjRq2_kM5NT2md4HAJw87YQnY-QfokL3s05Xp6Z2awSY16XN2sX6MmhO1n1gSOZCgVf4j/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWNU6dNoteXA54vwxlXj-EVtY2GhcI-XcFRsZ1DU_APtx--918S06svNm3divHRz7CndnxGpwUYbCdJgqAA/512fx384f"
+        }
+      },
+      {
+        "name": "★ Specialist Gloves | Tiger Strike",
+        "id": "53",
+        "desc": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "No Recent Price",
+          "Field-Tested": "770.92",
+          "Well-Worn": "520.10",
+          "Battle-Scarred": "211.76"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://csgostash.com/img/missing/gloves.png",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP5gVO8vywwMiukcZiSIw85Ml7Q-1m7ybq8gJC0tMybmHQ1uXUjtHjblkO2hhxPOuRr16aWVxzAUF7Ew8VE/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP4jVC9vh4DPzixc9OLdlM_NFHW_gK5wOy91JXtuprPmHdqvnQntHjYyUG0hUxEPbZr1POdHULeWfKt10KdLg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP4jVC9vh4DPzixc9OLdlM_NFHW_gK5wOy91JXtuprPmHdqvnQntHjYyUG0hUxEPbZr1POdHULeWfKt10KdLg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDK_YkW5D18pji-fG8LP9jVWisiwwMiukcZiQJw87ZQnU_FPox-a518fvu5_ImiFgvSd043-PnRHmgk1Ma-1n06HIVxzAUPflnTne/512fx384f"
+        }
+      },
+      {
+        "name": "★ Moto Gloves | Blood Pressure",
+        "id": "67",
+        "desc": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "529.93",
+          "Field-Tested": "215.00",
+          "Well-Worn": "170.26",
+          "Battle-Scarred": "95.77"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu4ohQ0JwavdcTCJxg9aAmCrFS8w-3qhsLv7pjPmiQ3vnV04S3UmhS1gkxJb-VphfXMHwmfGeUXS9Kiq6d_/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu4ohQ0JwavdcTCJxg9aAmCrFS8w-3qhsLv7pjPmiQ3vnV04S3UmhS1gkxJb-VphfXMHwmfGeUXS9Kiq6d_/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu5rhc1JjSceNfXJVMgZ17Rq1i3l-brhZ-_v57OnHFnuiN2s3eMnxC_0BlPOONo1PDNGw3LA7sJQvdcQ6YuYQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu5rhc1JjSceNfXJVMgZ17Rq1i3l-brhZ-_v57OnHFnuiN2s3eMnxC_0BlPOONo1PDNGw3LA7sJQvdcQ6YuYQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjQhGle5sN4iOzTyp7wjGu8rhIqKgavdcTCJxg7MgzS-gTqxOnqjJe07svMyHJhvilz4HqJzUaw1xlEauc70P2eTw7PGeUXS3vxsiqf/512fx384f"
+        }
+      },
+      {
+        "name": "★ Hand Wraps | Constrictor",
+        "id": "71",
+        "desc": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+        "prices": {
+          "Factory New": "399.90",
+          "Minimal Wear": "127.09",
+          "Field-Tested": "88.89",
+          "Well-Worn": "88.74",
+          "Battle-Scarred": "75.52"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS9rMJV56DgSBuAbr37rth8S-v8_LnXpl6SRz4X7UzEC1hxgeauRng6ScHAqXAvMfHKGFDiLO8MckvMDT7VQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS9rMJV56DgSBuAbr37rth8S-v8_LnXpl6SRz4X7UzEC1hxgeauRng6ScHAqXAvMfHKGFDiLO8MckvMDT7VQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS9vAJl97PDeMqxPplPDsg5O77ZybzXRiuicktnrVl0Digx9La7Y51PXNQF-eDvFASaGCD3GCrtktHwUCfwgJ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS9vAJl97PDeMqxPplPDsg5O77ZybzXRiuicktnrVl0Digx9La7Y51PXNQF-eDvFASaGCD3GCrtktHwUCfwgJ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpihOjK8J_-gVqLpAE9PT6mS97AI0B3DgSBuAbr37_r0Z7tvZqdz3FmuSMms37Znhe01REfPbdqhvbNG1qeA6EbSKWDVHPO8Mcknz4_Kg0/512fx384f"
+        }
+      },
+      {
+        "name": "★ Moto Gloves | 3rd Commando Company",
+        "id": "68",
+        "desc": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+        "prices": {
+          "Factory New": "778.52",
+          "Minimal Wear": "164.94",
+          "Field-Tested": "93.93",
+          "Well-Worn": "84.23",
+          "Battle-Scarred": "67.16"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP5gVO8vywwMiukcZiVIVBqMlvRrAK-x73m1J-0tc-cyCRk7ycl5n3dykDigkxKbu0-hvWZVxzAUN37mJa3/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP5gVO8vywwMiukcZiVIVBqMlvRrAK-x73m1J-0tc-cyCRk7ycl5n3dykDigkxKbu0-hvWZVxzAUN37mJa3/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP4jVC9vh4DPzixc9OLJAZtYljW-VPowufs1sXv6JvPynoyuCQl4nmIykawiR5Pabdu06bKSELeWfJccbdlIg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP4jVC9vh4DPzixc9OLJAZtYljW-VPowufs1sXv6JvPynoyuCQl4nmIykawiR5Pabdu06bKSELeWfJccbdlIg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjem2ZQ5sF-teLS_rP9jVWisiwwMiukcZjHIQdtZQ7T_AC7l---jJe86Z7PzCNjs3Yj4H-PnR3mhktEbu1s1PacVxzAUGCJ8gNf/512fx384f"
+        }
+      },
+      {
+        "name": "★ Moto Gloves | Finish Line",
+        "id": "65",
+        "desc": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "552.00",
+          "Field-Tested": "247.06",
+          "Well-Worn": "170.00",
+          "Battle-Scarred": "103.22"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9rMJV56DgSBuAbr37rv1JC56snLnScw7HIgt3qJm0O_1UlIOrM80fGaSVuZBqRMHvSLUCHO8MckmTbq2rc/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9rMJV56DgSBuAbr37rv1JC56snLnScw7HIgt3qJm0O_1UlIOrM80fGaSVuZBqRMHvSLUCHO8MckmTbq2rc/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9vAJl97PDeMqxPplPDthp_pupqYzSc1v3EltHnUn0HjiUlEa7Q91P2eSg3PVqIbHKLQBCCBrtktH8fcCo7D/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS9vAJl97PDeMqxPplPDthp_pupqYzSc1v3EltHnUn0HjiUlEa7Q91P2eSg3PVqIbHKLQBCCBrtktH8fcCo7D/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDLjZk2ha7ddOjOXA8rP3hEGxlBQuNjytS97AI0B3DgSBuAbr372705e4uZuawXJjvXQl5iyImhyz001Pa7Rp1_ydSVWcAadBTfGDD3rO8MckHi5TsbY/512fx384f"
+        }
+      },
+      {
+        "name": "★ Driver Gloves | Queen Jaguar",
+        "id": "56",
+        "desc": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+        "prices": {
+          "Factory New": "1,389.43",
+          "Minimal Wear": "229.74",
+          "Field-Tested": "117.65",
+          "Well-Worn": "96.78",
+          "Battle-Scarred": "78.43"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRd4cJ5ntbN9J7yjRqy_ENqZWD2ctWUIVU2aF_W-Fa5xujmg8K-uM6dyydhuHYn5XrVnUTmn1gSOYiGVtO2/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRd4cJ5ntbN9J7yjRqy_ENqZWD2ctWUIVU2aF_W-Fa5xujmg8K-uM6dyydhuHYn5XrVnUTmn1gSOYiGVtO2/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRc7cF4n-T--Y3nj1H6-ktsMW-hdYeVdQI6NQ6E-gO_xebn1pK4upzKnSEwsiYj4XuOyke20wYMMLINF5AHkQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRc7cF4n-T--Y3nj1H6-ktsMW-hdYeVdQI6NQ6E-gO_xebn1pK4upzKnSEwsiYj4XuOyke20wYMMLINF5AHkQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqO7xP7fegVRZ7cRnk9bN9J7yjRq1_kJkajz6dYHDIAU9Yg3Y81bolenuhMTuuMmcwCYyuiB3tHjcmR2zn1gSOb4CKD11/512fx384f"
+        }
+      },
+      {
+        "name": "★ Driver Gloves | Rezan the Red",
+        "id": "55",
+        "desc": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+        "prices": {
+          "Factory New": "958.61",
+          "Minimal Wear": "207.00",
+          "Field-Tested": "96.04",
+          "Well-Worn": "89.83",
+          "Battle-Scarred": "74.49"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60m_7zO6_ummpD78A_3L2TrN-h0Afl-0tpNmH0JYPEdVM2YV_S_FC6l-nu05_q752fy3Jm7z5iuyjF5BKzRg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60m_7zO6_ummpD78A_3L2TrN-h0Afl-0tpNmH0JYPEdVM2YV_S_FC6l-nu05_q752fy3Jm7z5iuyjF5BKzRg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60mvLwOq7cqWdQ-sJ0xLCTpt6l0AawrkNvajz7LdXDJFJtMguBqwfokrvn0cC0upTAmCdru3Q8pSGKBwn68BM/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60mvLwOq7cqWdQ-sJ0xLCTpt6l0AawrkNvajz7LdXDJFJtMguBqwfokrvn0cC0upTAmCdru3Q8pSGKBwn68BM/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_tmslY60n_L1JaLummpD78A_j7iT89zzjlK18kBlMWGncYSTdQ5sYF_X81HtlLzug5XvvsvLwCFq7z5iuygEgAigGg/512fx384f"
+        }
+      },
+      {
+        "name": "★ Specialist Gloves | Lt. Commander",
+        "id": "52",
+        "desc": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "564.05",
+          "Field-Tested": "335.08",
+          "Well-Worn": "283.99",
+          "Battle-Scarred": "155.50"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP5gVO8vywwMiukcZidcVU2NQnUrAK5yLroh5XqupTKmiNm6Slz4HrclxGwghpNOuNu06eaVxzAULicmv7r/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP5gVO8vywwMiukcZidcVU2NQnUrAK5yLroh5XqupTKmiNm6Slz4HrclxGwghpNOuNu06eaVxzAULicmv7r/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP4jVC9vh4DPzixc9OLIVQ_YQrX-VS2k-69jJK1usjJnSAxvSErsXqIy0CziUwePeI9hPOaSkLeWfIx1bbvqw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP4jVC9vh4DPzixc9OLIVQ_YQrX-VS2k-69jJK1usjJnSAxvSErsXqIy0CziUwePeI9hPOaSkLeWfIx1bbvqw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKnYlWBC6dJOiejM-rP9jVWisiwwMiukcZiTegc3M13T_1e_w-m-hcW-vcuYmHUwuiN3sXvbzECygElOaO09h6HLVxzAUEv_VwCm/512fx384f"
+        }
+      },
+      {
+        "name": "★ Broken Fang Gloves | Jade",
+        "id": "49",
+        "desc": "These fingerless gloves have been decorated with metal studs and the Operation Broken Fang logo.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "259.64",
+          "Field-Tested": "133.01",
+          "Well-Worn": "115.30",
+          "Battle-Scarred": "95.00"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjeceN_CKkJRPQmSrQSgye6-jZa8752bz3piuSgmt3_fnRLjhRlOa7Y7h_TNTQmaU_NJGKaLVW2Q7s47NBNOxQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjeceN_CKkJRPQmSrQSgye6-jZa8752bz3piuSgmt3_fnRLjhRlOa7Y7h_TNTQmaU_NJGKaLVW2Q7s47NBNOxQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjecedPBK0NjDgSBuAbr3-u608Dt6p3JyyNjuyBw4SmOmRy0hUxLP-w6gfHLQF-cVfRIH_KGAHLO8MckBBg_XI0/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjecedPBK0NjDgSBuAbr3-u608Dt6p3JyyNjuyBw4SmOmRy0hUxLP-w6gfHLQF-cVfRIH_KGAHLO8MckBBg_XI0/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhteTE4Y35gVeLrAE5NjecfNPENE9RPQmSrQSgleru08Dq6pmYzSQxuCgh4X3dm0GyhUsfauY7hqDPGArKUa1BTvaKAG2Q7s4bY_S6kQ/512fx384f"
+        }
+      },
+      {
+        "name": "★ Specialist Gloves | Marble Fade",
+        "id": "51",
+        "desc": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "1,330.12",
+          "Field-Tested": "399.05",
+          "Well-Worn": "271.07",
+          "Battle-Scarred": "161.15"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoD8j1yglB89IT6mOoWSJ1Q_ZVvT_ATrlbi6g8O_uJuazXRiuSR25HeIzh2w1E0db7c7haOACQLJVTTvRq8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoD8j1yglB89IT6mOoWSJ1Q_ZVvT_ATrlbi6g8O_uJuazXRiuSR25HeIzh2w1E0db7c7haOACQLJVTTvRq8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoHwjF2hpiwwMiukcZiUdlM3ZgyCqwK4ku-6jZ6_6svKnCQxuCJ35SncnhPhhh1Ma-08hvbNVxzAUBsRQtkH/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoHwjF2hpiwwMiukcZiUdlM3ZgyCqwK4ku-6jZ6_6svKnCQxuCJ35SncnhPhhh1Ma-08hvbNVxzAUBsRQtkH/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDLbQhGld7fp3i-3EyoTwiUKtlB89IT6mOtPEIVBsMFzY-gS7xr3vgZ64uJWayydm6SQi53nYlke10hEaPec61KCACQLJLIXVpjc/512fx384f"
+        }
+      },
+      {
+        "name": "★ Moto Gloves | Smoke Out",
+        "id": "66",
+        "desc": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "615.22",
+          "Field-Tested": "258.99",
+          "Well-Worn": "195.93",
+          "Battle-Scarred": "98.53"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18l4jeHVyoD0mlOx5UBva2ihLISUcg8-ZF6Cq1m8wr3v05a178_PyXNmuCQh7SvYyhfliBlSLrs4OJQvYKw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18l4jeHVyoD0mlOx5UBva2ihLISUcg8-ZF6Cq1m8wr3v05a178_PyXNmuCQh7SvYyhfliBlSLrs4OJQvYKw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18h0juDU-LP5iUazrl1oNjr0cIXAcw9vNFnTrgC_x7y7h8DvvZzIm3U2vHUk5C3ezUe3h0lFcKUx0nl1anS6/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18h0juDU-LP5iUazrl1oNjr0cIXAcw9vNFnTrgC_x7y7h8DvvZzIm3U2vHUk5C3ezUe3h0lFcKUx0nl1anS6/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU1810i__YyoD0mlOx5RdvZT32ItWUI1M_NF_WqFPslebpg5ft786cz3Nr7CUn43mPnUe-h01SLrs4wCLnFVc/512fx384f"
+        }
+      },
+      {
+        "name": "★ Broken Fang Gloves | Needle Point",
+        "id": "50",
+        "desc": "These fingerless gloves have been decorated with metal studs and the Operation Broken Fang logo.",
+        "prices": {
+          "Factory New": "309.74",
+          "Minimal Wear": "89.36",
+          "Field-Tested": "67.47",
+          "Well-Worn": "64.66",
+          "Battle-Scarred": "55.00"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu4ohQ0JwavdcTCJxg2ZlvYr1XtxL25gZ7t7ZzPynQy6XIqtyvUlx2_1Rweb-c50PWXHQqfGeUXS4D0SPQ1/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu4ohQ0JwavdcTCJxg2ZlvYr1XtxL25gZ7t7ZzPynQy6XIqtyvUlx2_1Rweb-c50PWXHQqfGeUXS4D0SPQ1/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu5rhc1JjSceNfXJVMgYVyCrgLtxefmgsW66JidynpmvSYltyzclxDj0h9LZ-Jn0fGWQFWYB7sJQvf6I3SuDw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu5rhc1JjSceNfXJVMgYVyCrgLtxefmgsW66JidynpmvSYltyzclxDj0h9LZ-Jn0fGWQFWYB7sJQvf6I3SuDw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhte_N-p70hGu8rhIqKgavdcTCJxg-YA3ZrFW3wOnsgZHp6MvMn3E1syIh43zUl0a1iUxEbe051_TPTgibGeUXS4KBxX88/512fx384f"
+        }
+      },
+      {
+        "name": "★ Hand Wraps | Desert Shamagh",
+        "id": "69",
+        "desc": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+        "prices": {
+          "Factory New": "424.63",
+          "Minimal Wear": "115.00",
+          "Field-Tested": "78.75",
+          "Well-Worn": "79.50",
+          "Battle-Scarred": "76.24"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS9rMJV56DgSBuAbr3-7nh5K0tZ7MmHVjuiMjtH7VzEe1hR4abbBs1KacGw-eU60dGqaBBXrO8Mck5vvN90I/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS9rMJV56DgSBuAbr3-7nh5K0tZ7MmHVjuiMjtH7VzEe1hR4abbBs1KacGw-eU60dGqaBBXrO8Mck5vvN90I/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS9vAJl97PDeMqxPplPDthJa7uZ6Yn3JgvXElsH_VmBa0hB9Lb-Y5hPyaTAmWAKNKSKOHVyLVrtktH7lgq_Bq/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS9vAJl97PDeMqxPplPDthJa7uZ6Yn3JgvXElsH_VmBa0hB9Lb-Y5hPyaTAmWAKNKSKOHVyLVrtktH7lgq_Bq/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8jyMrnDn2hu4MpkhO3S4YP6nFyLpAE9PT6mS97AI0B3DgSBuAbr3-bp08e0tc_Iz3Rrsighs3zZzke20B4YPec816GWTV3KDvNJFPWEAHbO8MckxMQU5p8/512fx384f"
+        }
+      },
+      {
+        "name": "★ Sport Gloves | Nocts",
+        "id": "64",
+        "desc": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+        "prices": {
+          "Factory New": "No Recent Price",
+          "Minimal Wear": "968.21",
+          "Field-Tested": "366.05",
+          "Well-Worn": "305.93",
+          "Battle-Scarred": "211.92"
+        },
+        "lore": "This item has no Lore",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLP7LWnn9u5MRjjeyPp92kjVC1-0I6YGH6J47Gc1c4NFDV-wDvxevqgJbvtZmdyyQw63Ir5mGdwUILovLG4A/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLP7LWnn9u5MRjjeyPp92kjVC1-0I6YGH6J47Gc1c4NFDV-wDvxevqgJbvtZmdyyQw63Ir5mGdwUILovLG4A/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLPr7Vn35c18lwmO7Eu9-hjALtqEduMm2mLNDBdVU3Y1-Dr1e5lLvrhZPuvcvKmiBqsilw5i7D30vgeWJUxBU/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLPr7Vn35c18lwmO7Eu9-hjALtqEduMm2mLNDBdVU3Y1-Dr1e5lLvrhZPuvcvKmiBqsilw5i7D30vgeWJUxBU/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO8lYeeluXLO77QgHJu5MRjjeyPpdim0Azs_0JsZ237Io6WdwFoZ13Y_gTqkru5hJK87Z3ImCAwvyAl5GGdwUIOzPq_1w/512fx384f"
         }
       }
     ],
     "Covert Skins": [
       {
-        "name": "M4A1-S | Printstream",
-        "desc": "It has been custom painted with a stark black and white design and finished with pearlescent highlights.",
-        "lore": "WHITE_1; BLACK_1; PEARLESCENT_1; SILENCED_1;",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITBhGJf_NZlmOzA-LP5gVO8vywwMiukcZice1M9ZViD-ATrle7v15O46cifzHFhunZ243yInxW-10sZOrBp1qTLVxzAUNxEoFAP/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITBhGJf_NZlmOzA-LP5gVO8vywwMiukcZice1M9ZViD-ATrle7v15O46cifzHFhunZ243yInxW-10sZOrBp1qTLVxzAUNxEoFAP/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITBhGJf_NZlmOzA-LP4jVC9vh4DPzixc9OLI1dsNQ3Z_1i2kOjsgse7uZ_Ay3Nm7iFx7CncyRe-hExNZ-ZnhP3MTkLeWfLq5YrPNg/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITBhGJf_NZlmOzA-LP4jVC9vh4DPzixc9OLI1dsNQ3Z_1i2kOjsgse7uZ_Ay3Nm7iFx7CncyRe-hExNZ-ZnhP3MTkLeWfLq5YrPNg/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITBhGJf_NZlmOzA-LP9jVWisiwwMiukcZjDcwA9ZF_Z81brk-a6hJHouprKyXBkuSgktnrYykDhiElJbeZv1vOWVxzAUNZ56P8B/512fx384f"
-        }
-      },
-      {
         "name": "Glock-18 | Neo-Noir",
+        "id": "1302",
         "desc": "It has been custom painted with a stylized blue-magenta woman over a grayscale background.",
+        "prices": {
+          "StatTrak Factory New": "225.49",
+          "StatTrak Minimal Wear": "74.07",
+          "StatTrak Field-Tested": "30.65",
+          "StatTrak Well-Worn": "20.77",
+          "StatTrak Battle-Scarred": "17.45",
+          "Factory New": "44.99",
+          "Minimal Wear": "19.16",
+          "Field-Tested": "9.92",
+          "Well-Worn": "8.42",
+          "Battle-Scarred": "7.51"
+        },
         "lore": "\"Things were starting to turn and she began to feel hope—then she looked up\"",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -394,14 +560,53 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJmo-Chcj5Nr_Yg2Zu5MRjjeyPpo-s2Vbh_kVoZzjyJI6UcQZtNVyFrwO2yOu7g5e6vZ_AwXs1uiYlt2GdwUJ-bcD0Iw/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJmo-Chcj8NrrHj1Rd6dd2j6eVp9v33VW2_BZqZWH2d4_AIAU-aQzY_1e8xO-7gcXo6JXLzCE1vCZ0-z-DyEXdmlcV/512fx384f"
         }
+      },
+      {
+        "name": "M4A1-S | Printstream",
+        "id": "1301",
+        "desc": "It has been custom painted with a stark black and white design and finished with pearlescent highlights.",
+        "prices": {
+          "StatTrak Factory New": "826.54",
+          "StatTrak Minimal Wear": "399.37",
+          "StatTrak Field-Tested": "208.34",
+          "StatTrak Well-Worn": "180.90",
+          "StatTrak Battle-Scarred": "137.97",
+          "Factory New": "361.50",
+          "Minimal Wear": "228.31",
+          "Field-Tested": "133.97",
+          "Well-Worn": "120.20",
+          "Battle-Scarred": "88.60"
+        },
+        "lore": "WHITE_1; BLACK_1; PEARLESCENT_1; SILENCED_1;",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITBhGJf_NZlmOzA-LP5gVO8vywwMiukcZice1M9ZViD-ATrle7v15O46cifzHFhunZ243yInxW-10sZOrBp1qTLVxzAUNxEoFAP/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITBhGJf_NZlmOzA-LP5gVO8vywwMiukcZice1M9ZViD-ATrle7v15O46cifzHFhunZ243yInxW-10sZOrBp1qTLVxzAUNxEoFAP/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITBhGJf_NZlmOzA-LP4jVC9vh4DPzixc9OLI1dsNQ3Z_1i2kOjsgse7uZ_Ay3Nm7iFx7CncyRe-hExNZ-ZnhP3MTkLeWfLq5YrPNg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITBhGJf_NZlmOzA-LP4jVC9vh4DPzixc9OLI1dsNQ3Z_1i2kOjsgse7uZ_Ay3Nm7iFx7CncyRe-hExNZ-ZnhP3MTkLeWfLq5YrPNg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITBhGJf_NZlmOzA-LP9jVWisiwwMiukcZjDcwA9ZF_Z81brk-a6hJHouprKyXBkuSgktnrYykDhiElJbeZv1vOWVxzAUNZ56P8B/512fx384f"
+        }
       }
     ],
     "Classified Skins": [
       {
         "name": "Five-SeveN | Fairy Tale",
+        "id": "1298",
         "desc": "It has been custom painted with a princess, unicorns, beautiful flowers, and a castle in the distance.",
+        "prices": {
+          "StatTrak Factory New": "76.31",
+          "StatTrak Minimal Wear": "34.06",
+          "StatTrak Field-Tested": "18.94",
+          "StatTrak Well-Worn": "14.00",
+          "StatTrak Battle-Scarred": "14.51",
+          "Factory New": "32.56",
+          "Minimal Wear": "21.78",
+          "Field-Tested": "14.30",
+          "Well-Worn": "10.48",
+          "Battle-Scarred": "9.71"
+        },
         "lore": "\"Today's gonna be a good day—I can just feel it\"",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -414,9 +619,21 @@
       },
       {
         "name": "USP-S | Monster Mashup",
+        "id": "1300",
         "desc": "A custom paint job featuring a green monster and other icons inspired by popular urban art has been applied. The silencer has a pearlescent finish.",
+        "prices": {
+          "StatTrak Factory New": "66.67",
+          "StatTrak Minimal Wear": "40.08",
+          "StatTrak Field-Tested": "20.28",
+          "StatTrak Well-Worn": "20.47",
+          "StatTrak Battle-Scarred": "16.07",
+          "Factory New": "31.66",
+          "Minimal Wear": "21.28",
+          "Field-Tested": "14.89",
+          "Well-Worn": "11.88",
+          "Battle-Scarred": "10.74"
+        },
         "lore": "X__X",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -429,9 +646,21 @@
       },
       {
         "name": "M4A4 | Cyber Security",
+        "id": "1299",
         "desc": "Diagonal bands of blue, red, and gold have been custom painted over this M4's black base.",
+        "prices": {
+          "StatTrak Factory New": "90.45",
+          "StatTrak Minimal Wear": "40.19",
+          "StatTrak Field-Tested": "16.91",
+          "StatTrak Well-Worn": "14.37",
+          "StatTrak Battle-Scarred": "13.02",
+          "Factory New": "46.76",
+          "Minimal Wear": "21.76",
+          "Field-Tested": "14.53",
+          "Well-Worn": "10.94",
+          "Battle-Scarred": "9.47"
+        },
         "lore": "AVAILABLE NOW AT YOUR LOCAL CYBERNETICS RETAILER",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -446,9 +675,21 @@
     "Restricted Skins": [
       {
         "name": "AWP | Exoskeleton",
+        "id": "1293",
         "desc": "The metal on this AWP has been intricately pressed with patterns of interlocking skulls.",
+        "prices": {
+          "StatTrak Factory New": "25.50",
+          "StatTrak Minimal Wear": "9.69",
+          "StatTrak Field-Tested": "5.59",
+          "StatTrak Well-Worn": "5.07",
+          "StatTrak Battle-Scarred": "4.87",
+          "Factory New": "8.12",
+          "Minimal Wear": "3.51",
+          "Field-Tested": "2.26",
+          "Well-Worn": "2.01",
+          "Battle-Scarred": "1.80"
+        },
         "lore": "Full tilt",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -460,25 +701,22 @@
         }
       },
       {
-        "name": "UMP-45 | Gold Bismuth",
-        "desc": "A gold bismuth pattern has been sandwiched between white and black base coats.",
-        "lore": "\"You have expensive taste…\"",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf1OD3ZDBS09u5mIS0lf7nPq7FnlRd4cJ5ntbN9J7yjRq3-0o6MmyhJICUdVI_MlzY_Fa9xr3m18Puv5Sfznsx73Mh5HnfnkHkn1gSOTwvrMJl/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf1OD3ZDBS09u5mIS0lf7nPq7FnlRd4cJ5ntbN9J7yjRq3-0o6MmyhJICUdVI_MlzY_Fa9xr3m18Puv5Sfznsx73Mh5HnfnkHkn1gSOTwvrMJl/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf1OD3ZDBS09u5mIS0lf7nPq7FnlRc7cF4n-T--Y3nj1H6_kFuNziiIoDHJAU3Ml-GqFfrwennhp-_78mfzydmvnUn5y2OmRa_iAYMMLIkmy2ASA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf1OD3ZDBS09u5mIS0lf7nPq7FnlRc7cF4n-T--Y3nj1H6_kFuNziiIoDHJAU3Ml-GqFfrwennhp-_78mfzydmvnUn5y2OmRa_iAYMMLIkmy2ASA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf1OD3ZDBS09u5mIS0lf7nPq7FnlRZ7cRnk9bN9J7yjRqx_xI_ZW6ld47DegI-N13UqAC_w7zng5a0u8_PyyZqu3Z0sy7fzEHkn1gSOfcGy4Fs/512fx384f"
-        }
-      },
-      {
         "name": "Dual Berettas | Dezastre",
+        "id": "1294",
         "desc": "It has been custom painted with a high tech black, white, and red design.",
+        "prices": {
+          "StatTrak Factory New": "9.35",
+          "StatTrak Minimal Wear": "4.79",
+          "StatTrak Field-Tested": "2.76",
+          "StatTrak Well-Worn": "2.08",
+          "StatTrak Battle-Scarred": "1.85",
+          "Factory New": "4.55",
+          "Minimal Wear": "2.80",
+          "Field-Tested": "2.04",
+          "Well-Worn": "1.67",
+          "Battle-Scarred": "1.52"
+        },
         "lore": "Always follow manufacturer guidelines for safe use",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -490,25 +728,49 @@
         }
       },
       {
-        "name": "SSG 08 | Parallax",
-        "desc": "The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.",
-        "lore": "Shoot twice, kill once",
-        "date_added": "3 December 2020",
+        "name": "UMP-45 | Gold Bismuth",
+        "id": "1297",
+        "desc": "A gold bismuth pattern has been sandwiched between white and black base coats.",
+        "prices": {
+          "StatTrak Factory New": "8.41",
+          "StatTrak Minimal Wear": "4.91",
+          "StatTrak Field-Tested": "2.45",
+          "StatTrak Well-Worn": "3.24",
+          "StatTrak Battle-Scarred": "1.79",
+          "Factory New": "4.33",
+          "Minimal Wear": "2.76",
+          "Field-Tested": "2.00",
+          "Well-Worn": "1.76",
+          "Battle-Scarred": "1.55"
+        },
+        "lore": "\"You have expensive taste…\"",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWdY781lteXA54vwxgLirUZsZTyhcY-RdVQ4aQmGq1Dqwr_p1sTu6MnBwHNl6CAn4SnVm0SpwUYbg4QLWnY/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWdY781lteXA54vwxgLirUZsZTyhcY-RdVQ4aQmGq1Dqwr_p1sTu6MnBwHNl6CAn4SnVm0SpwUYbg4QLWnY/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWZU7Mxkh9bN9J7yjRrl-0NuZWD6IdKUIVM8Y17V_wLsw7_m05C0tMzOynVrs3QnsyuJlxzjn1gSObdx-fQC/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWZU7Mxkh9bN9J7yjRrl-0NuZWD6IdKUIVM8Y17V_wLsw7_m05C0tMzOynVrs3QnsyuJlxzjn1gSObdx-fQC/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWNU6dNoteXA54vwxg21qUc5ZGGlLY6WcwA7M1HW8wK4lezv1sC07pmfzXVr6yci4XnelxOpwUYbUKzrwd4/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf1OD3ZDBS09u5mIS0lf7nPq7FnlRd4cJ5ntbN9J7yjRq3-0o6MmyhJICUdVI_MlzY_Fa9xr3m18Puv5Sfznsx73Mh5HnfnkHkn1gSOTwvrMJl/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf1OD3ZDBS09u5mIS0lf7nPq7FnlRd4cJ5ntbN9J7yjRq3-0o6MmyhJICUdVI_MlzY_Fa9xr3m18Puv5Sfznsx73Mh5HnfnkHkn1gSOTwvrMJl/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf1OD3ZDBS09u5mIS0lf7nPq7FnlRc7cF4n-T--Y3nj1H6_kFuNziiIoDHJAU3Ml-GqFfrwennhp-_78mfzydmvnUn5y2OmRa_iAYMMLIkmy2ASA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf1OD3ZDBS09u5mIS0lf7nPq7FnlRc7cF4n-T--Y3nj1H6_kFuNziiIoDHJAU3Ml-GqFfrwennhp-_78mfzydmvnUn5y2OmRa_iAYMMLIkmy2ASA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf1OD3ZDBS09u5mIS0lf7nPq7FnlRZ7cRnk9bN9J7yjRqx_xI_ZW6ld47DegI-N13UqAC_w7zng5a0u8_PyyZqu3Z0sy7fzEHkn1gSOfcGy4Fs/512fx384f"
         }
       },
       {
         "name": "Nova | Clear Polymer",
+        "id": "1295",
         "desc": "It has been custom painted to look like its casing is transparent, allowing you to see inside the weapon.",
+        "prices": {
+          "StatTrak Factory New": "8.77",
+          "StatTrak Minimal Wear": "4.67",
+          "StatTrak Field-Tested": "2.46",
+          "StatTrak Well-Worn": "1.95",
+          "StatTrak Battle-Scarred": "1.77",
+          "Factory New": "4.67",
+          "Minimal Wear": "2.89",
+          "Field-Tested": "2.00",
+          "Well-Worn": "1.69",
+          "Battle-Scarred": "1.46"
+        },
         "lore": "Your goals are clear",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -518,59 +780,53 @@
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD08y5mJmGkuXLPr7Vn35c18lwmO7Eu4r20A3krkZsNzylcISRJgA9YQrZ-FK2x-juhJC875rNmHY1unYgtnnD30vgAImkXXs/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD08y5mJmGkuXLO77QgHJu5MRjjeyP996t2QS28hVsYm7ycdTDIA86Nw6GqwO2wru50ZC6vZifyHQxuHQjtmGdwULFg2aiEA/512fx384f"
         }
+      },
+      {
+        "name": "SSG 08 | Parallax",
+        "id": "1296",
+        "desc": "The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.",
+        "prices": {
+          "StatTrak Factory New": "14.76",
+          "StatTrak Minimal Wear": "5.92",
+          "StatTrak Field-Tested": "2.85",
+          "StatTrak Well-Worn": "2.21",
+          "StatTrak Battle-Scarred": "2.13",
+          "Factory New": "4.78",
+          "Minimal Wear": "3.04",
+          "Field-Tested": "2.02",
+          "Well-Worn": "1.78",
+          "Battle-Scarred": "1.68"
+        },
+        "lore": "Shoot twice, kill once",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWdY781lteXA54vwxgLirUZsZTyhcY-RdVQ4aQmGq1Dqwr_p1sTu6MnBwHNl6CAn4SnVm0SpwUYbg4QLWnY/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWdY781lteXA54vwxgLirUZsZTyhcY-RdVQ4aQmGq1Dqwr_p1sTu6MnBwHNl6CAn4SnVm0SpwUYbg4QLWnY/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWZU7Mxkh9bN9J7yjRrl-0NuZWD6IdKUIVM8Y17V_wLsw7_m05C0tMzOynVrs3QnsyuJlxzjn1gSObdx-fQC/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWZU7Mxkh9bN9J7yjRrl-0NuZWD6IdKUIVM8Y17V_wLsw7_m05C0tMzOynVrs3QnsyuJlxzjn1gSObdx-fQC/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJl4iZmPr1J7LSqWNU6dNoteXA54vwxg21qUc5ZGGlLY6WcwA7M1HW8wK4lezv1sC07pmfzXVr6yci4XnelxOpwUYbUKzrwd4/512fx384f"
+        }
       }
     ],
     "Mil-Spec Skins": [
       {
-        "name": "P250 | Contaminant",
-        "desc": "Its maroon top coat has been eaten away, leaving a decaying weapon with limited remaining uses.",
-        "lore": "It's only as bad as it looks",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09W4koWIg8j4OrzZglRd6dd2j6eTptnx0VLlr0M5NTr0ctOSdgE6aVjY_wTtlebogJK87Z3KmHZmvyF2-z-DyPRmpxJ8/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09W4koWIg8j4OrzZglRd6dd2j6eTptnx0VLlr0M5NTr0ctOSdgE6aVjY_wTtlebogJK87Z3KmHZmvyF2-z-DyPRmpxJ8/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09W4koWIg8j5Nr_Yg2Zu5MRjjeyPoo6i3gywr0I-ajugJIOcIFM2YQ3SqAW5xerohcW_7s_LwSFrvnEi7WGdwULF_oaDfA/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09W4koWIg8j5Nr_Yg2Zu5MRjjeyPoo6i3gywr0I-ajugJIOcIFM2YQ3SqAW5xerohcW_7s_LwSFrvnEi7WGdwULF_oaDfA/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09W4koWIg8j8NrrHj1Rd6dd2j6eU8Ij0jQXt-hVpYG7xLNeXcFA6NVjSrFPvlezshJO0uZXMy3tn73Qr-z-DyKl8m28n/512fx384f"
-        }
-      },
-      {
-        "name": "M249 | Deep Relief",
-        "desc": "A sand-colored top layer gives way to darker greens the deeper you go. This is a custom paint job you can feel.",
-        "lore": "How many bullets to get to the center?",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb09izkZC0hfL4Or7XqWdY781lteXA54vwxgbm_BJsYmzyLNCRd1VsM16B_lK3ye-6hpDuu5ufz3JksiV07H_VmkepwUYb-wiXbAo/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb09izkZC0hfL4Or7XqWdY781lteXA54vwxgbm_BJsYmzyLNCRd1VsM16B_lK3ye-6hpDuu5ufz3JksiV07H_VmkepwUYb-wiXbAo/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb09izkZC0hfL4Or7XqWZU7Mxkh9bN9J7yjRrt8hFoZm37I9eXIQdrZ1nY-Vfrx-3pjZa_tcjBmyEx7CUn5C6OzRK2n1gSOTJlWsE8/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb09izkZC0hfL4Or7XqWZU7Mxkh9bN9J7yjRrt8hFoZm37I9eXIQdrZ1nY-Vfrx-3pjZa_tcjBmyEx7CUn5C6OzRK2n1gSOTJlWsE8/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb09izkZC0hfL4Or7XqWNU6dNoteXA54vwxlWwqkVtZWH2I46SdAA4aQ3X-FK6yL_t1sC9upvKmnNr7yYl4CrcmUCpwUYb3BSVwBY/512fx384f"
-        }
-      },
-      {
-        "name": "G3SG1 | Digital Mesh",
-        "desc": "It has been painted with a custom red, white, and charcoal-colored DDPAT pattern.",
-        "lore": "Disruptingly intricate",
-        "date_added": "3 December 2020",
-        "can_be_souvenir": false,
-        "can_be_stattrak": true,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642JkImYheLkJ4Tdn2xZ_Pp9i_vG8MKm0QewqUY_YjjyIIXEJgFoMlGF-QK6w7_o0Ze778zBz3Iw7yQr5S6PgVXp1pWKJBRH/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642JkImYheLkJ4Tdn2xZ_Pp9i_vG8MKm0QewqUY_YjjyIIXEJgFoMlGF-QK6w7_o0Ze778zBz3Iw7yQr5S6PgVXp1pWKJBRH/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642JkImYheLkJ4Tck29Y_chOhujT8om73VK1-0dvZzqiJIKQIANtZg7Q8li7lejvh5O87ZzIzXtrsiYltCzenQv330-NNlTldw/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642JkImYheLkJ4Tck29Y_chOhujT8om73VK1-0dvZzqiJIKQIANtZg7Q8li7lejvh5O87ZzIzXtrsiYltCzenQv330-NNlTldw/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642JkImYheLkJ4TZk2pH8fp9i_vG8MKji1DkrxBpZG_wcY6Ue1VoZV2GqwO-lbjsh8Xo7pXNmHQ2viIn53zagVXp1lBg2t0E/512fx384f"
-        }
-      },
-      {
         "name": "P90 | Cocoa Rampage",
+        "id": "1287",
         "desc": "An olive and gold-colored hydrographic pattern of cartoon dinosaurs has been applied.",
+        "prices": {
+          "StatTrak Factory New": "1.68",
+          "StatTrak Minimal Wear": "0.83",
+          "StatTrak Field-Tested": "0.37",
+          "StatTrak Well-Worn": "0.50",
+          "StatTrak Battle-Scarred": "0.30",
+          "Factory New": "0.65",
+          "Minimal Wear": "0.41",
+          "Field-Tested": "0.26",
+          "Well-Worn": "0.23",
+          "Battle-Scarred": "0.20"
+        },
         "lore": "Dinosaurs and aliens and comets, oh my!",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -582,10 +838,49 @@
         }
       },
       {
+        "name": "P250 | Contaminant",
+        "id": "1290",
+        "desc": "Its maroon top coat has been eaten away, leaving a decaying weapon with limited remaining uses.",
+        "prices": {
+          "StatTrak Factory New": "1.75",
+          "StatTrak Minimal Wear": "0.89",
+          "StatTrak Field-Tested": "0.38",
+          "StatTrak Well-Worn": "0.76",
+          "StatTrak Battle-Scarred": "0.30",
+          "Factory New": "0.66",
+          "Minimal Wear": "0.41",
+          "Field-Tested": "0.27",
+          "Well-Worn": "0.28",
+          "Battle-Scarred": "0.19"
+        },
+        "lore": "It's only as bad as it looks",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09W4koWIg8j4OrzZglRd6dd2j6eTptnx0VLlr0M5NTr0ctOSdgE6aVjY_wTtlebogJK87Z3KmHZmvyF2-z-DyPRmpxJ8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09W4koWIg8j4OrzZglRd6dd2j6eTptnx0VLlr0M5NTr0ctOSdgE6aVjY_wTtlebogJK87Z3KmHZmvyF2-z-DyPRmpxJ8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09W4koWIg8j5Nr_Yg2Zu5MRjjeyPoo6i3gywr0I-ajugJIOcIFM2YQ3SqAW5xerohcW_7s_LwSFrvnEi7WGdwULF_oaDfA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09W4koWIg8j5Nr_Yg2Zu5MRjjeyPoo6i3gywr0I-ajugJIOcIFM2YQ3SqAW5xerohcW_7s_LwSFrvnEi7WGdwULF_oaDfA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszYI2gS09W4koWIg8j8NrrHj1Rd6dd2j6eU8Ij0jQXt-hVpYG7xLNeXcFA6NVjSrFPvlezshJO0uZXMy3tn73Qr-z-DyKl8m28n/512fx384f"
+        }
+      },
+      {
         "name": "CZ75-Auto | Vendetta",
+        "id": "1286",
         "desc": "Through the years it has been etched into, drawn on, and hardened with use.",
+        "prices": {
+          "StatTrak Factory New": "2.27",
+          "StatTrak Minimal Wear": "0.74",
+          "StatTrak Field-Tested": "0.34",
+          "StatTrak Well-Worn": "0.28",
+          "StatTrak Battle-Scarred": "0.29",
+          "Factory New": "0.70",
+          "Minimal Wear": "0.39",
+          "Field-Tested": "0.26",
+          "Well-Worn": "0.20",
+          "Battle-Scarred": "0.19"
+        },
         "lore": "From my cold, dead hands",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -598,9 +893,21 @@
       },
       {
         "name": "Galil AR | Vandal",
+        "id": "1289",
         "desc": "Its green base coat has been covered with scattered white drawings.",
+        "prices": {
+          "StatTrak Factory New": "2.60",
+          "StatTrak Minimal Wear": "0.76",
+          "StatTrak Field-Tested": "0.40",
+          "StatTrak Well-Worn": "0.32",
+          "StatTrak Battle-Scarred": "0.31",
+          "Factory New": "0.78",
+          "Minimal Wear": "0.39",
+          "Field-Tested": "0.28",
+          "Well-Worn": "0.21",
+          "Battle-Scarred": "0.20"
+        },
         "lore": "Each drawing tells a story, some more memorable than others",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -612,10 +919,49 @@
         }
       },
       {
+        "name": "G3SG1 | Digital Mesh",
+        "id": "1288",
+        "desc": "It has been painted with a custom red, white, and charcoal-colored DDPAT pattern.",
+        "prices": {
+          "StatTrak Factory New": "2.03",
+          "StatTrak Minimal Wear": "0.73",
+          "StatTrak Field-Tested": "0.32",
+          "StatTrak Well-Worn": "0.36",
+          "StatTrak Battle-Scarred": "0.29",
+          "Factory New": "0.69",
+          "Minimal Wear": "0.37",
+          "Field-Tested": "0.27",
+          "Well-Worn": "0.43",
+          "Battle-Scarred": "0.23"
+        },
+        "lore": "Disruptingly intricate",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642JkImYheLkJ4Tdn2xZ_Pp9i_vG8MKm0QewqUY_YjjyIIXEJgFoMlGF-QK6w7_o0Ze778zBz3Iw7yQr5S6PgVXp1pWKJBRH/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642JkImYheLkJ4Tdn2xZ_Pp9i_vG8MKm0QewqUY_YjjyIIXEJgFoMlGF-QK6w7_o0Ze778zBz3Iw7yQr5S6PgVXp1pWKJBRH/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642JkImYheLkJ4Tck29Y_chOhujT8om73VK1-0dvZzqiJIKQIANtZg7Q8li7lejvh5O87ZzIzXtrsiYltCzenQv330-NNlTldw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642JkImYheLkJ4Tck29Y_chOhujT8om73VK1-0dvZzqiJIKQIANtZg7Q8li7lejvh5O87ZzIzXtrsiYltCzenQv330-NNlTldw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642JkImYheLkJ4TZk2pH8fp9i_vG8MKji1DkrxBpZG_wcY6Ue1VoZV2GqwO-lbjsh8Xo7pXNmHQ2viIn53zagVXp1lBg2t0E/512fx384f"
+        }
+      },
+      {
         "name": "MP5-SD | Condition Zero",
+        "id": "1292",
         "desc": "Its blue and yellow custom paint job pays homage to Counter-Strike: Condition Zero.",
+        "prices": {
+          "StatTrak Factory New": "2.49",
+          "StatTrak Minimal Wear": "0.74",
+          "StatTrak Field-Tested": "0.34",
+          "StatTrak Well-Worn": "0.27",
+          "StatTrak Battle-Scarred": "0.27",
+          "Factory New": "0.75",
+          "Minimal Wear": "0.37",
+          "Field-Tested": "0.27",
+          "Well-Worn": "0.20",
+          "Battle-Scarred": "0.19"
+        },
         "lore": "\"RPG from three o'clock! Evade!\"",
-        "date_added": "3 December 2020",
         "can_be_souvenir": false,
         "can_be_stattrak": true,
         "wears": {
@@ -624,6 +970,33 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09-5moSCg_77PaHUhGRu5cB1g_zMyoD0mlOx5UE_N2H6LICRdAE6aF3SrlDqlb3m0cXvusicwCY2s3Ul5yrfmUbihRhSLrs4_Gtj-mU/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09-5moSCg_77PaHUhGRu5cB1g_zMyoD0mlOx5UE_N2H6LICRdAE6aF3SrlDqlb3m0cXvusicwCY2s3Ul5yrfmUbihRhSLrs4_Gtj-mU/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09-5moSCg_77PaHUhGRu4MBwnPD--Y3nj1H6qkNpYmD0IoLDIFU6M17YqQLrkOu-1MTqtc7Am3MyvSkitHjbnBKyggYMMLKcceGvsw/512fx384f"
+        }
+      },
+      {
+        "name": "M249 | Deep Relief",
+        "id": "1291",
+        "desc": "A sand-colored top layer gives way to darker greens the deeper you go. This is a custom paint job you can feel.",
+        "prices": {
+          "StatTrak Factory New": "1.80",
+          "StatTrak Minimal Wear": "0.80",
+          "StatTrak Field-Tested": "0.34",
+          "StatTrak Well-Worn": "0.29",
+          "StatTrak Battle-Scarred": "0.29",
+          "Factory New": "0.69",
+          "Minimal Wear": "0.37",
+          "Field-Tested": "0.26",
+          "Well-Worn": "0.20",
+          "Battle-Scarred": "0.18"
+        },
+        "lore": "How many bullets to get to the center?",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb09izkZC0hfL4Or7XqWdY781lteXA54vwxgbm_BJsYmzyLNCRd1VsM16B_lK3ye-6hpDuu5ufz3JksiV07H_VmkepwUYb-wiXbAo/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb09izkZC0hfL4Or7XqWdY781lteXA54vwxgbm_BJsYmzyLNCRd1VsM16B_lK3ye-6hpDuu5ufz3JksiV07H_VmkepwUYb-wiXbAo/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb09izkZC0hfL4Or7XqWZU7Mxkh9bN9J7yjRrt8hFoZm37I9eXIQdrZ1nY-Vfrx-3pjZa_tcjBmyEx7CUn5C6OzRK2n1gSOTJlWsE8/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb09izkZC0hfL4Or7XqWZU7Mxkh9bN9J7yjRrt8hFoZm37I9eXIQdrZ1nY-Vfrx-3pjZa_tcjBmyEx7CUn5C6OzRK2n1gSOTJlWsE8/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb09izkZC0hfL4Or7XqWNU6dNoteXA54vwxlWwqkVtZWH2I46SdAA4aQ3X-FK6yL_t1sC9upvKmnNr7yYl4CrcmUCpwUYb3BSVwBY/512fx384f"
         }
       }
     ],
